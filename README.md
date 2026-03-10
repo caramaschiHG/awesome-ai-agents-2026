@@ -72,6 +72,7 @@
 | [Aider](https://github.com/paul-gauthier/aider) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
+| [Stoneforge](https://stoneforge.ai) | Open-source multi-agent orchestration. Parallel agents, automatic dispatch, merge, recovery. | Self-hosted |
 | [Kilo Code](https://kilocode.ai) | Emerging. Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 
