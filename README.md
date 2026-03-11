@@ -274,6 +274,7 @@
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) automation. 40+ tools: search, extraction, metrics, draws. MCP server, REST API, webhooks. | Free / $20/mo |
 
 ### No-Code Agent Builders
 
