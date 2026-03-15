@@ -62,6 +62,7 @@
 | [Tabnine](https://www.tabnine.com/) | Privacy-first. On-premise option. Fine-tuned on your codebase. | Free / $12/mo |
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.5 access. Learning-focused. | Free |
+| [querybear.com](https://querybear.com) | Ask your data anything – with persistent memory, schema learning, and more. MCP server included. | Free / Paid |
 
 ### Terminal and CLI Agents
 
