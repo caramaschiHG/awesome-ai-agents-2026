@@ -138,6 +138,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [Voidly Agent Relay](https://voidly.ai/agents) | JS/Py | E2E encrypted agent messaging. Double Ratchet, X3DH, ML-KEM-768 post-quantum. MCP server (83 tools). A2A compatible. |
 
 ### Lightweight / Minimalist
 
