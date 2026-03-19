@@ -411,6 +411,7 @@
 
 | Protocol | Description |
 |----------|-------------|
+- [APIbase](https://apibase.pro) - Universal MCP gateway — 200+ tools across flights, stocks, news, maps, legal, OCR, image gen, email, SMS. x402 USDC micropayments on Base. One endpoint for any AI agent.
 | [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Industry standard for tools. |
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
