@@ -199,6 +199,7 @@
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
+| [Vocova](https://vocova.app) | AI transcription with SRT/VTT subtitle generation, 100+ languages, URL import from 1000+ platforms, speaker diarization | Freemium |
 
 ### Open-Source Voice
 
