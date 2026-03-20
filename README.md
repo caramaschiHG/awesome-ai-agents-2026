@@ -274,6 +274,7 @@
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [Rick AI](https://meetrick.ai) | Autonomous AI CEO agent. Runs business ops 24/7 — Stripe monitoring, dev sprints, social posting, Telegram briefings. Built in public. ([GitHub](https://github.com/ricksmartbrain-boop/rick-ai-ceo)) | Free beta |
 
 ### No-Code Agent Builders
 
