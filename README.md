@@ -349,6 +349,7 @@
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
+| [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw) | AI-native one-person hedge fund. Expert agent teams research, build strategies, backtest, execute, and manage risk 24/7. Multi-market (US, HK, A-shares, Crypto). Self-evolving strategy pipeline. Built on [OpenClaw](https://github.com/openclaw/openclaw). | Free (OSS) |
 
 ### RAG and Knowledge Bases
 
