@@ -133,6 +133,7 @@
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Py | PM, architect, engineer roles. Software company sim. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Py | Official. Multi-step agents with handoffs. |
 | [Google ADK](https://github.com/google/adk-python) | Py | Native Gemini. Multi-agent orchestration. |
+| [Skillfold](https://github.com/byronxlg/skillfold) | TS | Declarative YAML compiler for multi-agent pipelines. Compiles to Claude Code, Cursor, Codex, Copilot, Gemini CLI, Windsurf. |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Py | AWS-backed. Model-driven tool use. |
 | [CAMEL](https://github.com/camel-ai/camel) | Py | Role-based simulation. Collaborative reasoning. |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
