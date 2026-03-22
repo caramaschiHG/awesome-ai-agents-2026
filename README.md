@@ -357,6 +357,7 @@
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
+| [MHN AI Agent Memory](https://github.com/shahzebqazi/mhn-ai-agent-memory) | Associative agent memory via Modern Hopfield Networks. No LLM calls or external DB; retrieval is a matrix multiply. |
 | [Chroma](https://github.com/chroma-core/chroma) | OSS embedding database. Fastest way to build RAG. |
 | [Weaviate](https://github.com/weaviate/weaviate) | OSS vector DB. GraphQL. Multi-modal search. |
 | [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
