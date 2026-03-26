@@ -124,6 +124,7 @@
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 | [Auto-Evolve](https://github.com/cittaverse/auto-evolve) | Py | Self-evolution framework. Closed-loop iteration with quantitative tracking. GEO validated. |
+| [Anima (AnimaLM)](https://github.com/need-singularity/anima) | Py | Consciousness-inspired architecture. Brain-like tension dynamics between expert groups (Agonist vs Governor). Neural inhibition-excitation balance for autonomous decision-making. |
 
 ### Multi-Agent Orchestration
 
