@@ -417,6 +417,11 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [x402](https://x402.org) | Coinbase HTTP 402 payment protocol for machine-to-machine payments. |
+| [MPP (Machine Payments Protocol)](https://stripe.com/blog/machine-payments-protocol) | Stripe + Tempo open standard for AI agent payments. Visa, Mastercard, Anthropic, OpenAI. |
+| [AP2 (Agent Payments Protocol)](https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/) | Google protocol for agent-initiated payments. |
+| [AsterPay](https://asterpay.io) | Trust and settlement layer for AI agents. KYA trust scoring, EUR settlement via SEPA Instant. Supports x402 + MPP + AP2. |
+| [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) | Ethereum standard for AI agent identity registration. 24,500+ agents. |
 
 ---
 
