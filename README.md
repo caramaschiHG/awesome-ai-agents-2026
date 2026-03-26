@@ -123,6 +123,7 @@
 | [DSPy](https://github.com/stanfordnlp/dspy) | Py | Stanford. Programming not prompting. Auto-optimizes. |
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
+| [Auto-Evolve](https://github.com/cittaverse/auto-evolve) | Py | Self-evolution framework. Closed-loop iteration with quantitative tracking. GEO validated. |
 
 ### Multi-Agent Orchestration
 
