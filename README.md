@@ -274,6 +274,7 @@
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [VOLO](https://www.flyvolo.ai/) | Agent-Native private aviation. MCP server, REST API, CLI, AI concierge (14 tools), NLP flight parsing. | Free API |
 
 ### No-Code Agent Builders
 
