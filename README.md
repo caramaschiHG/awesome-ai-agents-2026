@@ -85,6 +85,7 @@
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. | xAI sub |
 | [Kiro](https://kiro.dev) | Spec-driven development. DevOps automation. | Beta |
+| [AIDE](https://github.com/WecoAI/aideml) | Weco AI. Tree-search agent for ML engineering. Autonomously writes, tests, and optimizes ML code. Top MLE-bench scores. | Free (OSS) |
 
 ### Code Review and Security
 
