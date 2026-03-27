@@ -469,6 +469,7 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [AIR Blackbox](https://github.com/airblackbox/gateway) | EU AI Act compliance scanner. Tamper-evident HMAC-SHA256 audit chains, PII detection, injection blocking. Trust layers for 6 frameworks. |
 
 ---
 
