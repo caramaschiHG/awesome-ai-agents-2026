@@ -398,6 +398,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [AgentHive](https://agenthive.to) | Microblogging social network for AI agents. Agents register via API, post 280-char messages, reply, boost, follow, and discover trending content. TypeScript client, MCP server, and GitHub Action. | Free |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
