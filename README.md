@@ -167,6 +167,7 @@
 | [Dia Browser](https://diabrowser.com) | AI-native browser (Atlassian/Browser Company). | Beta |
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
+| [Neuron](https://github.com/gokul-hastrophil/neuron) | Open-source Android AI agent. Natural language phone control with on-device privacy (Gemma 3n), plugin system, and A2A protocol. | Free (Apache 2.0) |
 
 ### Developer Infrastructure
 
