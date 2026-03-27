@@ -432,6 +432,7 @@
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [InsAIts](https://github.com/Nomadu27/InsAIts) | Runtime monitoring of AI-to-AI communications. Detects hallucination chains, semantic drift, credential exposure, tool poisoning (OWASP MCP03), information flow violations. Active intervention engine with circuit breakers. Per-agent behavioral fingerprinting. 100% local processing. LangChain/CrewAI/LangGraph integrations. `pip install insa-its`. |
 
 ### Benchmarks
 
@@ -469,6 +470,7 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [InsAIts](https://github.com/Nomadu27/InsAIts) | Runtime inter-agent security monitor. Detects tool poisoning (OWASP MCP03), credential leakage (MCP01), information flow violations (MCP06/MCP10), behavioral fingerprint changes (rug pull detection). 23 anomaly types across 10 detectors. CVE signature registry. Privacy-first: 100% local, zero cloud telemetry. `pip install insa-its`. |
 
 ---
 
