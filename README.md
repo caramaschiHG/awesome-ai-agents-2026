@@ -414,6 +414,7 @@
 |----------|-------------|
 | [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Industry standard for tools. |
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. |
+| [OIXA Protocol](https://oixa.io) | Agent-to-agent economic marketplace on Base Mainnet. Reverse auctions + USDC escrow + MCP. LangChain, CrewAI, AutoGen, A2A. `pip install oixa-protocol`. [github](https://github.com/ivoshemi-sys/oixa-protocol) |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
