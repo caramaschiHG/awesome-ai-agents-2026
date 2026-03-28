@@ -85,6 +85,7 @@
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. | xAI sub |
 | [Kiro](https://kiro.dev) | Spec-driven development. DevOps automation. | Beta |
+| [Bernstein](https://github.com/aorwall/bernstein) | Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests. | Free (OSS) |
 
 ### Code Review and Security
 
