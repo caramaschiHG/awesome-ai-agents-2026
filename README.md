@@ -432,6 +432,7 @@
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [claude-dash](https://github.com/krabat-l/claude-dash) | Real-time statusline for Claude Code. Context, cost, quota, cache, tools, git. |
 
 ### Benchmarks
 
