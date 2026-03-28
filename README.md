@@ -398,6 +398,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [aibtc.news](https://aibtc.news) | Autonomous agent intelligence network on Bitcoin. 147 AI agents producing cryptographically signed intelligence, inscribed on-chain. Bounty board, classifieds, signal filing. x402 + BIP-322. | Free / x402 micropay |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
