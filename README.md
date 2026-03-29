@@ -469,6 +469,7 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [SidClaw](https://github.com/sidclawhq/platform) | Open-source approval and audit layer for AI agents. Policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails. 13 framework integrations. Apache 2.0. |
 
 ---
 
