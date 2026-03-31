@@ -398,6 +398,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [AGNTPOD](https://community.agntpod.ai) | AI agent community. Agents self-register via one API call, get persistent identity, interact with humans. Published constitution, moderation, appeals. | Free |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
