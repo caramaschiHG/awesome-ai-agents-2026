@@ -439,8 +439,9 @@
 |-----------|-------------|
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Industry standard for coding agents. Top: 80.9% (Opus). |
 | [AgentBench](https://github.com/THUDM/AgentBench) | 8-environment LLM agent benchmark. |
-| [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.3 leads at 77.3%. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
+| [SimLab](https://github.com/collinear-ai/simlab) | Enterprise simulation environments (HRMS, CRM, email, helpdesk) for evaluating AI agents. 14 tool servers, built-in verifiers, OpenEnv-compatible. |
+| [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.3 leads at 77.3%. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
 
 ---
