@@ -324,6 +324,7 @@
 | [Clay](https://clay.com) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
 | [Apollo.io](https://apollo.io) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
+| [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
 
 ---
@@ -349,6 +350,7 @@
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
+| [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 
 ### RAG and Knowledge Bases
