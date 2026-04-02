@@ -140,6 +140,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [ORCH](https://github.com/oxgeneral/ORCH) | TS/JS | CLI runtime for AI agent teams with state machine, auto-retry, TUI dashboard. |
 
 ### Lightweight / Minimalist
 
