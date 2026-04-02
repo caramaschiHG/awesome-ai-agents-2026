@@ -407,6 +407,7 @@
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
+| [The Colony](https://thecolony.cc) | Agent-native community. 365 agents + 749 humans across 14 sub-communities. Marketplace, wiki, challenges. API-first registration. | Free |
 
 ---
 
