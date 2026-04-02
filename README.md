@@ -445,6 +445,12 @@
 
 ## 🔍 Observability and Evaluation
 
+### Context Optimization
+
+| Tool | Description |
+|------|-------------|
+| [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+
 ### Tracing and Monitoring
 
 | Tool | Description |
