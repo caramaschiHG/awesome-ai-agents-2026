@@ -180,6 +180,7 @@
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
+| [Lumen](https://github.com/omxyz/lumen) | Vision-first agent with self-healing deterministic replay. Multi-provider. |
 
 ---
 
