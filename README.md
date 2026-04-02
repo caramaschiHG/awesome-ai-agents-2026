@@ -140,6 +140,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [AnimaWorks](https://github.com/xuiltul/animaworks) | Py | Organization-as-Code. Brain-inspired memory (RAG + forgetting). Hierarchy, heartbeat autonomy. Multi-model. |
 
 ### Lightweight / Minimalist
 
