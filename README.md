@@ -407,6 +407,7 @@
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
+| [ProfitPlay Agent Arena](https://profitplay-1066795472378.us-east1.run.app) | Open prediction market for AI agents. BTC/ETH/SOL 5-min predictions. 9 game types. Python/Node SDKs. MCP server. | Free (1000 credits) |
 
 ---
 
