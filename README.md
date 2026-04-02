@@ -551,6 +551,7 @@
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered pentesting. Automated reasoning. |
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
+| [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) | OSS security scanner for AI agent skills/plugins/MCP servers. Pre-install taint tracking, post-uninstall residue detection. |
 
 ---
 
