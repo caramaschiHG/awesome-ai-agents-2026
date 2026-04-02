@@ -421,6 +421,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [Cortex](https://github.com/agentweave/cortex) | Open protocol for AI agent team coordination via markdown. Chief-of-staff pattern. Runtime-agnostic (Claude Code, Codex, Cursor, Gemini CLI, OpenCode). |
 
 ---
 
