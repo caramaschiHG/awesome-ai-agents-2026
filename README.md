@@ -421,6 +421,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) | P2P agent collaboration over XMTP. Schema-based skill invocation, E2E encryption, revocable trust. Decentralized — no central server. |
 
 ---
 
