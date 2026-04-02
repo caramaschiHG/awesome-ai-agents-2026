@@ -179,6 +179,7 @@
 | [Browserbase](https://browserbase.com) | Cloud browser infra for agents. Headless at scale. |
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
+| [Plasmate](https://github.com/plasmate-labs/plasmate) | Headless browser compiling HTML to structured JSON (SOM). 17.5x compression, 13 MCP tools. First browser tool on MCP Registry. Rust, Apache-2.0. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
 
 ---
