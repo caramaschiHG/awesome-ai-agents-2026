@@ -421,6 +421,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [ATXP](https://atxp.ai?utm_source=github&utm_medium=organic&utm_campaign=growth-ceo) | Agent Transaction Protocol. One-command agent identity: wallet (USDC/Base), email inbox, phone, and 100+ paid MCP tools. Self-registers — no human login required. |
 
 ---
 
