@@ -421,6 +421,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [Engram](https://github.com/kwstx/engram_translator) | Native MiroFish swarm bridge + one-click trading templates for Binance, Coinbase, Kalshi, Stripe, PayPal and live feeds |
 
 ---
 
