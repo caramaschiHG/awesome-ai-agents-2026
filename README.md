@@ -43,6 +43,7 @@
 - [AI Safety and Guardrails](#-ai-safety--guardrails)
 - [AI Governance and Compliance](#-ai-governance--compliance) ⭐ NEW
 - [Cybersecurity Agents](#-cybersecurity-agents)
+- [Healthcare and Therapy Agents](#-healthcare-and-therapy-agents)
 - [Learning Resources](#-learning-resources)
 - [Newsletters and Communities](#-newsletters--communities)
 - [Market Stats 2026](#-market-stats-2026)
@@ -517,6 +518,25 @@
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered pentesting. Automated reasoning. |
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
+
+---
+
+## 🏥 Healthcare and Therapy Agents
+
+| Agent | Description | Pricing |
+|-------|-------------|---------|
+| [CittaVerse 一念万相](https://github.com/cittaverse/core) | AI-assisted reminiscence therapy for elderly cognitive training. Narrative quality scoring (v0.7), life story book generation. Chinese + English. | Research pilot |
+| [Woebot](https://woebothealth.com) | CBT-based mental health chatbot. FDA-cleared. Stanford-validated. Retiring June 2025. | Free / B2B |
+| [Wysa](https://wysa.io) | AI mental health companion. CBT, DBT, meditation. NHS-approved. Anonymous by design. | Free / $74.99/yr |
+| [Youper](https://youper.ai) | Emotional health assistant. CBT + ACT. Mood tracking. Stanford-tested clinically effective. | 7-day trial / $69.99/yr |
+| [Sanvello](https://sanvello.com) | CBT tools, mood tracking, coaching. Insurance-covered. | Free / Premium |
+| [Talkspace AI](https://talkspace.com) | AI-assisted therapy matching. Human therapist backup. | Subscription |
+| [Tess by X2AI](https://www.x2ai.com/individuals) | SMS-based therapy coach. CBT + integrative therapies. Clinically validated (-28% depression, -18% anxiety). 85% users feel better. | Free (via employer/school) |
+| [Elomia](https://elomia.com/) | AI therapy chatbot. Clinician-designed, natural conversation. 85% feel better after chat. Anonymous, no data collection. | 3-day trial / ~$7-10/mo |
+| [Replika](https://replika.com/) | AI companion friend. Rogersian support, open-ended chat. Memory function, mood tracking. Best for loneliness/social anxiety. | Free / $14.99/mo Pro |
+| [Headspace Health](https://www.headspace.com/) | Meditation + mental health. CBT-based courses, sleep, stress. Clinical partnerships. | Free / $12.99/mo |
+| [Akili Interactive](https://www.akiliinteractive.com/) | FDA-cleared cognitive training. Video game-based digital medicine for ADHD. Neuroplasticity-focused. | Prescription only |
+| [Ginger](https://ginger.com/) | On-demand mental healthcare. AI coaching + live therapists. CBT, DBT, mindfulness. Employer-sponsored. | Free (via employer) / $99/mo |
 
 ---
 
