@@ -421,6 +421,8 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [x402](https://github.com/coinbase/x402) | Coinbase open standard for HTTP-native payments. Enables agents to pay for APIs autonomously. |
+| [agent-wallet-sdk](https://www.npmjs.com/package/agentwallet-sdk) | Non-custodial multi-chain wallet SDK for AI agents. x402 payments, CCTP transfers, CowSwap swaps. |
 
 ---
 
