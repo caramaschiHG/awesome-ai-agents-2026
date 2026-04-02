@@ -156,6 +156,12 @@
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
 
+### Agent Templates
+
+| Collection | Description |
+|------------|-------------|
+| [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
+
 ---
 
 ## 🌐 Browser and Desktop Agents
