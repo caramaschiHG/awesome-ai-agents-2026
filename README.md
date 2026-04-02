@@ -407,6 +407,7 @@
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
+| [Arch Tools](https://archtools.dev) | 61 AI tools via REST API and MCP. Code analysis, scraping, image gen, NLP, crypto. x402 USDC payments on Base/Polygon/Avalanche/Solana. | Pay-per-call |
 
 ---
 
