@@ -277,6 +277,7 @@
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [Corpo](https://api.corpo.llc) | Legal infrastructure for AI agents. Wyoming DAO LLC formation, governance, and compliance via CLI/API. | $499 formation |
 
 ### No-Code Agent Builders
 
