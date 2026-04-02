@@ -27,6 +27,7 @@
 
 ## Contents
 
+- [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
 - [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders
 - [Agent Frameworks](#-agent-frameworks) — General, Multi-Agent, Lightweight
 - [Browser and Desktop Agents](#-browser--desktop-agents) — Consumer, Infrastructure
