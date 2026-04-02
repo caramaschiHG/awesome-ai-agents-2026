@@ -6,12 +6,12 @@
 
   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
   [![Stars](https://img.shields.io/github/stars/caramaschiHG/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/caramaschiHG/awesome-ai-agents-2026/stargazers)
-  [![Last Update](https://img.shields.io/badge/last%20update-March%202026-blue?style=flat-square)]()
+  [![Last Update](https://img.shields.io/badge/last%20update-April%202026-blue?style=flat-square)]()
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
   <h3>The most comprehensive list of AI agents, frameworks, and tools in 2026.</h3>
-  <h4>300+ resources across 20+ categories.</h4>
+  <h4>340+ resources across 20+ categories. Updated monthly.</h4>
 
   <br>
 
@@ -21,7 +21,7 @@
 
 ---
 
-> **300+ tools. 20+ categories. Updated monthly.** Star to stay updated. [Contributions welcome!](#contributing)
+> **340+ tools. 20+ categories. Updated monthly.** Star to stay updated. [Contributions welcome!](#contributing)
 
 ---
 
@@ -41,6 +41,7 @@
 - [Observability and Evaluation](#-observability--evaluation)
 - [Open-Source Models for Agents](#-open-source-models-for-agents)
 - [AI Safety and Guardrails](#-ai-safety--guardrails)
+- [AI Governance and Compliance](#-ai-governance--compliance) ⭐ NEW
 - [Cybersecurity Agents](#-cybersecurity-agents)
 - [Learning Resources](#-learning-resources)
 - [Newsletters and Communities](#-newsletters--communities)
@@ -54,25 +55,27 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude, GPT, Gemini. $29.3B valuation. | Free / $20/mo |
-| [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5, Gemini 3). | $10/mo / $39/mo Pro+ |
+| [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation. | Free / $20/mo |
+| [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5.4, Gemini 3.1). | $10/mo / $39/mo Pro+ |
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Deep integration across all JetBrains IDEs. Context-aware completions. | Included with IDE |
 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) | AWS-native. Lambda, CloudWatch, infrastructure, security scanning. | Free / $19/mo |
 | [Tabnine](https://www.tabnine.com/) | Privacy-first. On-premise option. Fine-tuned on your codebase. | Free / $12/mo |
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
-| [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.5 access. Learning-focused. | Free |
+| [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
+| [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
 
 ### Terminal and CLI Agents
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams. | $20/mo+ API |
+| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature. | $20/mo+ API |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ⭐ **NEW (Apr 2026)** Google's official open-source terminal agent. ReAct loop. MCP support. 1M context. Apache 2.0. | Free w/ Google account |
 | [Aider](https://github.com/paul-gauthier/aider) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
-| [Kilo Code](https://kilocode.ai) | Emerging. Structured modes. Tighter context. | Free + API |
+| [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 
 ### Autonomous Software Engineers
@@ -83,8 +86,7 @@
 | [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | GitHub issue-to-PR agent. | Copilot sub |
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
-| [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. | xAI sub |
-| [Kiro](https://kiro.dev) | Spec-driven development. DevOps automation. | Beta |
+| [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
 
 ### Code Review and Security
 
@@ -123,16 +125,16 @@
 | [DSPy](https://github.com/stanfordnlp/dspy) | Py | Stanford. Programming not prompting. Auto-optimizes. |
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
+| [Google ADK](https://github.com/google/adk-python) | Py | ⭐ Google's Agent Development Kit. Native Gemini. Multi-agent orchestration. |
 
 ### Multi-Agent Orchestration
 
 | Framework | Lang | Description |
 |-----------|------|-------------|
 | [AutoGen](https://github.com/microsoft/autogen) | Py | Microsoft multi-agent conversations. |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Py | Role-based crew members with goals and tools. |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | Py | Role-based crew members with goals and tools. Used by 60%+ Fortune 500. |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Py | PM, architect, engineer roles. Software company sim. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Py | Official. Multi-step agents with handoffs. |
-| [Google ADK](https://github.com/google/adk-python) | Py | Native Gemini. Multi-agent orchestration. |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Py | AWS-backed. Model-driven tool use. |
 | [CAMEL](https://github.com/camel-ai/camel) | Py | Role-based simulation. Collaborative reasoning. |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
@@ -166,6 +168,7 @@
 | [Dia Browser](https://diabrowser.com) | AI-native browser (Atlassian/Browser Company). | Beta |
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
+| [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
 
 ### Developer Infrastructure
 
@@ -231,10 +234,10 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [Sora 2](https://sora.com) | Best narrative coherence. Physics realism. 25s. 1080p. | $20+/mo |
-| [Google Veo 3.1](https://deepmind.google) | Best cinematic. Native audio. 4K. Vertex AI. | API |
+| [Google Veo 3.1](https://deepmind.google) | ⭐ **Best in class** Native audio+video. 4K. Veo 3.1 Lite for devs (Apr 2026). | API |
+| [Kling 3.0](https://klingai.com) | ⭐ Cinematic realism. 15s sequences. Native audio sync. Character consistency. | Free / $6.99+/mo |
 | [Runway Gen-4.5](https://runwayml.com) | No.1 benchmark. Motion Brush, Director Mode. Best editing. | From $12/mo |
-| [Kling 3.0](https://klingai.com) | Best value. 4K, 2min, native audio. $0.029/sec API. | Free / $6.99+/mo |
+| [Sora 2](https://sora.com) | OpenAI. Narrative coherence. Physics realism. **Note: app retiring Apr 26, 2026.** | $20+/mo |
 | [Seedance 2.0](https://seedance.ai) | Quad-modal input. Lip sync. 2K resolution. | Free credits |
 | [Pika 2.5](https://pika.art) | Beginner-friendly. Pikaswaps. Fast renders. | Free / $8+/mo |
 | [Luma Dream Machine](https://lumalabs.ai) | 4K HDR. Physics simulation. 3D/cinematic. | From $7.99/mo |
@@ -333,9 +336,9 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Claude Deep Research](https://claude.ai) | Multi-step investigation with citations. | Claude Pro |
-| [ChatGPT Deep Research](https://chat.openai.com) | Extended reasoning, web browsing, reports. | ChatGPT Pro |
-| [Gemini Deep Research](https://gemini.google.com) | Google Search and Knowledge Graph. | Gemini Advanced |
+| [Claude Deep Research](https://claude.ai) | Multi-step investigation with citations. Sonnet 5 / Opus 4.6. | Claude Pro |
+| [ChatGPT Deep Research](https://chat.openai.com) | Extended reasoning, web browsing, reports. GPT-5.4. | ChatGPT Pro |
+| [Gemini Deep Research](https://gemini.google.com) | Google Search and Knowledge Graph. Gemini 3.1 Pro. | Gemini Advanced |
 | [Perplexity Pro](https://perplexity.ai) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
@@ -397,10 +400,10 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
-| [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
-| [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
-| [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
-| [Grok](https://x.ai) | Real-time X data. Grok Build. Image gen. | X Premium+ |
+| [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
+| [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
+| [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
+| [Grok](https://x.ai) | Real-time X data. Grok 4.20. Multi-agent Society of Mind. Image gen. | X Premium+ |
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
@@ -411,8 +414,10 @@
 
 | Protocol | Description |
 |----------|-------------|
-| [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Industry standard for tools. |
-| [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. |
+| [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Donated to Linux Foundation. Industry standard for agent tools. |
+| [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. Horizontal agent collaboration. |
+| [MCP Gateways](https://github.com/modelcontextprotocol) | Enterprise management layer: auth, routing, observability across MCP+A2A networks. |
+| [MCP Apps](https://github.com/modelcontextprotocol) | ⭐ **New in 2026** — Tools return rich interactive UIs (dashboards, forms) in agent chat. |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
@@ -436,9 +441,10 @@
 
 | Benchmark | Description |
 |-----------|-------------|
-| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Industry standard for coding agents. Top: 80.9% (Opus). |
+| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Industry standard for coding agents. Top: 80.9% (Claude Opus 4.6). |
 | [AgentBench](https://github.com/THUDM/AgentBench) | 8-environment LLM agent benchmark. |
-| [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.3 leads at 77.3%. |
+| [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.4 leads at 77.3%. |
+| [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
 
@@ -448,12 +454,13 @@
 
 | Model | Org | Params | Highlights |
 |-------|-----|--------|------------|
-| [Llama 4](https://github.com/meta-llama) | Meta | 8B-405B+ | Strong tool use. Maverick and Scout. Open-weight. |
-| [Qwen 3](https://github.com/QwenLM/Qwen3) | Alibaba | 0.6B-235B | MCP-native. Best multilingual open model. |
-| [DeepSeek V3/R1](https://github.com/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B MoE | 68x cheaper. Strong reasoning. |
+| [Llama 4](https://github.com/meta-llama) | Meta | 109B-400B | Scout (10M ctx). Maverick (1M ctx). Strong tool use. Open-weight. |
+| [Qwen3.6-Plus](https://github.com/QwenLM/Qwen3) | Alibaba | Various | ⭐ **NEW (Apr 2026)** Agentic focus. 1M ctx. Repo-level coding. MCP-native. |
+| [Qwen3.5-Omni](https://github.com/QwenLM/Qwen3) | Alibaba | 397B MoE | Native multimodal. Text, image, audio. |
+| [DeepSeek V3/R1](https://github.com/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B MoE | 68x cheaper. Strong reasoning. V4 Lite in preview. |
+| [Gemma 4](https://github.com/google-deepmind/gemma) | Google | 2B-31B | ⭐ **NEW (Apr 2026)** Consumer/IoT optimized. E2B, E4B variants. |
 | [GLM-4](https://github.com/THUDM/GLM-4) | Zhipu | 744B MoE | Lowest hallucination rate. 77.8% SWE-bench. |
 | [Mistral Large](https://mistral.ai) | Mistral | Various | Function calling, JSON mode. European. |
-| [Gemma 3](https://github.com/google-deepmind/gemma) | Google | 1B-27B | Efficient on-device. Multi-modal. Edge agents. |
 | [Command R+](https://cohere.com) | Cohere | 104B | RAG and enterprise tool use optimized. |
 | [Phi-4](https://github.com/microsoft/phi-4) | Microsoft | 14B | Small but mighty. On-device agents. |
 
@@ -468,6 +475,24 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+
+---
+
+## ⚖️ AI Governance and Compliance
+
+> ⭐ **New section** — EU AI Act full obligations take effect **August 2, 2026**. Organizations deploying agents must comply.
+
+| Tool / Resource | Description |
+|-----------------|-------------|
+| [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
+| [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
+| [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
+| [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
+| [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
+| [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
+| [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
 ---
 
@@ -492,6 +517,7 @@
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Claude agent recipes
 - [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21-lesson course
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Practical API guides
+- [Google ADK Documentation](https://google.github.io/adk-docs/) - ⭐ Official Google Agent Development Kit docs
 
 ### Key Papers
 - [ReAct](https://arxiv.org/abs/2210.03629) - Foundation for modern agents (reasoning + acting)
@@ -534,6 +560,19 @@
 - **Top barrier:** Quality (32%), Latency (20%)
 - **Coding market:** $4B. Cursor + Copilot + Claude Code = 70%+ share
 - **Fastest repo:** OpenClaw (9k to 188k stars in 60 days)
+- **Model velocity:** Frontier models now updated every 2–4 weeks (GPT-5.x monthly cycle)
+- **Context windows:** 1M tokens now standard for all frontier models
+- **EU AI Act:** Full obligations for high-risk AI systems effective August 2, 2026
+- **MCP adoption:** Donated to Linux Foundation; adopted by Anthropic, OpenAI, Microsoft, Google
+
+### 🗓 April 2026 Highlights
+- **Claude Sonnet 5** released April 1 — top coding+reasoning performance
+- **Gemma 4** released April 2 — Google's efficient open models (2B–31B) for consumer/IoT
+- **Qwen3.6-Plus** released April 1 — Alibaba's agentic flagship with 1M ctx
+- **Gemini CLI** released — Google's open-source terminal agent (Apache 2.0)
+- **Veo 3.1 Lite** released — affordable video gen API for developers
+- **Kling 3.0** (Feb 2026) — cinematic realism, native audio, character consistency
+- **Grok 4.20** current xAI flagship — multi-agent "Society of Mind" architecture
 
 ---
 
@@ -553,7 +592,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br>
   <strong>Star ⭐ and share if this helped!</strong>
   <br><br>
-  <a href="https://twitter.com/intent/tweet?text=Awesome%20AI%20Agents%202026%20-%20300%2B%20tools%20across%2020%2B%20categories&url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on X</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on LinkedIn</a>
+  <a href="https://twitter.com/intent/tweet?text=Awesome%20AI%20Agents%202026%20-%20340%2B%20tools%20across%2020%2B%20categories&url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on X</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on LinkedIn</a>
   <br><br>
-  <sub>March 2026 · 300+ resources · Made with love by the community</sub>
+  <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
