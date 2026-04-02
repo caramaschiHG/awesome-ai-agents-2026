@@ -388,6 +388,7 @@
 | [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
+| [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
 
 ---
 
