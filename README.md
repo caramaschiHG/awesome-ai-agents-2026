@@ -140,6 +140,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [Citadel](https://github.com/SethGammon/Citadel) | TS | Open-source Claude Code orchestration harness. Fleet coordination, lifecycle hooks, skills, postmortem-driven architecture. |
 
 ### Lightweight / Minimalist
 
