@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Signbee MCP](https://www.npmjs.com/package/signbee-mcp) | E-signature MCP server. Agents send contracts for legally binding signing with SHA-256 certificates. `npx signbee-mcp`. |
 
 ---
 
