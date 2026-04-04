@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [Agent Passport System (APS)](https://github.com/aeoess/agent-passport-system) | Open protocol for AI agent governance. Ed25519 identity, scoped delegation chains with monotonic narrowing, cryptographic enforcement boundary, Merkle attribution. 103 modules, npm + PyPI. Apache 2.0. |
 
 ### Protocol Tooling
 
@@ -541,6 +542,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [Agent Passport System](https://github.com/aeoess/agent-passport-system) | Open-source enforcement layer: Ed25519 agent identity, delegation chain verification, signed action receipts, Merkle audit trail. Published on [npm](https://npmjs.com/package/agent-passport-system) and [PyPI](https://pypi.org/project/agent-passport-system/). |
 
 ---
 
