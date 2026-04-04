@@ -361,6 +361,7 @@
 | [Perplexity Pro](https://perplexity.ai) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
+| [AutoSearch](https://github.com/0xmariowu/Autosearch) | Self-evolving Claude Code plugin. 32 search channels, cross-session learning, cited reports. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
 ### Data Analysis
