@@ -554,6 +554,7 @@
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
 | [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) | OSS security scanner for AI agent skills/plugins/MCP servers. Pre-install taint tracking, post-uninstall residue detection. |
+| [AIGEN Protocol](https://github.com/Aigen-Protocol/aigen-protocol) | DeFi token safety for AI agents. 27 scam patterns, honeypot simulation via real DEX swaps. 38 MCP tools, 6 EVM chains. Agent economy with $AIGEN rewards. |
 
 ---
 
