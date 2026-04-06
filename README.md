@@ -100,6 +100,8 @@
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
 
+| [asqav](https://github.com/jagmarques/asqav-sdk) | AI agent governance. Signed audit trails, policy enforcement. | Free (OSS) |
+
 ### App Builders (Prompt-to-App)
 
 | Agent | Description | Pricing |
