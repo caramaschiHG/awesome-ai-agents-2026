@@ -147,6 +147,7 @@
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
+| [Kitaru](https://github.com/zenml-io/kitaru) | Py | Durable execution layer. Checkpoints, replay, resume, wait, memory. No graph DSL. |
 
 ### Lightweight / Minimalist
 
