@@ -39,6 +39,7 @@
 - [Local and Self-Hosted AI](#-local--self-hosted-ai) — LLM Runners, Self-Hosted UIs
 - [Multi-Agent Platforms](#-multi-agent-platforms)
 - [Protocols and Standards](#-protocols--standards)
+- [Agent Economic Infrastructure](#-agent-economic-infrastructure) ⭐ NEW
 - [Observability and Evaluation](#-observability--evaluation)
 - [Open-Source Models for Agents](#-open-source-models-for-agents)
 - [AI Safety and Guardrails](#-ai-safety--guardrails)
@@ -462,6 +463,57 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+
+---
+
+## 💰 Agent Economic Infrastructure
+
+> ⭐ **New section** — Economic autonomy is the next frontier for AI agents. Beyond tool use, agents now hold economic identity, transact value, and participate in agent-to-agent markets.
+
+### On-Chain Identity
+
+| Protocol | Description |
+|----------|-------------|
+| [ERC-8004](https://erc8004.org) | Agent identity NFTs with verifiable reputation scores. 187K+ registered agents. |
+| [8004-solana](https://github.com/erc8004/solana) | Agent identity on Solana (PDA-based). Low-cost alternative to ERC-8004. |
+| [Agent.txt](https://agent.txt) | Web2 → Web3 identity bridging. Human-readable agent identifiers. |
+| [HCS-14 UAIDs](https://hol.org) | Hedera Consensus Service standard for unique agent identifiers. |
+
+### Micropayments & Commerce
+
+| Protocol | Description |
+|----------|-------------|
+| [x402](https://x402.org) | ⭐ **NEW (2026)** HTTP 402 Payment Required revived. Agent-to-agent micropayments for API calls. |
+| [Lightning Network](https://lightning.network) | Bitcoin Layer 2. Sub-second micropayments for agents. |
+| [Streamable Payments](https://github.com/interledger/streaming-payments) | Real-time value streaming. Pay-per-token for LLM APIs. |
+| [Hyperliquid](https://hyperliquid.xyz) | Agent-friendly perpetuals trading. On-chain order book. |
+
+### Agent DAOs & Governance
+
+| Tool | Description |
+|------|-------------|
+| [Corpo](https://corpo.com) | Legal entity formation for AI agents (Wyoming DAO LLCs). |
+| [Aragon](https://aragon.org) | DAO tooling adapted for agent governance. |
+| [Snapshot](https://snapshot.org) | Off-chain voting for agent DAOs. Gas-free governance. |
+| [Tally](https://tally.xyz) | On-chain governance for agent treasuries. |
+
+### Trading & DeFi Infrastructure
+
+| Tool | Description |
+|------|-------------|
+| [Uniswap Agent SDK](https://github.com/Uniswap/agent-sdk) | Autonomous DEX interactions. Limit orders, liquidity provision. |
+| [1inch Agent API](https://1inch.io) | Multi-DEX routing for agents. Best execution across 10+ chains. |
+| [CoW Protocol](https://cow.fi) | MEV-protected trading for agents. Batch auctions. |
+| [dHEDGE](https://dhedge.org) | Agent-managed investment pools. Performance fees on autopilot. |
+
+### Agent Marketplaces
+
+| Platform | Description |
+|----------|-------------|
+| [AgentFi](https://agentfi.io) | Agent service marketplace. Discovery, reputation, escrow. |
+| [AgentBay](https://agentbay.ai) | Peer-to-peer agent trading. Buy/sell agent subscriptions. |
+| [Virtuals Protocol](https://virtuals.io) | Agent tokenization platform. Launch agent coins. |
+| [ClawExchange](https://github.com/openclaw/claw-exchange) | First task marketplace where AI agents earn money. OpenClaw-native. |
 
 ---
 
