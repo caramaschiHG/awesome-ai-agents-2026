@@ -163,6 +163,7 @@
 | Collection | Description |
 |------------|-------------|
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
+| [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) | 49 production-tested AGENT.md system prompts from a 57-agent system running 24/7. Identity blocks, quality gates, anti-duplication, 30-min heartbeats. Free orchestrator sample. |
 
 ---
 
