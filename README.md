@@ -157,6 +157,7 @@
 | [Upsonic](https://github.com/upsonic/upsonic) | Py | MCP support. Minimal setup. |
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
+| [Hulk Tools v2](https://github.com/cittaverse/hulk-tools-v2) | Py | Minimalist agent tool system (~500 lines). Tool interface normalization, permission system for sensitive operations, interrupt/resume mechanism. Production-tested in OpenClaw multi-agent system. |
 
 ### Agent Templates
 
