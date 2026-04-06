@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| **[TrustBoost-PII-Sanitizer](https://github.com/teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer)** | Blockchain-verified privacy layer that sanitizes PII (emails, keys, passwords) before sending data to LLMs. Integrates with Solana for payment verification. |
 
 ---
 
