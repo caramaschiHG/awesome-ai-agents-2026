@@ -112,6 +112,7 @@
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
 
 ---
+- **[Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)** - 7-protocol trust infrastructure for autonomous AI agents. Cryptographic provenance logging (Chain of Consciousness with Bitcoin OpenTimestamps), decentralized reputation scoring, dispute resolution, service agreements, lifecycle management, matchmaking. MCP server with 8 tools. [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) | [PyPI](https://pypi.org/project/agent-trust-stack-mcp/)
 
 ## 🧱 Agent Frameworks
 
