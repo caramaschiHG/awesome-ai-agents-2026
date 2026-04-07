@@ -163,6 +163,7 @@
 | Collection | Description |
 |------------|-------------|
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
+| [RemoteOpenClaw](https://remoteopenclaw.com) | Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell community-built agent skills. |
 
 ---
 
