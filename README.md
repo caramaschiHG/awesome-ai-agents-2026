@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Agent Todo](https://todo.formatho.com) | API-first task management for AI agents. Persistent queues, agent identity, priority tracking, audit trails. Built for multi-agent workflows. | Free / Pro $29/mo |
 
 ### No-Code Agent Builders
 
