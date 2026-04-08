@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [zcash-ika](https://github.com/Frontier-Compute/zcash-ika) | Agent custody infrastructure for Zcash. Split-key wallets via 2PC-MPC on Sui, on-chain spend policy, privacy attestation. 7 chains. |
 
 ---
 
