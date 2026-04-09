@@ -449,6 +449,7 @@
 |----------|-------------|
 | [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Donated to Linux Foundation. Industry standard for agent tools. |
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. Horizontal agent collaboration. |
+| [Agent Passport System](https://github.com/aeoess/agent-passport-system) | Open protocol for AI agent identity, scoped delegation, enforcement, commerce, and coordination. Ed25519 signatures, 103 modules, 8 protocol layers. Apache-2.0. `npm install agent-passport-system` |
 | [MCP Gateways](https://github.com/modelcontextprotocol) | Enterprise management layer: auth, routing, observability across MCP+A2A networks. |
 | [MCP Apps](https://github.com/modelcontextprotocol) | ⭐ **New in 2026** — Tools return rich interactive UIs (dashboards, forms) in agent chat. |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
@@ -539,6 +540,7 @@
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [Agent Passport System](https://github.com/aeoess/agent-passport-system) | Cryptographic agent governance: Ed25519 identity, delegation chains with monotonic narrowing, 3-signature enforcement, Values Floor, commerce gates, compliance evidence export. 103 modules, 2,000+ tests. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
