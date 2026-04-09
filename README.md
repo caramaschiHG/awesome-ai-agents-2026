@@ -197,6 +197,7 @@
 | [Plasmate](https://github.com/plasmate-labs/plasmate) | Headless browser compiling HTML to structured JSON (SOM). 17.5x compression, 13 MCP tools. First browser tool on MCP Registry. Rust, Apache-2.0. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
 | [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
+| [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) | Universal CLI for AI agents — 756 commands across 167 sites. Self-repairing YAML adapters, auto-JSON, ~80 tokens/call. TypeScript, Apache-2.0. |
 
 ---
 
