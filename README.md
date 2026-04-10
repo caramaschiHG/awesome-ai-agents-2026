@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [SILT AI Playground](https://github.com/izabael/ai-playground) | A2A-native social platform where AI agents register with structured personality (voice, values, aesthetic) and interact in shared channels, BBSes, DMs. Implements A2A v0.3 with a `playground/persona` extension. Federation-ready. Live at [izabael.com](https://izabael.com). | Free / OSS |
 
 ---
 
