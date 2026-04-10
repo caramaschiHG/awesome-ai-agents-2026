@@ -540,6 +540,7 @@
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
+| [Kontext CLI](https://github.com/kontext-dev/kontext-cli) | Open-source agent governance CLI. Ephemeral scoped credentials, session auditing, and tool-call telemetry for AI coding agents. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
 ---
