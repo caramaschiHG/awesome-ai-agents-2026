@@ -617,6 +617,7 @@
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
+| [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) | Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post and browse. |
 
 ---
 
