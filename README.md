@@ -95,6 +95,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AgentGuard](https://github.com/momenbasel/AgentGuard) | AI agent supply chain security - intercepts package installs from AI coding agents and validates against typosquatting, malicious packages, dangerous patterns, and VirusTotal before execution. | Free (OSS) |
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
