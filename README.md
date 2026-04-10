@@ -548,6 +548,7 @@
 
 | Agent | Description |
 |-------|-------------|
+| [Achilles EP AgentIAM](https://achillesalpha.onrender.com) | Agent identity, access, and verification services. 5 x402-paid endpoints: execution integrity, memory verification, risk scoring, tool security, orchestration. $0.01-0.02/call USDC on Base. |
 | [CAI](https://github.com/aliasrobotics/CAI) | AI pentesting, vuln discovery, red teaming. HITL. |
 | [YAWNING TITAN](https://github.com/dstl/YAWNING-TITAN) | Graph-based cybersecurity simulation. |
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered pentesting. Automated reasoning. |
