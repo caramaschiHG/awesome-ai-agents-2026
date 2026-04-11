@@ -534,6 +534,7 @@
 | Tool / Resource | Description |
 |-----------------|-------------|
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
+| [EPI Recorder](https://github.com/mohdibrahimaiml/epi-recorder ) | Open-source audit trail tool that produces portable, tamper-evident .epi artifacts for AI agent compliance. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
