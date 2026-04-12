@@ -139,6 +139,7 @@
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Py | PM, architect, engineer roles. Software company sim. |
 | [Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | TS | Issue-Driven Development. 7 coding + 14 business agents. MCP 172+ tools. GitHub as OS. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Py | Official. Multi-step agents with handoffs. |
+| [Product Org OS](https://github.com/yohayetsion/product-org-os) | MD | 12 product-org agents (CPO, VP Product, PM, PMM, BizOps) with Leadership Team meeting mode. Product organization sim. |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Py | AWS-backed. Model-driven tool use. |
 | [CAMEL](https://github.com/camel-ai/camel) | Py | Role-based simulation. Collaborative reasoning. |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
