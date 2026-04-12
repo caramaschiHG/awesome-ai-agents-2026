@@ -88,6 +88,7 @@
 | [Devin](https://devin.ai) | Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning. | $20/mo + ACU |
 | [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | GitHub issue-to-PR agent. | Copilot sub |
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
+| [Dexto](https://github.com/truffle-ai/dexto) | Open agent harness with production-ready coding agent. YAML config, 50+ LLM support, MCP tools, persistent memory. | Free |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
 
