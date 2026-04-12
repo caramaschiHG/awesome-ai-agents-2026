@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Dexto](https://github.com/truffle-ai/dexto) | Open agent harness with production-ready coding agent. YAML config, 50+ LLM support, MCP tools, persistent memory. | Free |
 
 ### Autonomous Software Engineers
 
