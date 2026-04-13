@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [HelloChusquis](https://github.com/aminoy77/HelloChusquis) | Terminal AI agent with multi-provider fallback (15+ providers), plugin system, persistent memory, auto-learning, task planner and web interface. | Free & Open Source |
 
 ### Autonomous Software Engineers
 
