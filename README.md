@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AgentGrade](https://agentgrade.com) | Scans websites for AI agent readiness across 80+ checks including MCP, x402 payments, OpenAPI, and discovery protocols. Free scanner with MCP server. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
