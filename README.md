@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [SureThing](https://surething.io) | Proactive AI digital twin: monitors email/calendar 24/7, drafts replies, schedules meetings, runs research, automates workflows across 800+ apps. | Free / Plus |
 
 ### No-Code Agent Builders
 
