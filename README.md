@@ -431,6 +431,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [Anuki](https://github.com/cylonmolting-creator/anuki) | Open-source multi-agent AI platform. Create agents via natural language (ENKI), soul files for identity, cognitive memory (3 layers), response-level claim verification, SSOT rule enforcement. Node.js. | Free (OSS) |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
