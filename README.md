@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Helium MCP](https://github.com/connerlambden/helium-mcp) | MCP server for real-time news with bias scoring across 5,000+ sources, balanced news synthesis, AI-powered options pricing, live market data, and meme search. 9 tools, streamable HTTP. [Product page](https://heliumtrades.com/mcp-page/). 50 free queries, no signup. |
 
 ---
 
