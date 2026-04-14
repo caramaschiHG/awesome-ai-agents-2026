@@ -139,6 +139,7 @@
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [CodeFlow](https://github.com/joinwell52-AI/codeflow-pwa) | Py | Human-AI hub. Desktop OCR patrol + phone PWA + 4 agent roles (.mdc rules). |
 
 ### Lightweight / Minimalist
 
@@ -339,6 +340,7 @@
 | [Gemini Deep Research](https://gemini.google.com) | Google Search and Knowledge Graph. | Gemini Advanced |
 | [Perplexity Pro](https://perplexity.ai) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
+| [CodeFlow](https://github.com/joinwell52-AI/codeflow-pwa) | Py | Human-AI hub. Desktop OCR patrol + phone PWA + 4 agent roles (.mdc rules). |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
