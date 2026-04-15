@@ -26,6 +26,7 @@
 ---
 
 ## Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
 - [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders
