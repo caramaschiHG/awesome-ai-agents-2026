@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Not Human Search](https://nothumansearch.ai) | Search engine indexing 700+ agent-first tools, ranked by agentic-readiness signals (llms.txt, OpenAPI, MCP server, ai-plugin.json). Hosted MCP at `https://nothumansearch.ai/mcp` (streamable-http) lets agents discover agent-accessible tools at runtime. |
 
 ---
 
