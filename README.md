@@ -26,6 +26,7 @@
 ---
 
 ## Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
 - [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders
@@ -52,6 +53,7 @@
 ---
 
 ## 🖥 Coding Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### IDE-Native Agents
 
@@ -114,6 +116,7 @@
 ---
 
 ## 🧱 Agent Frameworks
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### General Purpose
 
@@ -167,6 +170,7 @@
 ---
 
 ## 🌐 Browser and Desktop Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Consumer Products
 
@@ -201,6 +205,7 @@
 ---
 
 ## 🎙 Voice Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Platforms and APIs
 
@@ -230,6 +235,7 @@
 ---
 
 ## 🎨 Creative AI
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Image Generation
 
@@ -283,6 +289,7 @@
 ---
 
 ## ⚡ Task and Workflow Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Automation
 
@@ -311,6 +318,7 @@
 ---
 
 ## 💼 Customer Support and CRM Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Support Agents
 
@@ -350,6 +358,7 @@
 ---
 
 ## 📊 Data and Research Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Deep Research
 
@@ -394,6 +403,7 @@
 ---
 
 ## 🏠 Local and Self-Hosted AI
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Local LLM Runners
 
@@ -428,6 +438,7 @@
 ---
 
 ## 🤖 Multi-Agent Platforms
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
@@ -444,6 +455,7 @@
 ---
 
 ## 📡 Protocols and Standards
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Protocol | Description |
 |----------|-------------|
@@ -465,6 +477,7 @@
 ---
 
 ## 🔍 Observability and Evaluation
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Context Optimization
 
@@ -499,6 +512,7 @@
 ---
 
 ## 🧠 Open-Source Models for Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Model | Org | Params | Highlights |
 |-------|-----|--------|------------|
@@ -515,6 +529,7 @@
 ---
 
 ## 🛡 AI Safety and Guardrails
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Tool | Description |
 |------|-------------|
@@ -528,6 +543,7 @@
 ---
 
 ## ⚖️ AI Governance and Compliance
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 > ⭐ **New section** — EU AI Act full obligations take effect **August 2, 2026**. Organizations deploying agents must comply.
 
@@ -545,6 +561,7 @@
 ---
 
 ## 🔐 Cybersecurity Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Agent | Description |
 |-------|-------------|
@@ -558,6 +575,7 @@
 ---
 
 ## 🏥 Healthcare and Therapy Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
@@ -577,6 +595,7 @@
 ---
 
 ## 📚 Learning Resources
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Courses and Tutorials
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
@@ -605,6 +624,7 @@
 ---
 
 ## 📰 Newsletters and Communities
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Resource | Description |
 |----------|-------------|
@@ -621,6 +641,7 @@
 ---
 
 ## 📈 Market Stats 2026
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **Market size:** $10.91B in 2026, projected $52.63B by 2030 (46.3% CAGR)
 - **Production:** 57% of orgs have agents in production (LangChain)
@@ -646,11 +667,13 @@
 ---
 
 ## XVARY Stock Research
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
 
 ## Contributing
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Contributions welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
