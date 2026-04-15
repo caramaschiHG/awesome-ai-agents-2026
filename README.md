@@ -145,6 +145,7 @@
 | [Bernstein](https://github.com/chernistry/bernstein) | Py | Deterministic orchestrator. Parallel coding agents, test-driven verification. Zero LLM tokens on coordination. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
+| [k8s4claw](https://github.com/Prismer-AI/k8s4claw) | Go | K8s operator for AI agent runtimes. One CRD for lifecycle, IPC bus (WAL+DLQ), channel sidecars (Slack/Discord), auto-updates with circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
 
