@@ -466,6 +466,10 @@
 
 ## 🔍 Observability and Evaluation
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI simulate-sdk](https://github.com/future-agi/simulate-sdk)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 ### Context Optimization
 
 | Tool | Description |
