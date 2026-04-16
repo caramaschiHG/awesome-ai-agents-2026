@@ -74,6 +74,7 @@
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature. | $20/mo+ API |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ⭐ **NEW (Apr 2026)** Google's official open-source terminal agent. ReAct loop. MCP support. 1M context. Apache 2.0. | Free w/ Google account |
+| [AGX](https://runagx.com) | Local-first agent orchestrator for coding. Runs Claude Code, Codex, Gemini CLI, and Ollama in parallel with wake-work-sleep lifecycle and human-in-the-loop gates. | Free / Open Source |
 | [Aider](https://github.com/paul-gauthier/aider) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
