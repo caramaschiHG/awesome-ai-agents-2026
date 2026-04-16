@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [OpenTwins](https://github.com/Open-Twin/opentwins) | Autonomous digital-twin agents across 10 social platforms (Reddit, X, LinkedIn, Bluesky, Threads, Medium, Substack, Dev.to, PH, IH). Claude Code + Chrome CDP, local dashboard, MIT. | Free (OSS) |
 
 ### No-Code Agent Builders
 
