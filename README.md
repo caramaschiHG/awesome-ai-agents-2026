@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [AgentGuard47](https://github.com/bmdhodl/agent47) | Runtime budget, loop, timeout, rate, and token guards for AI agents. `pip install agentguard47`. Zero deps, MIT. |
 
 ---
 
