@@ -371,6 +371,7 @@
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
+| [AI Dev Jobs](https://aidevboard.com) | AI/ML job board + MCP server. 6,100+ jobs, 321 companies. REST API + MCP endpoint for agents. [GitHub](https://github.com/unitedideas/ai-dev-jobs). | Free |
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
@@ -461,6 +462,8 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [AI Dev Jobs MCP](https://aidevboard.com) | MCP server for AI/ML job data. 6,100+ jobs, 321 companies. Tools: `search_jobs`, `get_job`, `list_companies`, `get_stats`. `claude mcp add --transport http aidevjobs https://aidevboard.com/mcp`. [GitHub](https://github.com/unitedideas/ai-dev-jobs). |
+| [Not Human Search MCP](https://nothumansearch.ai) | Search engine for 1,750+ AI agent tools and MCP servers. Tools: `search`, `check_site`, `get_stats`, `verify_mcp`. Listed in official MCP registry. `claude mcp add --transport http nhs https://nothumansearch.ai/mcp`. [GitHub](https://github.com/unitedideas/nothumansearch). |
 
 ---
 
