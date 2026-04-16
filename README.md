@@ -495,6 +495,7 @@
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
+| [skill-optimizer](https://github.com/fastxyz/skill-optimizer) | CLI that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite docs until every configured model meets a score floor. |
 
 ---
 
