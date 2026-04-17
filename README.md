@@ -90,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [Council Pilot](https://github.com/wd041216-bit/council-pilot) | Claude Code skill. Builds expert councils from public sources, autonomously drives projects through build-score-debug loops until 100/100 maturity. | Free (OSS) |
 
 ### Code Review and Security
 
