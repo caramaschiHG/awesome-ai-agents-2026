@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [SkillFortify](https://github.com/qualixar/skillfortify) | Formal verification for AI agent skills. 22 frameworks. 100% precision on 540-skill benchmark. Supply chain security. arXiv:2603.00195. | Free (OSS) |
 
 ### App Builders (Prompt-to-App)
 
@@ -147,6 +148,7 @@
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
+| [Qualixar OS](https://github.com/qualixar/qualixar-os) | TS | Universal agent runtime. 13 execution topologies (including debate, mesh, hybrid). Forge AI auto-team-designer. Judge pipeline. Local-first. `npx qualixar-os`. |
 
 ### Lightweight / Minimalist
 
@@ -390,6 +392,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [SuperLocalMemory](https://github.com/qualixar/superlocalmemory) | Zero-cloud persistent agent memory. 6-channel retrieval (semantic, BM25, temporal, Hopfield, spreading activation, entity graph). Fisher-Rao geometry. EU AI Act compliant. 16K+ monthly downloads. Backed by 3 arXiv papers. `npx superlocalmemory`. |
 
 ---
 
@@ -451,6 +454,7 @@
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. Horizontal agent collaboration. |
 | [MCP Gateways](https://github.com/modelcontextprotocol) | Enterprise management layer: auth, routing, observability across MCP+A2A networks. |
 | [MCP Apps](https://github.com/modelcontextprotocol) | ⭐ **New in 2026** — Tools return rich interactive UIs (dashboards, forms) in agent chat. |
+| [SLM MCP Hub](https://github.com/qualixar/slm-mcp-hub) | Universal MCP gateway. Federates 430+ tools from 37 servers through one endpoint. 75% RAM reduction. Auto-retry, cost tracking. `pip install slm-mcp-hub`. |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
@@ -484,6 +488,7 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [AgentAssay](https://github.com/qualixar/agentassay) | Token-efficient AI agent testing. Behavioral fingerprinting, 5D coverage, stochastic 3-valued verdicts. 78-100% cost reduction on evals. `pip install agentassay`. arXiv:2603.02601. |
 
 ### Benchmarks
 
@@ -524,6 +529,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [AgentAssert](https://github.com/qualixar/agentassert-abc) | Runtime behavioral contracts for AI agents. ContractSpec DSL, drift detection via JSD, SPRT certification. 4 external citations. `pip install agentassert-abc`. arXiv:2602.22302. |
 
 ---
 
