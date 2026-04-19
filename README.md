@@ -95,6 +95,8 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AICodeSlopMonitor](https://slopcodemonitor.ai/) | Detects low-quality and AI-generated code patterns to help developers review and improve codebases | Free |
+| [SynthScan](https://github.com/marcoramilli/SynthScan) | Scans codebases for AI-generated code patterns | Open Source |
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
