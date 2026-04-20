@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns) | Curated catalog of 14 documented AI agent failure modes (prompt injection, destructive actions, memory poisoning, exfiltration, goal drift, and more) with symptoms, root causes, and mitigations per entry. MIT-licensed. |
 
 ---
 
