@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Nefesh MCP Server](https://github.com/nefesh-ai/nefesh-mcp-server) | 6-tool MCP server for biometric context. Any AI agent gets real-time stress state, HR, HRV via Streamable HTTP. Self-provisioning API keys. Also supports A2A (JSON-RPC 2.0). |
 
 ---
 
@@ -573,6 +574,7 @@
 | [Headspace Health](https://www.headspace.com/) | Meditation + mental health. CBT-based courses, sleep, stress. Clinical partnerships. | Free / $12.99/mo |
 | [Akili Interactive](https://www.akiliinteractive.com/) | FDA-cleared cognitive training. Video game-based digital medicine for ADHD. Neuroplasticity-focused. | Prescription only |
 | [Ginger](https://ginger.com/) | On-demand mental healthcare. AI coaching + live therapists. CBT, DBT, mindfulness. Employer-sponsored. | Free (via employer) / $99/mo |
+| [Nefesh AI](https://nefesh.ai) | B2B middleware API that translates live biometric signals (HR, HRV, voice, face) into adaptive AI behavior. MCP server (6 tools), A2A server, Cognitive Compute Router. Any AI agent becomes physiologically aware. Patent Pending (US + DE). | Free 1K calls/mo / $25/mo |
 
 ---
 
