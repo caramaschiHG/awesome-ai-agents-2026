@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [LemonCake](https://github.com/evidai/lemon-cake) | Pay Tokens for AI agents. JWT-signed upstream-API proxy with hard USDC spending caps, domain scope, and a sub-second kill-switch. Every charge auto-journaled to freee / Money Forward / QuickBooks. MIT-licensed SDKs for MCP, Eliza, and Dify. |
 
 ---
 
