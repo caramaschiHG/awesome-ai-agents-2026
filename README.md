@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [NIP-XX Kind 30085](https://github.com/nostr-protocol/nips/pull/2320) | Decentralized agent reputation attestations on Nostr. Peer-to-peer ratings with temporal decay, Sybil-resistant commitment classes, and diversity metrics. No central authority. [JS](https://github.com/kai-familiar/nip-xx-kind30085) + [Python](https://github.com/kai-familiar/nip-xx-kind30085-python) + [interactive playground](https://kai-familiar.github.io/playground.html). |
 
 ### Protocol Tooling
 
