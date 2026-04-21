@@ -425,6 +425,12 @@
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
+### Gateways and Routers
+
+| Tool | Description |
+|------|-------------|
+| [Ferro Labs AI Gateway](https://github.com/ferro-labs/ai-gateway) | Self-hosted Go AI gateway/router. Routes 29 providers through one OpenAI-compatible API. Guardrails, MCP support, dashboard, single-binary deploy. |
+
 ---
 
 ## 🤖 Multi-Agent Platforms
