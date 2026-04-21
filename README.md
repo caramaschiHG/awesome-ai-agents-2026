@@ -362,6 +362,7 @@
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
+| [Caesar](https://github.com/jasonzliang/caesar-agent) | Cognizant AI Lab OSS. Graph-based exploration + adversarial synthesis. Outperforms ChatGPT / Gemini Deep Research on creative reasoning ([paper](https://doi.org/10.13140/RG.2.2.15118.22088), p<0.001). | Free (OSS) |
 
 ### Data Analysis
 
