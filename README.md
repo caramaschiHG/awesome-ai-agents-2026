@@ -617,6 +617,7 @@
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
+| [The AI Agent Index](https://theaiagentindex.com) | Structured directory of 260+ AI agents with public API, editorial ratings, and JSON-LD schema |
 
 ---
 
