@@ -271,6 +271,7 @@
 | [ElevenLabs Music](https://elevenlabs.io) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
 | [Stable Audio](https://stableaudio.com) | High-quality. Commercial license. | Free / Paid |
 | [Meta AudioCraft](https://github.com/facebookresearch/audiocraft) | OSS. MusicGen + AudioGen. | Free (OSS) |
+| [AceTagGen](https://acetaggen.com) | Structured prompt builder for Suno AI. 12-step tag picker + quality scorer, fits Suno's 200-char Style limit. | Free / $9.99+/mo |
 
 ### 3D and Design
 
