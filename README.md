@@ -217,6 +217,7 @@
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
+| [Prest0](https://prest0.ai) | Vertical legal AI platform. Bilingual (EN/ES) voice + SMS intake via Twilio, per-firm VM, persistent memory, deep research, legal drafting. Immigration, workers' comp, employment law. | Enterprise |
 
 ### Open-Source Voice
 
