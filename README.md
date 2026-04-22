@@ -541,6 +541,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [PiQrypt](https://github.com/piqrypt/piqrypt) | Cryptographic identity, audit trail and governance layer for autonomous AI agents. Ed25519 + Dilithium3 post-quantum signatures, hash-chained tamper-proof event memory, A2A co-signed handshakes, TrustGate policy engine (ALLOW / REQUIRE_HUMAN / BLOCK). 9 bridges: LangChain, CrewAI, AutoGen, MCP. EU AI Act Art.12/14 · ANSSI · NIST AI RMF ready. |
 
 ---
 
