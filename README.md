@@ -362,6 +362,7 @@
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
+| [Voidly MCP Server](https://github.com/voidly-ai/mcp-server) | 116 MCP tools. Global censorship intel (19.6M samples, 5K+ incidents), E2E agent messaging, agent payments. | Free (OSS) |
 
 ### Data Analysis
 
