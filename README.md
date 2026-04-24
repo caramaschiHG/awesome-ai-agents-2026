@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | Browser extension + MCP server that gives AI agents access to encrypted credentials via `{{PLACEHOLDER}}` syntax. Secrets never exposed to the LLM. AES-256-GCM + Argon2id, zero cloud. |
 
 ---
 
