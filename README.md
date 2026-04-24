@@ -455,6 +455,9 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [AP2 (Agentic Payments Protocol)](https://github.com/google-agentic-commerce/AP2) | Google open standard for agent-initiated commerce. Signed mandate chain (Intent → Cart → Payment) for AI agent purchases. Reference impl: [AlgoVoi](https://api1.ilovechicken.co.uk/.well-known/agent.json). |
+| [x402 (HTTP 402 Payment Required)](https://github.com/coinbase/x402) | Coinbase open protocol for HTTP-native crypto micropayments. AI agents pay per-request via `X-PAYMENT` header. Mechanisms span EVM, AVM, SVM, Stellar, Aptos. |
+| [MPP (Machine Payments Protocol)](https://github.com/tempoxyz/mpp) | IETF-track open standard for machine-to-machine payments. Agent-readable service directory with payment defaults + endpoint metadata. Stripe/Tempo-backed. |
 
 ### Protocol Tooling
 
