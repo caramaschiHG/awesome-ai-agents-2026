@@ -372,6 +372,7 @@
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
+| [BuyWhere](https://buywhere.ai) | Real-time Singapore product catalog API for AI agents. Live pricing from Harvey Norman, Shopee, and Lazada. 1,000+ products, MCP-native, one API call. | Free / Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
 
