@@ -422,6 +422,7 @@
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hosted multi-model chat. All major providers. |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
+| [AgentBoot](https://github.com/Agnuxo1/AgentBoot-app) | Conversational AI sysadmin for bare-metal hardware detection and OS installation. PWA + Android APK + browser extension + Tauri desktop. Local Qwen3 0.8B via wllama, BYOK cloud (OpenAI/Claude/Gemini). [Live](https://agentboot.pages.dev) · [HF Space](https://huggingface.co/spaces/Agnuxo/agentboot-demo) |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
