@@ -245,6 +245,7 @@
 | [Leonardo AI](https://leonardo.ai) | Multi-model. Realtime Canvas. 3D gaming assets. Canva-owned. | Free / $12+/mo |
 | [Recraft](https://recraft.ai) | Design-focused. Vector art, brand consistency. | Free / Paid |
 | [InkOS](https://github.com/Narcooo/inkos) | Autonomous novel-writing CLI agent. Agents collaborate to produce long-form fiction with continuity auditing, anti-AI-slop filtering, and style cloning. | Free / OSS |
+| [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | MCP server routing image generation prompts across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney, and more) via a unified API. `npm install -g prompt-to-asset`. | Free (OSS) |
 
 ### Video Generation
 
