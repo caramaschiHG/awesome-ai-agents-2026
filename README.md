@@ -1,4 +1,5 @@
 <!--lint disable awesome-heading awesome-github awesome-toc -->
+- [Arachne](https://github.com/Strategic-Automation/arachne) - DSPy-native autonomous agent runtime. Weaves execution DAGs from natural language goals, runs parallel waves, triangulated evaluation, autonomous self-healing. 280+ skills. MIT.
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome AI Agents 2026" width="800">
