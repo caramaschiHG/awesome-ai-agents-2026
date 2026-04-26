@@ -1,5 +1,4 @@
 <!--lint disable awesome-heading awesome-github awesome-toc -->
-- [Arachne](https://github.com/Strategic-Automation/arachne) - DSPy-native autonomous agent runtime. Weaves execution DAGs from natural language goals, runs parallel waves, triangulated evaluation, autonomous self-healing. 280+ skills. MIT.
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome AI Agents 2026" width="800">
@@ -125,6 +124,7 @@
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Py/JS | Data-focused. Best for RAG agents. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Py | Pipeline-based. Search and retrieval. |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C#/Py/Java | Microsoft enterprise. Azure integration. |
+| [Arachne](https://github.com/Strategic-Automation/arachne) | Py | DSPy-native agent runtime. Graph weaving, parallel wave execution, triangulated evaluation, self-healing. MCP client integration. |
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Py | Type-safe. Clean Pythonic API. Production-ready. |
 | [DSPy](https://github.com/stanfordnlp/dspy) | Py | Stanford. Programming not prompting. Auto-optimizes. |
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
