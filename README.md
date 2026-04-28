@@ -613,6 +613,7 @@
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
 | [Ben's Bites](https://bensbites.co) | Daily AI with builder focus |
+| [Creative AI News](https://www.creativeainews.com) | Weekly AI tools and workflows for every working creator: image, video, audio, 3D, and code. |
 | [State of Agent Engineering](https://www.langchain.com/state-of-agent-engineering) | Annual report (1,300+ surveyed) |
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
