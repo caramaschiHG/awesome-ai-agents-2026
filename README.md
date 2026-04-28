@@ -162,6 +162,7 @@
 
 | Collection | Description |
 |------------|-------------|
+| [AI Coding Agent Project Template](https://github.com/cleo-ai-ops/free-ai-coding-agent-project-template) | Free AGENTS.md/CLAUDE.md starter structure, safe command policy, PR checklist, ADR template, and repo handoff checklist for teams using AI coding agents. |
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
 
 ---
