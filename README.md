@@ -163,6 +163,7 @@
 | Collection | Description |
 |------------|-------------|
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
+| [AGENTS.md Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/) | Free no-login browser generator for creating repository AGENTS.md instruction files for coding agents such as Claude Code, Codex, Cursor, and OpenClaw. |
 
 ---
 
