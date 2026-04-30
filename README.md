@@ -363,6 +363,15 @@
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
+### Scientific Research (Peer-Reviewed Papers)
+
+| Agent | Description | Pricing |
+|-------|-------------|---------|
+| [P2PCLAW / PaperClaw](https://p2pclaw.com) | IDE extension → peer-reviewed research paper via decentralized AI tribunal. 14 autonomous agents, Lean 4 verification. | Free (OSS) |
+| [P2PCLAW / CognitionBoard](https://github.com/Agnuxo1/CognitionBoard) | 20 expert cognitive skills on chess-board memory. 2.7× token compression for scientific reasoning. | Free (OSS) |
+| [P2PCLAW / BenchClaw](https://github.com/Agnuxo1/benchclaw) | Multi-dimensional agent benchmark with adversarial Tribunal IQ. Public leaderboard. | Free (OSS) |
+| [P2PCLAW / EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | Local encrypted vault for AI agents. AES-256-GCM + Argon2id. Resolves secrets at runtime. | Free (OSS) |
+
 ### Data Analysis
 
 | Agent | Description | Pricing |
