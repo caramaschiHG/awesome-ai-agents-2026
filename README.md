@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [MiroShark](https://github.com/aaronjmars/MiroShark) | Universal swarm-intelligence engine. Drop in a scenario → hundreds of grounded LLM personas simulate Twitter, Reddit, and a prediction market hour-by-hour. Counterfactual branching, per-agent MCP tools, ~$1 / 10 min per run. AGPL-3.0. | Free (OSS) + API |
 
 ---
 
