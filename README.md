@@ -141,6 +141,7 @@
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Py | Official. Multi-step agents with handoffs. |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Py | AWS-backed. Model-driven tool use. |
 | [CAMEL](https://github.com/camel-ai/camel) | Py | Role-based simulation. Collaborative reasoning. |
+| [Cubiczan Swarm Pack](https://github.com/zan-maker/cubiczan-swarm-pack) | Py | Zero-token swarm intelligence with stigmergy (GenSwarm), adversarial consensus (CHP), and PARL learning for multi-agent coordination. [[Docs](https://cubiczaan.com/swarm)] |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
 | [Bernstein](https://github.com/chernistry/bernstein) | Py | Deterministic orchestrator. Parallel coding agents, test-driven verification. Zero LLM tokens on coordination. |
 | [AgentScope](https://github.com/modelscope/agentscope) | Py | Alibaba multi-agent framework. |
@@ -541,6 +542,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [Consensus Hardening Protocol (CHP)](https://github.com/zan-maker/consensus-hardening-protocol) | Open-source multi-agent decision governance — foundation disclosure, adversarial attack defense, EXPLORING→PROVISIONAL_LOCK→LOCKED workflow. [[Paper](https://github.com/zan-maker/Consensus-Hardening-Protocol-The-Differ)] |
 
 ---
 
