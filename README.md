@@ -555,6 +555,7 @@
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
 | [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) | OSS security scanner for AI agent skills/plugins/MCP servers. Pre-install taint tracking, post-uninstall residue detection. |
 
+| [Mira](https://github.com/vwww-droid/Mira) | Runtime protection analysis for third-party Android and iOS apps. AI-accessible shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation. |
 ---
 
 ## 🏥 Healthcare and Therapy Agents
