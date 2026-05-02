@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Terminal UI observability for AI coding agent runs. Tracks tokens, cost, latency, tool failures, anomalies, health scores, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
