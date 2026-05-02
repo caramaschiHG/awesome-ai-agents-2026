@@ -271,6 +271,7 @@
 | [ElevenLabs Music](https://elevenlabs.io) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
 | [Stable Audio](https://stableaudio.com) | High-quality. Commercial license. | Free / Paid |
 | [Meta AudioCraft](https://github.com/facebookresearch/audiocraft) | OSS. MusicGen + AudioGen. | Free (OSS) |
+| [Suede](https://app.suedeai.xyz) | Music + video gen. Agent-callable via x402 (USDC on Base). On-chain ownership infra. | x402 pay-per-call / Plan |
 
 ### 3D and Design
 
