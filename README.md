@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-github awesome-toc -->
+﻿<!--lint disable awesome-heading awesome-github awesome-toc -->
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome AI Agents 2026" width="800">
@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [Web Agent Bridge (WAB)](https://github.com/abokenan444/web-agent-bridge) | Open protocol replacing DOM scraping with a standardized `window.AICommands` interface. robots.txt told bots what NOT to do — WAB tells AI agents what they CAN do. Features: DNS Discovery, cryptographic trust (Ed25519 + DNSSEC), MCP-native, WordPress plugin, Dynamic Pricing Shield. Open Core model. MIT. |
 
 ### Protocol Tooling
 
@@ -670,3 +671,4 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
