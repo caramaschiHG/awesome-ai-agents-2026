@@ -536,7 +536,8 @@
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
-| [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
+| [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement 
+| [Nobulex](https://github.com/arian-gogani/nobulex) | Cryptographic bilateral receipts for AI agent accountability. Pre-execution + post-execution Ed25519 signatures, hash-chained via JCS/RFC 8785. Merged into Microsoft AGT. 8 byte-match validated implementations. EU AI Act Article 12 compliance. | [Website](https://nobulex.com) | `npm i @nobulex/sdk` | ![Stars](https://img.shields.io/github/stars/arian-gogani/nobulex?style=flat-square) |and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
