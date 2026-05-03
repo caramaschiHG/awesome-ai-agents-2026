@@ -157,6 +157,7 @@
 | [Upsonic](https://github.com/upsonic/upsonic) | Py | MCP support. Minimal setup. |
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
+| [KodeAgent](https://github.com/barun-saha/kodeagent) | Py | Minimal agent engine for seamless integration with larger systems. Solves tasks via planning, observations, and nudging. |
 
 ### Agent Templates
 
