@@ -478,6 +478,7 @@
 |------|-------------|
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
+| [PromptEden](https://www.prompteden.com) | Monitor how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand — and which competitors they recommend instead. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
 | [Braintrust](https://braintrustdata.com) | Eval-driven development. Experiment tracking. |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
