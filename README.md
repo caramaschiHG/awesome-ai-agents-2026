@@ -573,6 +573,7 @@
 | [Headspace Health](https://www.headspace.com/) | Meditation + mental health. CBT-based courses, sleep, stress. Clinical partnerships. | Free / $12.99/mo |
 | [Akili Interactive](https://www.akiliinteractive.com/) | FDA-cleared cognitive training. Video game-based digital medicine for ADHD. Neuroplasticity-focused. | Prescription only |
 | [Ginger](https://ginger.com/) | On-demand mental healthcare. AI coaching + live therapists. CBT, DBT, mindfulness. Employer-sponsored. | Free (via employer) / $99/mo |
+| [Kissable](https://kissable.app) | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages. iOS + Web. | 7-day trial / $19.99/mo |
 
 ---
 
