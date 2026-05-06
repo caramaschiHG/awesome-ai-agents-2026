@@ -66,6 +66,7 @@
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
 | [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
+| [Nimbalyst](https://nimbalyst.com) | Open-source visual workspace for building with Codex, Claude Code. Visual editor. Session and task manager. | Free, Open-source |
 
 ### Terminal and CLI Agents
 
