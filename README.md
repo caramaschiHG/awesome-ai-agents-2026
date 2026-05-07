@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [Cequence AI Gateway](https://cequence.ai/ai-gateway/) | Secures agentic AI workflows with least-privilege access control, MCP supply chain protection, and full agent visibility. No code changes required.
 
 ---
 
