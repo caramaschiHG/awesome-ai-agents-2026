@@ -490,12 +490,12 @@
 | Tool | Description |
 |------|-------------|
 | [agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) | TypeScript SDK and CLI for evaluating agentskills.io-style skills with with-skill vs baseline runs, judge grading, JSONL logs, and static HTML reports. |
-| [Bench AI](https://github.com/darkrishabh/bench-ai) | CLI, web UI, and SDK for comparing LLM outputs, latency, tokens, and cost across models; supports YAML eval suites and judge-backed rubrics. |
 
 ### Benchmarks
 
 | Benchmark | Description |
 |-----------|-------------|
+| [Bench AI](https://github.com/darkrishabh/bench-ai) | CLI, web UI, and SDK for benchmarking LLM outputs, latency, tokens, and cost across models; supports YAML eval suites and judge-backed rubrics. |
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Industry standard for coding agents. Top: 80.9% (Claude Opus 4.6). |
 | [AgentBench](https://github.com/THUDM/AgentBench) | 8-environment LLM agent benchmark. |
 | [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.4 leads at 77.3%. |
