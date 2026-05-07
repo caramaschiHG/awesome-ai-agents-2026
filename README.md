@@ -476,8 +476,6 @@
 
 | Tool | Description |
 |------|-------------|
-| [agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) | TypeScript SDK and CLI for evaluating agentskills.io-style skills with with-skill vs baseline runs, judge grading, JSONL logs, and static HTML reports. |
-| [Bench AI](https://github.com/darkrishabh/bench-ai) | CLI, web UI, and SDK for comparing LLM outputs, latency, tokens, and cost across models; supports YAML eval suites and judge-backed rubrics. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
@@ -486,6 +484,13 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+
+### Evaluation Tools
+
+| Tool | Description |
+|------|-------------|
+| [agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) | TypeScript SDK and CLI for evaluating agentskills.io-style skills with with-skill vs baseline runs, judge grading, JSONL logs, and static HTML reports. |
+| [Bench AI](https://github.com/darkrishabh/bench-ai) | CLI, web UI, and SDK for comparing LLM outputs, latency, tokens, and cost across models; supports YAML eval suites and judge-backed rubrics. |
 
 ### Benchmarks
 
