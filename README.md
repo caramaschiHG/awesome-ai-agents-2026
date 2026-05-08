@@ -541,6 +541,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [Cordum](https://cordum.io) | Out-of-process governance control plane for autonomous AI agents. Pre-dispatch policy enforcement, approval gates, and signed audit trails. |
 
 ---
 
