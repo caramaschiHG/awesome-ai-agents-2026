@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [ShopSavvy Desktop](https://shopsavvy.com/desktop) | Autonomous shopping agent for Mac/Win/Linux. Auto-buys at target prices, navigates retailer checkouts, calls stores by voice to negotiate price matching, monitors prices in background. | Free |
 
 ### Developer Infrastructure
 
