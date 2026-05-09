@@ -288,12 +288,13 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [n8n](https://github.com/n8n-io/n8n) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
-| [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |
-| [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
-| [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [n8n](https://github.com/n8n-io/n8n) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
+| [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin for Xquik X/Twitter automation: search tweets, scrape tweet data, post tweets and replies, export followers, manage DMs, run webhooks, and create giveaway draws. | Free install / API or pay-per-use |
+| [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |
 
 ### No-Code Agent Builders
 
