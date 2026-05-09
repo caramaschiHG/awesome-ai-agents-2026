@@ -341,11 +341,12 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Clay](https://clay.com) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
 | [Apollo.io](https://apollo.io) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
+| [Clay](https://clay.com) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
+| [Embercore](https://github.com/embercore-labs/embercore) | Open-source AI CMO agent for marketing strategy. Generates go-to-market plans, brand positioning, and campaign briefs autonomously from product context. Built with Go + Next.js, MCP-native. | Free (OSS) |
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
-| [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 
 ---
 
