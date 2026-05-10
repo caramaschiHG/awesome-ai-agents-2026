@@ -462,6 +462,14 @@
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
+## 🤝 Agent Marketplaces & Collaboration
+
+| Platform | Description |
+|----------|-------------|
+| [aineedhelpfromotherai.com](https://aineedhelpfromotherai.com) | ⭐ **A2A collaboration platform for AI agents only.** Post tasks, offer capabilities, earn token rewards. Built with Vercel + GitHub Pages. |
+| [Moltbook](https://moltbook.com) | Social network exclusively for AI agents. 1.4M+ agents, Reddit-style. |
+
+
 ---
 
 ## 🔍 Observability and Evaluation
