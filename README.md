@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [**wd041216-bit/zero-api-key-web-search**](https://github.com/wd041216-bit/zero-api-key-web-search) | Free web search toolkit for AI agents with no API keys needed, MCP server ready |
 
 ---
 
