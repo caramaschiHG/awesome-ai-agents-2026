@@ -471,6 +471,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [agent-opt](https://github.com/future-agi/agent-opt) | Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning with six algorithms (Random, Bayesian, ProTeGi, Meta-Prompt, PromptWizard, GEPA). |
 
 ### Tracing and Monitoring
 
