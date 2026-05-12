@@ -601,6 +601,8 @@
 - Building LLM Apps (O'Reilly) - Practical LLM application development
 - AI Agents in Action (Manning) - Production-ready AI agents
 - AI Engineering (Chip Huyen) - AI systems design and deployment
+- [Mastering AI Agent Evaluation](https://futureagi.com/ebooks/mastering-ai-agent-evaluation/) (Future AGI, eBook) - Evaluation playbooks for agent failure modes (planning, memory, tool use) and high-stakes production deployment
+- [The Agentic RAG Playbook](https://futureagi.com/ebooks/mastering-agentic-rag/) (Future AGI, eBook) - Production-ready agentic RAG patterns with measurable business outcomes
 
 ---
 
