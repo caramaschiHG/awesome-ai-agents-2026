@@ -480,6 +480,7 @@
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
 | [Braintrust](https://braintrustdata.com) | Eval-driven development. Experiment tracking. |
+| [BrowserTrace](https://github.com/aaronlab/browsertrace) | Local-first trace viewer for AI browser-agent failures. Captures screenshots, URLs, actions, model I/O, errors, and public-safe HTML exports for Browser Use, Stagehand, Skyvern, and Playwright + LLM scripts. |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
