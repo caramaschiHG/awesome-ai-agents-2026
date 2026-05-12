@@ -460,6 +460,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AI Work Market](https://github.com/darioandyoshi-tech/ai-work-market) | Open-source USDC escrow rails for AI-agent work: seller-signed EIP-712 offers, Base Sepolia escrow, proof submission, and CLI/SDK settlement flows. |
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
 ---
