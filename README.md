@@ -670,3 +670,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+## Tools
+
+- [Qonspekt](https://github.com/Qonspekt/qonspekt) - Single-file browser agent: article to atomic Obsidian notes via Claude AI. BYOK. [Live](https://qonspekt.github.io/qonspekt/)
