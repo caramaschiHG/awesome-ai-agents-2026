@@ -470,6 +470,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Agent Amplifier](https://github.com/qualixar/agent-amplifier) | Runtime amplification layer for AI coding agents. Five Claude Code hooks add dynamic effort routing, goal anchoring, convergence detection, persona escalation, and token budgeting. Deterministic Python, zero extra LLM calls. Cross-host: Cursor, Copilot, LangGraph, CrewAI, AgentScope, LangChain. 1741 tests, 100% branch coverage. AGPL-3.0. |
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
 
 ### Tracing and Monitoring
