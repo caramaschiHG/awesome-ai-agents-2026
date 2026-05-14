@@ -296,6 +296,16 @@ MCP Server: [misarblog-mcp--misar.run.tools](https://misarblog-mcp--misar.run.to
 
 ---
 
+### ✍️ Content, Blogging and Newsletter Agents
+
+| Agent | Description | Pricing |
+|-------|-------------|---------|
+| [MisarBlog Writer](https://www.misar.blog) | Autonomous AI writing agent: researches topics, generates SEO-optimized titles, creates cover images, writes and publishes complete articles on Misar.Blog. MCP-powered. | Free w/ account |
+| [MisarBlog Growth](https://www.misar.blog) | Data-driven blog analytics and content strategy agent: surfaces top content, identifies gaps, manages content series on Misar.Blog. | Free w/ account |
+| [MisarBlog Community](https://www.misar.blog) | Community management agent: monitors comments/reactions, tracks followers, manages newsletter subscriber metrics for Misar.Blog creators. | Free w/ account |
+
+---
+
 
 ## ⚡ Task and Workflow Agents
 
