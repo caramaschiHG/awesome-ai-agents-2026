@@ -282,6 +282,21 @@
 
 ---
 
+## ✍️ Content and Blogging Agents
+
+### Blogging Platforms
+
+| Agent | Description | Pricing | Key Features |
+|-------|-------------|---------|--------------|
+| [MisarBlog Writer Agent](https://www.misar.blog) | Autonomous blog creation — researches topics, generates SEO-optimized titles, creates cover images, publishes articles end-to-end | Free (API key) | research_topic, suggest_titles, generate_cover_image, publish_article |
+| [MisarBlog Growth Agent](https://www.misar.blog) | Data-driven analytics and growth strategy — analyzes blog performance, identifies content gaps, manages content series | Free (API key) | get_analytics_summary, list_my_articles, create_series, add_to_series |
+| [MisarBlog Community Agent](https://www.misar.blog) | Community management — monitors comments, reactions, newsletter metrics in one digest | Free (API key) | list_comments, get_reactions, list_newsletter_subscribers, list_newsletter_issues |
+
+MCP Server: [misarblog-mcp--misar.run.tools](https://misarblog-mcp--misar.run.tools) · [Smithery](https://smithery.ai/server/misar/misarblog-mcp) · [GitHub](https://github.com/mrgulshanyadav/misarblog-mcp) · Get API key: [misar.blog/settings/api](https://www.misar.blog/settings/api)
+
+---
+
+
 ## ⚡ Task and Workflow Agents
 
 ### Automation
