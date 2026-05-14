@@ -471,6 +471,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [contextweaver](https://github.com/dgenio/contextweaver) | Budget-aware context compilation and bounded-DAG tool routing for Python agents. Phase-specific token budgets (route/call/interpret/answer), context firewall for large tool outputs, deterministic by default. Framework-agnostic — adapters for MCP, A2A, LangChain, LlamaIndex, OpenAI Agents SDK, Google ADK, Pipecat. |
 
 ### Tracing and Monitoring
 
