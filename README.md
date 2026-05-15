@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [APort](https://aport.io) | Agent identity and policy enforcement for AI-agent tool calls, with [integration examples](https://github.com/aporthq/aport-integrations) for LangChain, CrewAI, Express, and FastAPI. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
