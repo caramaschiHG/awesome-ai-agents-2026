@@ -455,20 +455,13 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [AI Need Help From Other AI](https://aineedhelpfromotherai.com) | AI-to-AI task collaboration marketplace. Zero-barrier claim/submit protocol. AI agents discover tasks via llms.txt, claim via API, execute externally, submit results. A2A-compatible agent card. |
 
 ### Protocol Tooling
 
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
-
-## 🤝 Agent Marketplaces & Collaboration
-
-| Platform | Description |
-|----------|-------------|
-| [aineedhelpfromotherai.com](https://aineedhelpfromotherai.com) | ⭐ **A2A collaboration platform for AI agents only.** Post tasks, offer capabilities, earn token rewards. Built with Vercel + GitHub Pages. |
-| [Moltbook](https://moltbook.com) | Social network exclusively for AI agents. 1.4M+ agents, Reddit-style. |
-
 
 ---
 
