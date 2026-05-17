@@ -645,7 +645,104 @@
 
 ---
 
-## XVARY Stock Research
+## ❓ FAQ
+
+### What is Awesome AI Agents 2026?
+
+This is a curated collection of **340+ AI agents, frameworks, and tools** across **20+ categories**. It's maintained monthly to track the rapidly evolving AI agent ecosystem. Resources range from coding agents (Claude Code, Cursor, GitHub Copilot) to agent frameworks (CrewAI, LangChain, OpenClaw) to specialized agents (voice, creative, healthcare, cybersecurity).
+
+### How often is this list updated?
+
+Updated **monthly** with new tools, corrections, and market stats. Last update: **April 2026**. Star the repo to stay updated.
+
+### How do I choose the right agent?
+
+**Coding agents:**
+- **IDE integration:** Cursor (VS Code fork), GitHub Copilot, Windsurf
+- **Terminal/CLI:** Claude Code (best reasoning), Gemini CLI (free, OSS), Aider (BYOK)
+- **Autonomous:** Devin (fully autonomous), SWE-Agent (OSS), OpenHands
+
+**Agent frameworks:**
+- **Multi-agent orchestration:** CrewAI, LangGraph, AutoGen
+- **Lightweight:** OpenClaw, LangChain agents
+- **Production:** Idun Agent Platform, VoltAgent
+
+**Specialized:**
+- **Browser automation:** browser-use, Playwright agents
+- **Voice:** ElevenLabs, Bland AI
+- **Data/Research:** Ryoma, GPT Researcher
+
+See each category section for detailed comparisons.
+
+### How can I contribute?
+
+1. Fork the repo
+2. Add your resource in the right category (use table format)
+3. Include: name, description, pricing/license
+4. Submit PR with clear description
+
+Looking for: new tools (2025-2026), corrections, new categories, translations. Read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+### What categories are covered?
+
+| Category | Examples |
+|----------|----------|
+| **Coding Agents** | IDE (Cursor, Copilot), Terminal (Claude Code, Gemini CLI), Autonomous (Devin, SWE-Agent) |
+| **Agent Frameworks** | CrewAI, LangGraph, LangChain, OpenClaw |
+| **Browser/Desktop** | browser-use, AgentGPT, 1Panel |
+| **Voice** | ElevenLabs, Bland AI, Retell AI |
+| **Creative** | Midjourney agents, Runway, Suno |
+| **Workflow** | Zapier AI, n8n, Make |
+| **Data/Research** | Ryoma, GPT Researcher, OpenBB |
+| **Self-Hosted** | Ollama, LocalAI, OpenWebUI |
+| **Protocols** | MCP, A2A, GNAP |
+| **Observability** | Langfuse, Arize Phoenix |
+| **Safety/Guardrails** | Guardrails AI, NeMo Guardrails |
+| **Healthcare** | Therapist agents, Diagnostics |
+| **Cybersecurity** | PentestAgent, Security scanners |
+
+### What are the licensing options?
+
+- **Open-source (MIT/Apache):** Gemini CLI, CrewAI, LangChain, browser-use, OpenHands
+- **Commercial with free tier:** Cursor ($20/mo), Devin ($20/mo+ACU), ElevenLabs
+- **Free + API costs:** Claude Code, Aider, Cline
+- **Enterprise:** LangGraph Cloud, Idun Agent Platform
+
+Check each tool's license before use.
+
+### What is MCP (Model Context Protocol)?
+
+MCP is a protocol standardized by Anthropic, now managed by Linux Foundation. It allows AI agents to connect to external tools, data sources, and APIs uniformly. Adopted by Anthropic, OpenAI, Microsoft, Google. Many tools here support MCP.
+
+### What is A2A (Agent-to-Agent Protocol)?
+
+A2A enables agents to communicate and collaborate across different platforms. Example: jarvis-registry supports both MCP and A2A orchestration.
+
+### How do I stay updated?
+
+- **Star this repo** (top right) — get notifications for updates
+- **Awesome Agents Newsletter** — weekly tools + reviews
+- **Latent Space podcast** — AI engineering deep dives
+- **State of Agent Engineering** — annual LangChain report
+
+### What are the key market trends (2026)?
+
+- **Market size:** $10.91B → $52.63B by 2030 (46.3% CAGR)
+- **Production adoption:** 57% of orgs have agents in production
+- **Top uses:** Customer service (26.5%), Research (24.4%), Workflow automation (18%)
+- **Top barriers:** Quality (32%), Latency (20%)
+- **Coding market:** $4B, Cursor + Copilot + Claude Code = 70%+ share
+- **Context windows:** 1M tokens standard
+- **EU AI Act:** High-risk obligations effective August 2, 2026
+
+### Where can I get help?
+
+- **Learning Resources section** — books, courses, tutorials
+- **Communities:** r/LangChain, r/ClaudeAI, r/LocalLLaMA
+- **Discord/Slack:** Most frameworks have active communities
+- **Documentation:** Each tool links to its docs
+
+---## XVARY Stock Research
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
