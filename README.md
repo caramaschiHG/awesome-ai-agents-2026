@@ -217,6 +217,7 @@
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
+| [Bella (Joanna)](https://bella.salon/ai-receptionist-for-salons/) | Vertical voice AI receptionist for salons. Missed-call rescue, after-hours booking, SMS follow-up, post-visit rating capture. | From $39/mo |
 
 ### Open-Source Voice
 
