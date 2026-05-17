@@ -423,6 +423,7 @@
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
+| [somora](https://github.com/thenaxon/somora_agent) | Local-first gateway for personal multi-agent setups across Claude/ChatGPT/OpenAI-compatible engines with shared persistent memory. Three-phase dream system (REM/Deep/Lucid) consolidates session content into per-agent memory inboxes and a shared Obsidian-backed wiki. Web/mobile-PWA/TUI clients, 40+ tools, proactive trigger runtime (Sentinel). Node.js + SQLite. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
 ---
