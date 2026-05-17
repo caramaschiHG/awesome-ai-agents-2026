@@ -218,6 +218,8 @@
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
 
+
+- **[klymax402](https://klymax402.com)** - 100 x402 micropayment APIs for AI agents, composable in 6 use-case bundles. Pay-per-call USDC on Base L2, no signup, no API keys.
 ### Open-Source Voice
 
 | Tool | Description |
