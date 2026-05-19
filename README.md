@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Local-first TUI for AI coding-agent session logs, covering cost, tokens, latency, tool failures, diffs, reports, and CI gates. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
