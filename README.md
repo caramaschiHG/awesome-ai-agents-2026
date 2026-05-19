@@ -147,6 +147,7 @@
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
+| [Ontheia](https://github.com/Ontheia/ontheia) | TS | Self-hosted agent orchestration. Chain Engine (visual DAG). MCP-native. Multi-provider (Claude, OpenAI, Gemini, Ollama). pgvector memory. |
 
 ### Lightweight / Minimalist
 
@@ -424,6 +425,7 @@
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
+| [Ontheia](https://github.com/Ontheia/ontheia) | Self-hosted AI agent platform. Multi-provider (Claude, OpenAI, Gemini, Ollama). MCP-native. Chain Engine for visual workflows. Long-term memory (pgvector). Multi-user RBAC. Docker. AGPL-3.0. |
 
 ---
 
@@ -440,6 +442,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Ontheia](https://ontheia.ai) | Self-hosted multi-agent platform. Chain Engine for visual workflow automation. MCP-native. Multi-provider. GDPR-compliant by architecture. | Free (OSS) |
 
 ---
 
@@ -541,6 +544,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [Ontheia](https://ontheia.ai) | Self-hosted AI agent platform. GDPR-compliant by architecture — data never leaves your infrastructure. Multi-provider, no vendor lock-in. EU AI Act ready. AGPL-3.0. |
 
 ---
 
