@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [Beton Inspector](https://github.com/getbeton/inspector) | Open-source revenue intelligence. Scores accounts from PostHog product signals + CRM and routes the warmest leads to reps. Self-hostable. | Free (OSS) / SaaS |
 
 ---
 
