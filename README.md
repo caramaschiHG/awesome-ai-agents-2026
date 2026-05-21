@@ -390,6 +390,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [VaultForge](https://github.com/Easonnotsing/VaultForge) | AI agent skill transforming PDF/Markdown into structured Obsidian knowledge bases. 7-phase pipeline, incremental learning, 58 tests. Works with Claude Code, Codex, Cursor. |
 
 ---
 
