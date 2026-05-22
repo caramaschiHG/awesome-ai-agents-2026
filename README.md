@@ -80,7 +80,6 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
-| [Alfred](https://github.com/luminik-io/alfred-os) | Local runtime that turns GitHub issues and specs into autonomous Claude Code and Codex runs. It uses labels, clean worktrees, review/test routing, and Slack reports. | Free (OSS) |
 
 ### Autonomous Software Engineers
 
@@ -91,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [Alfred](https://github.com/luminik-io/alfred-os) | Self-hosted. GitHub issues to PRs via Claude Code and Codex on your subscription. Worktrees, label state, Slack reports. | Free (OSS) |
 
 ### Code Review and Security
 
