@@ -670,3 +670,5 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+- [Pulse](https://septimlabs.com/pulse?utm_source=awesome-list&utm_campaign=caramaschi) - Claude Code sub-agent that scores your X (Twitter) drafts against the published [twitter/the-algorithm](https://github.com/twitter/the-algorithm) heavy-ranker weights (+75 `reply_engaged_by_author`, -74 `negative_feedback_v2`, link tax, etc.) **before** you post. Outputs a 0-100 score, 5-axis breakdown, ship/rewrite verdict, and 3-5 concrete rewrites cited to which axis lifts. Drops into `~/.claude/agents/pulse.md`. Open-source sample: [github.com/septimlabs-code/septim-agents-pack-sample](https://github.com/septimlabs-code/septim-agents-pack-sample). $49 founding rate thru Mon 2026-05-26 ($79 after). [septimlabs.com/pulse](https://septimlabs.com/pulse)
