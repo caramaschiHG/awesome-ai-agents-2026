@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Bounty Sieve](https://github.com/junbuilds96/bounty-sieve) | Offline-by-default intake guardrail for coding agents evaluating bounty-like GitHub issues. Read-only URL import, deterministic triage, local decision briefs, and an in-repo agent skill with human approval gates. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
