@@ -71,7 +71,6 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Alfred](https://github.com/luminik-io/alfred-os) | Local agent-fleet runtime for Claude Code and Codex. GitHub issues become scheduled jobs with isolated worktrees, label state, review/test routing, and Slack reports. | Free (OSS) |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature. | $20/mo+ API |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ⭐ **NEW (Apr 2026)** Google's official open-source terminal agent. ReAct loop. MCP support. 1M context. Apache 2.0. | Free w/ Google account |
@@ -81,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Alfred](https://github.com/luminik-io/alfred-os) | Local agent-fleet runtime for Claude Code and Codex. GitHub issues become scheduled jobs with isolated worktrees, label state, review/test routing, and Slack reports. | Free (OSS) |
 
 ### Autonomous Software Engineers
 
