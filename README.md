@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [Ejentum](https://ejentum.com) | Reasoning harness. Four agentic tools (reasoning, code, anti-deception, memory) the agent calls during its loop; each returns a structured cognitive scaffold the model reads internally. Native integrations on PyPI / npm for LangChain, LangGraph.js, CrewAI, AutoGen, smolagents, Letta, PydanticAI, Agno, LlamaIndex, Vercel AI SDK, Mastra, Genkit. Also reachable via MCP. |
 
 ---
 
