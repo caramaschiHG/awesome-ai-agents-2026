@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
