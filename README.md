@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Perseus](https://github.com/tcconnally/perseus) | Live context engine. Pre-resolves workspace state (git, services, memory, coordination) into a markdown briefing at session start. Compile-before-context, not runtime tool calls. 13-tool MCP server. Multi-agent shared state. | Free (MIT) |
 
 ### Autonomous Software Engineers
 
@@ -455,6 +456,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [Perseus Context Protocol](https://github.com/tcconnally/perseus) | Declarative directive vocabulary (@query, @services, @agora, @memory, @waypoint) for AI context pre-resolution. Markdown-native, deterministic, assistant-agnostic. Multi-agent coordination with zero-collision concurrent writes. |
 
 ### Protocol Tooling
 
@@ -471,6 +473,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [Perseus](https://github.com/tcconnally/perseus) | Compile-before-context engine. Pre-resolves workspace state into markdown before the AI sees it — deterministic, cacheable, 23,000× faster than runtime tool calls. Single-file (perseus.py), zero major deps. MCP server façade with 13 tools. |
 
 ### Tracing and Monitoring
 
