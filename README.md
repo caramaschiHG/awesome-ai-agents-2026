@@ -322,6 +322,7 @@
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [Atendente24h](https://atendente24h.com) | AI WhatsApp chatbot for Brazilian SMBs. Claude-powered. 24/7 automated support, scheduling, sales. | From R$197/mo |
 
 ### AI-Powered CRMs
 
