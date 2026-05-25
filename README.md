@@ -460,6 +460,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [CorpusIQ](https://corpusiq.io) | Intelligent routing across 25+ business data sources via MCP protocol. |
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
 ---
