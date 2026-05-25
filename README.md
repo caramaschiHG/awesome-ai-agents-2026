@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [authsome](https://github.com/agentrhq/authsome) | Local credential broker. Log in once via OAuth2 or API key, encrypted vault stores secrets, local proxy injects them at request time so agents never see raw values. 45 providers bundled. MIT. |
 
 ---
 
