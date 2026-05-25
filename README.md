@@ -460,6 +460,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [CorpusIQ](https://mcp2.corpusiq.io/mcp) | **⭐ Official MCP Registry** — Multi-source business data connector. 25+ integrations (GA4, Google Ads, TikTok, YouTube, Shopify, Stripe, Airtable, Slack, HubSpot, Calendly, Klaviyo, and more). Intelligent query routing, cross-source attribution, unified business intelligence. Live at `io.corpusiq/multi-source-mcp`. HTTP transport, Ed25519 signed. |
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
 ---
