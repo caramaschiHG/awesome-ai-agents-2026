@@ -79,6 +79,7 @@
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
+| [WinkTerm](https://github.com/Cznorth/winkterm) | Self-hosted terminal where AI shares your PTY session; in-shell `#` chat, SSH, HTTP Agent API, installable skill for Cursor/Claude Code. | Free (OSS) + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
 
 ### Autonomous Software Engineers
@@ -423,6 +424,7 @@
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
+| [WinkTerm](https://github.com/Cznorth/winkterm) | Self-hosted AI terminal: shared PTY, SSH, file transfer, Agent HTTP API with atomic exec and SSE streaming. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
 ---
