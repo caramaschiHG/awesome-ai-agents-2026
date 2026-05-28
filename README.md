@@ -90,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | OSS AI coding orchestrator. Manages Claude Code, Codex, Antigravity, Copilot, OpenCode via plan-based lifecycle. Verification gates. Self-improving memory. [Website](https://tendril.ivy.app). | Free (OSS) |
 
 ### Code Review and Security
 
