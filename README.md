@@ -431,12 +431,12 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [Agent Teams](https://github.com/777genius/agent-teams-ai) | Open-source desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands; agents handle Kanban tasks, messaging, code review, and logs. Supports 200+ models and 75+ LLM providers. | Free (OSS) |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
 | [Grok](https://x.ai) | Real-time X data. Grok 4.20. Multi-agent Society of Mind. Image gen. | X Premium+ |
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
-| [Agent Teams](https://github.com/777genius/agent-teams-ai) | Open-source desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands; agents handle Kanban tasks, messaging, code review, and logs. Supports 200+ models and 75+ LLM providers. | Free (OSS) |
 | [TeamHero](https://github.com/sagiyaacoby/TeamHero) | Open-source multi-agent orchestration with web dashboard, task lifecycle, knowledge base, and autopilot mode. Built on Claude Code. Runs locally. | Free (OSS) |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
