@@ -154,6 +154,7 @@
 |-----------|------|-------------|
 | [Smolagents](https://github.com/huggingface/smolagents) | Py | HuggingFace minimal agents. ~1000 lines. |
 | [Agno](https://github.com/agno-agi/agno) | Py | Lightweight, model-agnostic. |
+| [LightAgent](https://github.com/wanxingai/LightAgent) | Py | Lightweight agent framework with memory, MCP/SSE integration, reusable Skills, Tree-of-Thought planning, streaming, and LightSwarm collaboration. |
 | [Upsonic](https://github.com/upsonic/upsonic) | Py | MCP support. Minimal setup. |
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
