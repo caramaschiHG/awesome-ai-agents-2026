@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [EFC (Everything Fact-Checked)](https://github.com/Nlai741533/EFC-Plugin) | Fact-checking for AI research reports. Catches 5 failure modes: unit errors, fabricated data, source conflation, stale data, attribution laundering. Agent-agnostic SKILL.md + CLI + GitHub Action. [Standalone](https://github.com/Nlai741533/EFC-standalone) |
 
 ---
 
