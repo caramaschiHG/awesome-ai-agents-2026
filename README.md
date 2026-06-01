@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AgentSight](https://github.com/eunomia-bpf/AgentSight) | Zero-instrumentation eBPF observability for LLM/coding agents. Captures syscall-level traces without modifying the agent. MIT. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
@@ -518,6 +519,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [ActPlane](https://github.com/eunomia-bpf/ActPlane) | OS-level agent harness. Compiles a policy DSL to an eBPF engine for labeled information-flow control at the syscall boundary, with corrective feedback. MIT. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
