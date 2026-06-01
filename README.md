@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Yao Agents](https://yaoagents.com) | Local-first AI execution platform with 30+ Experts and autonomous Robot workers. Docker sandbox, MCP support, 5-stage Pipeline, multi-platform messaging. | Free + BYOK |
 
 ### Autonomous Software Engineers
 
@@ -404,6 +405,7 @@
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput serving. PagedAttention. Production-grade. |
 | [LM Studio](https://lmstudio.ai) | Desktop app for local LLMs. Beautiful UI. All platforms. |
 | [Jan](https://github.com/janhq/jan) | OSS ChatGPT alternative. 100% offline. |
+| [Yao Agents](https://yaoagents.com) | Local-first AI execution platform. 30+ Experts. Autonomous Robot workers with 5-stage Pipeline. Docker sandbox, MCP support, BYOK models. |
 | [LocalAI](https://github.com/mudler/LocalAI) | Drop-in OpenAI API replacement. No GPU required. |
 | [Cerebras Inference](https://inference.cerebras.ai) | Fastest LLM inference. Llama 3.3 70B at 1000+ tok/s. Free tier. |
 | [Groq Cloud](https://console.groq.com) | Ultra-fast LPU inference. Mixtral, Llama, Gemma. Free API tier. |
@@ -438,6 +440,7 @@
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [TeamHero](https://github.com/sagiyaacoby/TeamHero) | Open-source multi-agent orchestration with web dashboard, task lifecycle, knowledge base, and autopilot mode. Built on Claude Code. Runs locally. | Free (OSS) |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
+| [Yao Agents](https://yaoagents.com) | Local-first AI execution platform with 30+ Experts and autonomous Robot orchestration. Docker sandbox, MCP, BYOK, multi-platform messaging. | Free + BYOK |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
 
