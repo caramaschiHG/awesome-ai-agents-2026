@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [XMACNA Funcionarios Digitais](https://xmacna.github.io/funcionarios-digitais-com-ia/) | Funcionarios Digitais with IA for lead qualification, WhatsApp follow-up, CRM updates, human handoff, and supervised sales workflow automation. | Custom |
 
 ---
 
