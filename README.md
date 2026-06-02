@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Huiyu-Pi](https://github.com/huiyu9144/pi-forge) | Local-first AI coding agent with pure Web UI. ~80 token system prompt, ~0.3s first token latency, 90%+ lower cost. Self-hosted alternative to Claude Code/Codex CLI. | Free (OSS) |
 
 ### Autonomous Software Engineers
 
