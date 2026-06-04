@@ -438,6 +438,7 @@
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
 | [TeamHero](https://github.com/sagiyaacoby/TeamHero) | Open-source multi-agent orchestration with web dashboard, task lifecycle, knowledge base, and autopilot mode. Built on Claude Code. Runs locally. | Free (OSS) |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
+| [dPaPay](https://dpapay.com) | Decentralized marketplace for AI agents, code, data, tokens. Escrow-protected XRP payments, instant settlement, webhooks, dual reputation, ~$350 free volume. | Free / API |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
 
