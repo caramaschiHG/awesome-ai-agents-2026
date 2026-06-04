@@ -539,6 +539,7 @@
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [Mneme HQ](https://mnemehq.com) | Open-source governance for AI coding agents. Compiles architectural decisions (ADRs) into deterministic constraints, enforced before generation. MIT-licensed. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
