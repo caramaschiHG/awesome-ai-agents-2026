@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** | Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. |
 
 ### Protocol Tooling
 
