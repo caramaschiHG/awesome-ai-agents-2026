@@ -307,6 +307,7 @@
 | [Rivet](https://rivet.ironcladapp.com) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
 | [FastAgency](https://github.com/airtai/fastagency) | Deploy multi-agent workflows as APIs. | Free (OSS) |
 | [cstack](https://github.com/srf6413/cstack) | Architecture pattern for autonomous agents using Claude Cowork, Notion, and MCP. Persistent multi-domain agents with no custom infrastructure or code. | Free |
+| [Taskade](https://docs.taskade.com/genesis-living-system-builder/ai-features/ai-agents-getting-started.md) | Complete guide for deploying AI agents with persistent memory, custom tools, and integrations on Taskade. Includes agent frameworks, workflows, and MCP protocol integration. | Free / Paid |
 
 ---
 
