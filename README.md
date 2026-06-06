@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [AI Agent Security Mini-Audit](https://github.com/MAUROCERON/ai-agent-security-mini-audit) | No-login launch-readiness self-check and mini-audit checklist for agentic workflows: prompt injection, tool permissions, secrets handling, logging, and approval gates. |
 
 ---
 
