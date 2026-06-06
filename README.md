@@ -216,6 +216,7 @@
 | [HeyGen](https://heygen.com) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
+| [AgentLine](https://agentline.cloud/) | Telephony infrastructure for AI agents — provision phone numbers, make/receive calls, and manage voice pipelines via API. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
 
 ### Open-Source Voice
