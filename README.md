@@ -187,6 +187,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [agent-qa](https://github.com/vostride/agent-qa) | Self-improving agentic QA harness for natural-language web test execution with memory and self-healing browser actions. |
 | [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
