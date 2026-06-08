@@ -261,6 +261,7 @@
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [cv.cm/v](https://cv.cm/v) | Queue-free Seedance 2.0 text/image-to-video, plus gpt-image-2/Seedream images and an open API. | Free credits |
 
 ### Music and Audio
 
