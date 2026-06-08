@@ -463,6 +463,8 @@
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | MCP server for AI agent wallet trust scoring and x402 micropayment verification. `score_agent(wallet)`, `preflight_check(wallet)`, `get_trust_receipt(wallet)`. Free + paid tiers. |
+
 ---
 
 ## 🔍 Observability and Evaluation
