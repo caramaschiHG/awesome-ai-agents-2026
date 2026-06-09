@@ -374,6 +374,7 @@
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
+| [DocKit](https://www.geekfun.club/products/dockit/) | Open-source NoSQL GUI with built-in Data AI Agent. Write natural language queries for MongoDB, Elasticsearch, DynamoDB, and OpenSearch. Supports 12 AI providers. Privacy-first desktop app built with Tauri. | Free (OSS) |
 
 ### RAG and Knowledge Bases
 
