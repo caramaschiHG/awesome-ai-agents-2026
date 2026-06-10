@@ -280,6 +280,12 @@
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
 
+### Content Creation
+
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [CreatorSkills](https://creatorskills.co) | Marketplace for AI skills (SKILL.md instruction packages) for content creators — YouTube scripting, sponsorship analysis, repurposing. Installs into Claude, ChatGPT, and 20+ agents. | Free / $9–$49 |
+
 ---
 
 ## ⚡ Task and Workflow Agents
