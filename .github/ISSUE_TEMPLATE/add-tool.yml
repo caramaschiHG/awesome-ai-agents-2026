@@ -1,0 +1,111 @@
+name: Add a tool or resource
+description: Suggest a new AI agent, framework, platform, tool, or resource for the list
+title: "Add: "
+labels: ["submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource. Please keep the submission factual and agent-specific.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Project or product name.
+      placeholder: Example Agent
+    validations:
+      required: true
+  - type: input
+    id: official-link
+    attributes:
+      label: Official link
+      description: Official website, docs, or repository. Please avoid UTM/referral links.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub repository
+      description: If available.
+      placeholder: https://github.com/org/repo
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      options:
+        - Coding Agents
+        - Agent Frameworks
+        - Browser and Desktop Agents
+        - Voice Agents
+        - Creative AI
+        - Task and Workflow Agents
+        - Customer Support and CRM Agents
+        - Data and Research Agents
+        - Local and Self-Hosted AI
+        - Multi-Agent Platforms
+        - Protocols and Standards
+        - Observability and Evaluation
+        - Open-Source Models for Agents
+        - AI Safety and Guardrails
+        - AI Governance and Compliance
+        - Cybersecurity Agents
+        - Healthcare and Therapy Agents
+        - Learning Resources
+        - Newsletters and Communities
+        - Other / unsure
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Concise description
+      description: One or two factual sentences.
+      placeholder: What does it do, and why is it relevant to AI agents?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: Explain how this is directly related to AI agents or agent workflows.
+    validations:
+      required: true
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing
+      placeholder: Free / OSS, Free / Paid, Usage-based, Enterprise, Custom
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: Required only for open-source projects.
+      placeholder: MIT, Apache-2.0, GPL-3.0, proprietary, unknown
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I checked that this is not already listed.
+          required: true
+        - label: I checked that there is no duplicate open issue or PR for this project.
+          required: true
+        - label: The link is official and has no UTM, referral, or affiliate parameters.
+          required: true
+        - label: The description is factual and avoids promotional language.
+          required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation disclosure
+      description: Say whether you maintain, work for, or are otherwise affiliated with the project.
+      placeholder: No affiliation.
+    validations:
+      required: true

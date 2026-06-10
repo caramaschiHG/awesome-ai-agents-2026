@@ -1,0 +1,52 @@
+name: Propose a new category
+description: Suggest a new section or category for the list
+title: "Category proposal: "
+labels: ["category-proposal", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when a submission does not fit the current sections or when a new section would improve the list.
+  - type: input
+    id: category-name
+    attributes:
+      label: Proposed category name
+      placeholder: Example: Agent Memory and Context Engineering
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Why this category is needed
+      description: Explain the gap in the current README structure.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example tools or resources
+      description: List at least 3 credible examples that would fit this category.
+      placeholder: |
+        - Tool A: https://example.com
+        - Tool B: https://example.com
+        - Tool C: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: placement
+    attributes:
+      label: Suggested placement
+      description: Where should this category appear in the README?
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: This category is specific to AI agents or agent workflows.
+          required: true
+        - label: This category is broad enough to include multiple credible tools.
+          required: true
+        - label: This category does not substantially duplicate an existing section.
+          required: true
