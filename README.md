@@ -471,6 +471,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [Middleware](https://github.com/middleware-labs/) | Middleware is a full-stack observability platform that detects issues from infra, APM, RUM and resolves them using the AI SRE Agent.|
 
 ### Tracing and Monitoring
 
