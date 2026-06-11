@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [FiatDock](https://fiatdock.com) | Non-custodial USDC ↔ bank on/off-ramp for AI agents — four MCP tools (free quotes, $0.05 USDC per session via x402), remote endpoint at `fiatdock.com/mcp`, in the official MCP Registry (`com.fiatdock/fiatdock-mcp`). `npx fiatdock-mcp`. |
 
 ---
 
