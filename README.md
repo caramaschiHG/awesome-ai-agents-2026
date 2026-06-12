@@ -299,6 +299,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [Boardroom](https://github.com/jamiejhouston-commits/boardroom) | Local-first iOS command center for running Hermes Agent as a human-supervised autonomous company with boardroom debates, greenlight approvals, and Demo Day. | Free noncommercial |
 | [Dify](https://github.com/langgenius/dify) | OSS LLMOps. Visual agent builder. RAG. 130k+ stars. | Free / Cloud |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | OSS drag-and-drop LLM agent builder. | Free (OSS) |
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual multi-agent and RAG builder. | Free / Cloud |
