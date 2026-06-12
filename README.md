@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [FlyTrap](https://flytrap.dev/) | Exploratory testing agent for Android and iOS apps. Finds bugs, crashes, UX issues. | Paid |
 
 ### App Builders (Prompt-to-App)
 
