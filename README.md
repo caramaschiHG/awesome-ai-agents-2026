@@ -261,6 +261,7 @@
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) | Renders 4-6s animated b-roll overlay mp4s for short-form social. AI-driven via MCP: agent writes the scene spec from your script. Remotion + Tabler + Lottie. | Free (MIT, local) |
 
 ### Music and Audio
 
