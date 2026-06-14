@@ -484,6 +484,7 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [Future AGI](https://github.com/future-agi/future-agi) | OSS platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents. |
 
 ### Benchmarks
 
@@ -601,7 +602,6 @@
 - Building LLM Apps (O'Reilly) - Practical LLM application development
 - AI Agents in Action (Manning) - Production-ready AI agents
 - AI Engineering (Chip Huyen) - AI systems design and deployment
-
 ---
 
 ## 📰 Newsletters and Communities
