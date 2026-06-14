@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [World Cup 2026 MCP Server](https://github.com/abaiii168/world-cup-2026-mcp-server) | Free MCP server for AI agents to fetch FIFA World Cup 2026 fixtures, local kickoff times, next match, one match by id, and Dataset JSON-LD. |
 
 ---
 
