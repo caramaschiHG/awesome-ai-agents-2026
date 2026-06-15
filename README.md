@@ -461,7 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
-| [FCoP](https://github.com/joinwell52-AI/FCoP) | File-based Coordination Protocol — behavior governance for multi-agent teams (FCoP v3.2.4). Filename-as-protocol; 45 MCP tools (`fcop-mcp`). [Glama](https://glama.ai/mcp/servers/joinwell52-AI/FCoP). MIT. |
+| [FCoP](https://github.com/joinwell52-AI/FCoP) | File-based Coordination Protocol — behavior governance for multi-agent teams (FCoP v3.2.5). Filename-as-protocol; 45 MCP tools (`fcop-mcp`). [Glama](https://glama.ai/mcp/servers/joinwell52-AI/FCoP) (A B A). MIT. |
 
 ---
 
