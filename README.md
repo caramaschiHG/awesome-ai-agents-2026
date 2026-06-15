@@ -455,12 +455,14 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [x402 (HTTP 402 Payment Required)](https://x402.org) | Open protocol for per-call agent micropayments via USDC. Agents pay APIs autonomously — no signup, no API key, no card. Agents discover resources via the CDP Bazaar. |
 
 ### Protocol Tooling
 
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Superhighway](https://superhighway.walls.sh) | Web search API for AI agents using x402 — search, news, images, scrape, and research at $0.001/call in USDC. Free API key (1k calls/month) also available. |
 
 ---
 
