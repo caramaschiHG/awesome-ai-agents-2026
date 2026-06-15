@@ -533,6 +533,7 @@
 
 | Tool / Resource | Description |
 |-----------------|-------------|
+| [Argus](https://github.com/tecnosor/argus-framework) | Banking compliance SDLC framework for AI agents. 5 specialized agents enforce GDPR, DORA, MiCA, PSD2, PCI-DSS across the entire software lifecycle. Open-source, agent-agnostic. |
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
