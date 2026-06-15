@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) | Browser extension shielding agents from prompt injection, PII leakage, and dark patterns before pages reach the model. Source-available. |
 
 ---
 
