@@ -601,7 +601,9 @@
 - Building LLM Apps (O'Reilly) - Practical LLM application development
 - AI Agents in Action (Manning) - Production-ready AI agents
 - AI Engineering (Chip Huyen) - AI systems design and deployment
-
+- [Advanced RAG Patterns](https://futureagi.com/ebooks/advanced-rag-patterns/) (Future AGI) - A free eBook on architecture patterns for reliable enterprise-scale RAG: hybrid retrieval, vector search optimization, hallucination detection, and common RAG failure modes.
+- [The Agentic RAG Playbook](https://futureagi.com/ebooks/mastering-agentic-rag/) (Future AGI) - A free eBook with production-ready agentic RAG patterns and measurable business outcomes.
+- [Mastering AI Agent Evaluation](https://futureagi.com/mastering-ai-agent-evaluation) (Future AGI) - A free eBook of evaluation playbooks for agent failure modes (planning, memory, tool use) and high-stakes production deployment.
 ---
 
 ## 📰 Newsletters and Communities
