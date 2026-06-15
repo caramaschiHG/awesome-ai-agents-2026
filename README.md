@@ -57,6 +57,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [7-24-IDE](https://github.com/strmax195-hue/7-24-IDE) | Desktop AI coding agent. Reads files, writes code, runs commands. | Open Source |
 | [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation. | Free / $20/mo |
 | [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5.4, Gemini 3.1). | $10/mo / $39/mo Pro+ |
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
