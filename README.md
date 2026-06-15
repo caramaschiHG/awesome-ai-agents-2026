@@ -379,6 +379,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AccInt](https://github.com/maxbaluev/accreted-intelligence) | Local-first Work Model memory for coding agents with MCP retrieval/action verbs and lifecycle hooks that preserve learning across sessions. |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
 | [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
