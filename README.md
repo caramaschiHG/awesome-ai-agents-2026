@@ -245,6 +245,7 @@
 | [Leonardo AI](https://leonardo.ai) | Multi-model. Realtime Canvas. 3D gaming assets. Canva-owned. | Free / $12+/mo |
 | [Recraft](https://recraft.ai) | Design-focused. Vector art, brand consistency. | Free / Paid |
 | [InkOS](https://github.com/Narcooo/inkos) | Autonomous novel-writing CLI agent. Agents collaborate to produce long-form fiction with continuity auditing, anti-AI-slop filtering, and style cloning. | Free / OSS |
+| [Seedream AI Studio](https://seedream4.video) | Seedream 5.0/4.5/4.0 models (ByteDance). Text-to-image + image-to-video via Kling 2.1. One platform, full workflow. | Free / Paid |
 
 ### Video Generation
 
