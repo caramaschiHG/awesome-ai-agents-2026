@@ -55,6 +55,7 @@
 
 ### IDE-Native Agents
 
+- [7-24-IDE](https://github.com/strmax195-hue/7-24-IDE) - Desktop AI coding agent. Describe what you want to build — the agent reads your files, writes code, runs commands, and shows the result.
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation. | Free / $20/mo |
