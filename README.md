@@ -198,6 +198,12 @@
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
 | [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
 
+#### Local Execution Backends
+
+| Tool | Description |
+|------|-------------|
+| [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) | MCP server for Claude Code subscription as local execution backend for agents. JSONRPC 2.0 via stdio, zero network ports, token-authenticated. No API key management. Used in Crew.ai, Hermes, Open Claw. |
+
 ---
 
 ## 🎙 Voice Agents
