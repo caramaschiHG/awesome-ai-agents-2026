@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Skales](https://skales.app) | Local-first desktop agent. Set a goal, it runs autonomously in the background. No cloud, no Docker, no terminal. GDPR-friendly, files stay on device. Win/macOS/Linux/Android. | Free / BYOK |
 
 ### Developer Infrastructure
 
