@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Novu Connect](https://novu.co/connect) | Connect external MCP servers to your agent mid-conversation, across every messaging channel (Slack, Teams, WhatsApp), with session-level tool access. Open source. `npx novu connect`. |
 
 ---
 
