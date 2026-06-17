@@ -409,6 +409,7 @@
 | [Groq Cloud](https://console.groq.com) | Ultra-fast LPU inference. Mixtral, Llama, Gemma. Free API tier. |
 | [Fireworks AI](https://fireworks.ai) | Serverless LLM inference. Fine-tuning. RAG. Free credits. |
 | [Together AI](https://together.ai) | 200+ open models. Fast inference API. Free tier. |
+| [Pinstripes](https://pinstripes.io) | Fast, cheap OpenAI-compatible inference. DeepSeek V4 Flash, Qwen3-35B, GLM-4.5-Air, MiniMax M2.7. |
 | [GPT4All](https://github.com/nomic-ai/gpt4all) | OSS local chat. Consumer hardware. |
 | [Llamafile](https://github.com/Mozilla-Ocho/llamafile) | LLMs as single files. Zero setup. Mozilla. |
 
