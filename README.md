@@ -129,6 +129,7 @@
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 | [Google ADK](https://github.com/google/adk-python) | Py | ⭐ Google's Agent Development Kit. Native Gemini. Multi-agent orchestration. |
+| [Aeon](https://github.com/aaronjmars/aeon) | YAML/TS | Autonomous agent on GitHub Actions. 90+ Markdown skills on cron/reactive triggers. Self-healing (auto-scores + patches). Persistent memory, MCP + A2A. MIT. |
 
 ### Multi-Agent Orchestration
 
@@ -440,6 +441,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [MiroShark](https://github.com/aaronjmars/MiroShark) | Swarm-intelligence engine: 100s of grounded LLM personas simulate Twitter, Reddit + a prediction market hour-by-hour. Neo4j-grounded, per-agent belief state, counterfactual branching. | ~$1/run (OSS, AGPL-3.0) |
 
 ---
 
