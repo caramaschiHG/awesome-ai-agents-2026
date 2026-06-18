@@ -448,6 +448,8 @@
 | Protocol | Description |
 |----------|-------------|
 | [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Donated to Linux Foundation. Industry standard for agent tools. |
+| [C2PA](https://c2pa.org/) | Coalition for Content Provenance and Authenticity - an open standard for content provenance. | Open Standard | ![Stars](https://img.shields.io/github/stars/c2pa-org/c2pa-rs?style=social) |
+| [Traveseal](https://traveseal.com) | A C2PA-compliant service for creating verifiable, tamper-resistant provenance for digital assets. | Freemium | ![Stars](https://img.shields.io/github/stars/traveseal/traveseal?style=social) |
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. Horizontal agent collaboration. |
 | [MCP Gateways](https://github.com/modelcontextprotocol) | Enterprise management layer: auth, routing, observability across MCP+A2A networks. |
 | [MCP Apps](https://github.com/modelcontextprotocol) | ⭐ **New in 2026** — Tools return rich interactive UIs (dashboards, forms) in agent chat. |
