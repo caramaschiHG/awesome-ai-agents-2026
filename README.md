@@ -604,6 +604,8 @@
 
 ---
 
+- [OpenRuna](https://www.openruna.com/hubs/ai-agents) — Graph directory of agents, tools, prompts, and benchmarks with MCP + agent enrichment network.
+
 ## 📰 Newsletters and Communities
 
 | Resource | Description |
