@@ -608,6 +608,7 @@
 
 | Resource | Description |
 |----------|-------------|
+| [AiToolsObserver](https://aitoolsobserver.com) | AI agent discovery, comparisons, ecosystem trends, and practical use cases |
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
