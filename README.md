@@ -586,6 +586,7 @@
 - [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21-lesson course
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Practical API guides
 - [Google ADK Documentation](https://google.github.io/adk-docs/) - ⭐ Official Google Agent Development Kit docs
+- [ClaudeCodeManual](https://github.com/NickScherbakov/ClaudeCodeManual) - Free course on Claude Code's Workflow tool (multi-agent orchestration): pipeline() vs parallel(), loop-until-dry, adversarial verify, budget loops — 15 chapters + 14 labs, browser trainer
 
 ### Key Papers
 - [ReAct](https://arxiv.org/abs/2210.03629) - Foundation for modern agents (reasoning + acting)
