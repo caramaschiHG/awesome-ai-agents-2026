@@ -481,6 +481,7 @@
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
 | [Braintrust](https://braintrustdata.com) | Eval-driven development. Experiment tracking. |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
+| [ax](https://github.com/Necmttn/ax) | Local-first observability and memory graph for AI coding-agent sessions, costs, tools, skills, and OTLP telemetry. |
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
