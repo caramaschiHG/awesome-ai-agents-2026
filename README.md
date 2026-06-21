@@ -90,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [LoopTroop](https://github.com/looptroop-ai/LoopTroop) | Local GUI orchestrator for AI coding agents. LLM Council plans, beads execute in isolated git worktrees, Ralph Loop retries failures with fresh context. Built on OpenCode. | Free (OSS) |
 
 ### Code Review and Security
 
