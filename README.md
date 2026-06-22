@@ -470,6 +470,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [context-audit](https://github.com/ishwar170695/context-audit) | CLI tool that audits coding-agent session transcripts. Benchmarked 27 real sessions: found 94.5% context reuse and falsified two common optimization assumptions (prompt caching saves <1%, retrieval bloat near-zero). Identifies workspace-recoverable vs. conversational memory for safe compaction. MIT. |
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
 
 ### Tracing and Monitoring
