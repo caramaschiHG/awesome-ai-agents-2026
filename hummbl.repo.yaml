@@ -1,0 +1,27 @@
+schema: "hummbl-repo-manifest@0.1"
+
+repo:
+  full_name: "hummbl-dev/awesome-ai-agents-2026"
+  name: "awesome-ai-agents-2026"
+  visibility: "public"
+  default_branch: "main"
+  status: "archived"
+
+purpose:
+  type: "fork"
+  summary: "Archived fork of caramaschiHG/awesome-ai-agents-2026. Held for reference/provenance, not active development."
+  source_of_record: "git"
+
+authority:
+  steward: "HUMMBL Research Institute"
+  approving_human: "Reuben Bowlby"
+
+governance:
+  agents_required: false
+  krineia_required: false
+  model_provider_neutral: true
+  fork_of: "caramaschiHG/awesome-ai-agents-2026"
+  archived: true
+
+docs:
+  fork_boundary: "HUMMBL_FORK.md"
