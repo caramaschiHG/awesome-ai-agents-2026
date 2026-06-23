@@ -539,6 +539,7 @@
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [MAREF](https://github.com/maref-org/maref) | Open-source agent governance OS. TLA+ formal verification, 10-state Gray Code FSM, per-agent Ed25519 identity, HALT absorbing-state circuit breaker, LoRA/ontology dual drift detection. 10/10 OWASP Agentic Top 10. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
