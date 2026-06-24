@@ -271,6 +271,7 @@
 | [ElevenLabs Music](https://elevenlabs.io) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
 | [Stable Audio](https://stableaudio.com) | High-quality. Commercial license. | Free / Paid |
 | [Meta AudioCraft](https://github.com/facebookresearch/audiocraft) | OSS. MusicGen + AudioGen. | Free (OSS) |
+| [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) | Open-source 21-skill agent pack for music creators: Rights Passport, Campaign in a Box, provenance mapping, royalty routing, SEO/AEO/AI EO audits, code grading, design QA, agent commerce. Runs in Claude Code / Codex. | Free (MIT) |
 
 ### 3D and Design
 
