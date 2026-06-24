@@ -390,6 +390,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [Memxus](https://github.com/gpitrella/memxus-remote-mcp) | Universal persistent memory MCP server. Save context once across Claude Code, Cursor, Gemini CLI and any AI tool — recall it automatically in every session. Connects GitHub + Notion. Free at memxus.com |
 
 ---
 
