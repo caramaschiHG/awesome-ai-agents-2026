@@ -210,6 +210,7 @@
 | [Vapi](https://vapi.ai) | Developer-first. Low-latency, model-agnostic. | Usage-based |
 | [Bland AI](https://bland.ai) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
 | [Voiceflow](https://voiceflow.com) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
+| [Hermes](https://www.buildwithhermes.com) | White-label voice agent platform for agencies. Native CRM, campaigns, telephony, transparent billing. Replaces the Retell plus GHL plus Zapier plus Stripe stack. | From $149/mo |
 | [Synthflow](https://synthflow.ai) | No-code voice agents for SMBs. Templates. | From $29/mo |
 | [PolyAI](https://poly.ai) | Enterprise. Natural multi-turn. Hospitality/retail. | Enterprise |
 | [Retell AI](https://retellai.com) | Human-like voice agents. Multi-language. Telephony. | Usage-based |
