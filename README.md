@@ -79,6 +79,7 @@
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
+| [Zara Agent](https://github.com/aldok10/zara-agent-opc) | Empathetic AI partner for OpenCode. 10 agents, cognitive memory, 132-signal skill routing, self-improving. MCP. | Free (OSS) |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
 
 ### Autonomous Software Engineers
