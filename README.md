@@ -67,7 +67,7 @@
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
 | [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
 
-### Terminal and CLI Agents
+| [Loopy](https://github.com/arjunkshah/loopy) | Kanban-based agent operating system that orchestrates 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Core loop runs fully locally. | Free (OSS) + API keys |
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
