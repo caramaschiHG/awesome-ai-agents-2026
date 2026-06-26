@@ -261,6 +261,7 @@
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill) | Bilingual (EN/中文) Claude Agent Skill. Rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt for Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu. | Free (OSS) |
 
 ### Music and Audio
 
