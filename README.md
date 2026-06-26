@@ -419,6 +419,7 @@
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted ChatGPT UI. Access control. Extensions. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. | 
 | [openclaw-starter](https://github.com/feralghost/openclaw-starter) | Fork-and-run template for 24/7 autonomous AI agents. Pre-configured SOUL.md, memory system, KANBAN, heartbeat. Start in 30 minutes. |
+| [zyrabit-SLM](https://github.com/Zyrabit-tech/zyrabit-SLM) | Enterprise sovereign AI stack. Go+SQLite runtime. Hybrid RAG (FTS5+ChromaDB). PII-first Gatekeeper FSM. AutoLearner memory (STM/MTM/LTM). MCP v1.0 native. Tenstorrent bridge (beta). Zero WAN egress. For regulated industries. | Free (OSS, MIT) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hosted multi-model chat. All major providers. |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
@@ -537,6 +538,7 @@
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
+| [zyrabit-SLM](https://github.com/Zyrabit-tech/zyrabit-SLM) | Air-gapped sovereign AI stack. PII scrubbing before inference via Gatekeeper FSM. Immutable audit logs. Local inference (Ollama). Docker zero-egress architecture (internal: true). MCP v1.0 native. Built for regulated industries. | Free (OSS, MIT) |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
