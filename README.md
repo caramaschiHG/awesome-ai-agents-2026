@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [BuyWhere](https://buywhere.ai) | AI-powered cross-border shopping discovery agent for AI agents. Searches 11M+ live products across Shopee, Lazada, Amazon, Harvey Norman, and 200+ retailers in SG/SEA/US with price comparison and deal alerts. MCP-native (`npx @buywhere/mcp-server`) and REST API. | Free / Pay-per-call API |
 
 ---
 
