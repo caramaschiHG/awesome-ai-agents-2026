@@ -35,6 +35,7 @@
 - [Creative AI](#-creative-ai) — Image, Video, Music, 3D
 - [Task and Workflow Agents](#-task--workflow-agents) — Automation, No-Code Builders
 - [Customer Support and CRM Agents](#-customer-support--crm-agents)
+- [Marketing & SEO Agents](#-marketing--seo-agents)
 - [Data and Research Agents](#-data--research-agents) — Deep Research, Data Analysis, RAG
 - [Local and Self-Hosted AI](#-local--self-hosted-ai) — LLM Runners, Self-Hosted UIs
 - [Multi-Agent Platforms](#-multi-agent-platforms)
@@ -346,6 +347,15 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+
+---
+
+## 📈 Marketing & SEO Agents
+
+### AEO & Generative Engine Optimisation
+
+- [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) - Curated list of agentic GEO/AEO frameworks, MCP servers for SEO data, agent skill packages, and autonomous content pipelines for AI search optimisation.
+- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) - Research, tooling, and measurement guides for answer engine optimisation - the reference list covering what these agents are built to optimise for.
 
 ---
 
