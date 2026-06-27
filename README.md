@@ -301,6 +301,7 @@
 |-------|-------------|---------|
 | [Dify](https://github.com/langgenius/dify) | OSS LLMOps. Visual agent builder. RAG. 130k+ stars. | Free / Cloud |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | OSS drag-and-drop LLM agent builder. | Free (OSS) |
+| [Gravity](https://gravity.fast) | No-build AI agent platform. Describe a task in plain English and an expert-built agent returns the finished result in about 60 seconds. No setup or infrastructure. | Pay per use ($1=1k credits) |
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual multi-agent and RAG builder. | Free / Cloud |
 | [Lindy](https://lindy.ai) | No-code agents. 3000+ integrations. | From $49/mo |
 | [Relevance AI](https://relevanceai.com) | No-code agents for sales, support, research. | Free / Paid |
