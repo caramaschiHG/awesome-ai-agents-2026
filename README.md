@@ -384,6 +384,7 @@
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
 | [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
+| [Vestige](https://github.com/samvallad33/vestige) | Local-first memory MCP server for AI coding agents. Rust, single binary. FSRS-6 retention, hybrid keyword and vector retrieval. Works with any MCP client. |
 | [Chroma](https://github.com/chroma-core/chroma) | OSS embedding database. Fastest way to build RAG. |
 | [Weaviate](https://github.com/weaviate/weaviate) | OSS vector DB. GraphQL. Multi-modal search. |
 | [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
