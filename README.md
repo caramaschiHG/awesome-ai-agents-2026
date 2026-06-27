@@ -354,8 +354,10 @@
 
 ### AEO & Generative Engine Optimisation
 
-- [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) - Curated list of agentic GEO/AEO frameworks, MCP servers for SEO data, agent skill packages, and autonomous content pipelines for AI search optimisation.
-- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) - Research, tooling, and measurement guides for answer engine optimisation - the reference list covering what these agents are built to optimise for.
+| Resource | Description |
+|----------|-------------|
+| [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) | Agentic GEO/AEO frameworks, MCP servers for SEO data, agent skill packages, and autonomous content pipelines for AI search optimisation. |
+| [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) | Research, tooling, and measurement guides for answer engine optimisation. |
 
 ---
 
