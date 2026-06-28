@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [eda-agent](https://github.com/salitronic/eda-agent) | Open-source MCP server that automates Altium Designer over a local bridge. 290+ tools for schematic, PCB, library, and project tasks, with an autonomous design-plan executor. | Free (OSS) |
 
 ### No-Code Agent Builders
 
