@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) | MCP server giving an AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, create/trade tokens. | Free / Open Source |
 
 ### No-Code Agent Builders
 
