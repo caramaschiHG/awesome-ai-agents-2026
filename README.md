@@ -537,6 +537,7 @@
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
+| [Nobulex](https://github.com/arian-gogani/nobulex) | Credit scores for AI agents. Bilateral Ed25519 receipts accumulate into Trust Capital (300-850 reputation score) gating agent autonomy. OWASP-merged. CTEF 14/14 conformance. MIT. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
