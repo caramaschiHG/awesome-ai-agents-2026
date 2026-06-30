@@ -323,7 +323,10 @@
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
 
-### AI-Powered CRMs
+### AI
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source LLM prompt compression. Cuts ~65% of tokens. CPU-only. [supercompress.dev](https://supercompress.dev)
+-Powered CRMs
 
 | CRM | AI Features | Pricing |
 |-----|-------------|---------|
