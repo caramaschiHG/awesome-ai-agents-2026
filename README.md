@@ -222,6 +222,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AVA](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) | OSS AI voice agent for Asterisk/FreePBX. Mix STT/LLM/TTS providers or run fully local. |
 | [LiveKit Agents](https://github.com/livekit/agents) | OSS real-time voice/video AI agents. |
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
