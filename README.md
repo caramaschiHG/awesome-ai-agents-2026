@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Project Telos](https://github.com/HarperZ9/telos) | Local-first MCP/CLI workbench for agent workflows: source provenance, workspace maps, routing ledgers, action receipts, context packs, and verification doctors. |
 
 ---
 
