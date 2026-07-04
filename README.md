@@ -375,6 +375,12 @@
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
 
+### Agent Data APIs
+
+| Platform | Description | Pricing |
+|----------|-------------|---------|
+| [AgentServices](https://agentservices.to) | 54 services, 41 x402-paid endpoints, 37 MCP tools. Crypto market data, stock prices, forex, news, on-chain analytics, AI inference. No API keys — agents pay per-request via x402 protocol (USDC on Base). | $0.01/call |
+
 ### RAG and Knowledge Bases
 
 | Tool | Description |
@@ -461,6 +467,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [AIServices](https://github.com/vbkotecha/aiservices-api) | Paid APIs for AI agents. 21 endpoints (crypto data, DeFi yields, dispute resolution) with x402 micropayments. MCP-compatible. |
 
 ---
 
