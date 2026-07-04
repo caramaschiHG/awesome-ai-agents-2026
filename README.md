@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [AIServices](https://github.com/vbkotecha/aiservices-api) | Paid APIs for AI agents. 21 endpoints (crypto data, DeFi yields, dispute resolution) with x402 micropayments. MCP-compatible. |
 
 ---
 
