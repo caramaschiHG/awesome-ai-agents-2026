@@ -521,6 +521,7 @@
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
+| [AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack) | Free repo preflight scanner and checklist for catching risky agent instructions, secrets, and destructive commands before AI coding-agent runs. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
