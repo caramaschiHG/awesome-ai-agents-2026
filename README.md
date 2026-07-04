@@ -163,6 +163,8 @@
 | Collection | Description |
 |------------|-------------|
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
+| [SOE Compliant Office](https://github.com/yuzhaopeng-up/soe-compliant-office) | 20 agent skills for Chinese SOEs. Built-in compliance, audit trail, GB/T 9704 national standards. Three domains: Document, Compliance, Reporting. |
+| [Financial AI Skills](https://github.com/yuzhaopeng-up/financial-ai-skills) | 104 financial agent skills. Pure Python, zero API cost. Invoice, budget, risk, tax engines. 7 categories, 52+ scenarios. |
 
 ---
 
@@ -374,6 +376,7 @@
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
+| [Financial AI Skills](https://github.com/yuzhaopeng-up/financial-ai-skills) | 104 financial analysis skills. Zero API cost, millisecond response. Invoice, budget, risk, tax, cash flow engines. | Free (OSS) |
 
 ### RAG and Knowledge Bases
 
@@ -541,6 +544,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [SOE Compliant Office](https://github.com/yuzhaopeng-up/soe-compliant-office) | Open-source SOE compliance skills. 6-dimension compliance check, human-in-loop L1-L5 risk grading, evidence chain cross-validation, red-team adversarial testing. |
 
 ---
 
@@ -670,3 +674,4 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
