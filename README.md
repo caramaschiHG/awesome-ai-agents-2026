@@ -424,6 +424,7 @@
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
+| [CorvinOS](https://github.com/CorvinLabs/CorvinOS) | Self-hosted agentic OS with EU AI Act 2026 & GDPR compliance built into the architecture. Connects Ollama local models and cloud providers to Discord, Telegram, WhatsApp, Slack, and Email. 36-layer security stack, runtime tool/skill generation, multi-tenant orchestration. `pip install corvinos` Apache-2.0. |
 
 ---
 
