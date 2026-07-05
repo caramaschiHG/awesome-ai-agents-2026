@@ -162,6 +162,7 @@
 
 | Collection | Description |
 |------------|-------------|
+| [claude-md-templates](https://github.com/fablerlabs/claude-md-templates) | Copy-paste CLAUDE.md and AGENTS.md starter templates plus filled-in worked examples (Next.js SaaS, Python CLI) for Claude Code, Cursor, and other AI coding agents. |
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
 
 ---
