@@ -454,6 +454,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [x402](https://github.com/x402-foundation/x402) | ⭐ **New in 2026** — HTTP payment protocol for AI agents. Agents pay per API call in USDC via EIP-3009. Zero subscriptions. Implemented by [VeraData](https://api.veradata.dev) (compliance) and [Intelica](https://api.intelica.dev) (intelligence). |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
 
 ### Protocol Tooling
@@ -539,6 +540,7 @@
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [VeraData](https://api.veradata.dev) | LATAM compliance API: sanctions screening (OFAC+UN+EU+UK, 59k+ entries), KYB for CO/MX/BR/CL/PE with EU AI Act Art.12/13 audit trail. MCP-native, x402 micropayments. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
