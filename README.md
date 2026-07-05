@@ -381,6 +381,7 @@
 |------|-------------|
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
 | [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
+| [BundleDex](https://bundledex.net) | A curated directory of OKF (Open Knowledge Format) bundles for AI agents. 239 bundles indexed with search, categories, and an agent-friendly API. |
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
 | [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
