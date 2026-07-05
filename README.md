@@ -439,6 +439,7 @@
 | [TeamHero](https://github.com/sagiyaacoby/TeamHero) | Open-source multi-agent orchestration with web dashboard, task lifecycle, knowledge base, and autopilot mode. Built on Claude Code. Runs locally. | Free (OSS) |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
+| [AgentMagnet](https://agentmagnet.vercel.app) | Agentic utility platform with AGC credit economy. Agents earn credits completing tasks, spend to access AI APIs (generate, proxy, analyze). Proof-of-work trust chains, OpenAI-compatible proxy, behavioral memory, Stripe payments. | Free (50 AGC) / Pay-as-you-go |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
 
 ---
