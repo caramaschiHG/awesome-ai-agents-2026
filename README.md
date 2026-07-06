@@ -11,6 +11,8 @@
   [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
   <h3>The most comprehensive list of AI agents, frameworks, and tools in 2026.</h3>
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   <h4>340+ resources across 20+ categories. Updated monthly.</h4>
 
   <br>
