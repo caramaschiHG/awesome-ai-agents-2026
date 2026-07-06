@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [rtblint](https://github.com/aleksUIX/rtblint) | Rust CLI, WASM browser tester, and MCP server that validates OpenRTB bid requests against the IAB Tech Lab spec (2.0 through 3.0): missing fields, type mismatches, deprecated/unknown fields. Free, open source (Apache 2.0). ![Stars](https://img.shields.io/github/stars/aleksUIX/rtblint) |
 
 ---
 
