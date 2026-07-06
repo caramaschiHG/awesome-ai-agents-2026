@@ -431,6 +431,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [AgentLine](https://github.com/AgentLineHQ/AgentLine) | Open-source telephony API for AI agents — give agents real phone numbers for voice calls & SMS. Works with OpenClaw, Hermes Agent, Claude Code, and any LLM via webhooks or MCP. | $2/number, $0.10/min |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
