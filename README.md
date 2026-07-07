@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [Sutando](https://github.com/sonichi/sutando) | Voice-first personal AI agent. Realtime Gemini voice + screen context, proactive loop, multi-channel (Discord/Slack/Telegram). macOS-native, self-hosted. |
 
 ---
 
@@ -422,6 +423,7 @@
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hosted multi-model chat. All major providers. |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
+| [Sutando](https://github.com/sonichi/sutando) | Voice-first personal AI agent for macOS. Realtime voice + screen context, proactive background loop, task bridge across Discord/Slack/Telegram, self-healing health check. Rewrites its own skills at night. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
