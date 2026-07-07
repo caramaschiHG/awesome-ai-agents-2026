@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [LiveContext](https://github.com/livecontext-ai/livecontext-ce) | Self-hosted AI automation. Describe a job in chat, get a readable workflow with scoped, budgeted AI agents, and a shipped app. Fair-code. | Free / Cloud |
 
 ### No-Code Agent Builders
 
