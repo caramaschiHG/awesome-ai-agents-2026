@@ -303,6 +303,7 @@
 | [Flowise](https://github.com/FlowiseAI/Flowise) | OSS drag-and-drop LLM agent builder. | Free (OSS) |
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual multi-agent and RAG builder. | Free / Cloud |
 | [Lindy](https://lindy.ai) | No-code agents. 3000+ integrations. | From $49/mo |
+| [LLMGraph](https://llmgraph.ai) | Visual builder for LLM/AI workflows. Turn docs and models into RAG chatbots and agents, then deploy each to a REST API and an embeddable chat widget. | 14-day trial / Paid |
 | [Relevance AI](https://relevanceai.com) | No-code agents for sales, support, research. | Free / Paid |
 | [Rivet](https://rivet.ironcladapp.com) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
 | [FastAgency](https://github.com/airtai/fastagency) | Deploy multi-agent workflows as APIs. | Free (OSS) |
