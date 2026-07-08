@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [APort](https://aport.io/) | AI agent passport and control plane for pre-action authorization, policy enforcement, and signed audit records across agent frameworks and MCP tools. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
