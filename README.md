@@ -385,6 +385,7 @@
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
 | [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
 | [Chroma](https://github.com/chroma-core/chroma) | OSS embedding database. Fastest way to build RAG. |
+| [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) | Self-updating repo wiki for AI coding agents that tracks project conversations and context locally. |
 | [Weaviate](https://github.com/weaviate/weaviate) | OSS vector DB. GraphQL. Multi-modal search. |
 | [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
