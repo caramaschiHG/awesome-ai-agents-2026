@@ -549,6 +549,7 @@
 | Agent | Description |
 |-------|-------------|
 | [CAI](https://github.com/aliasrobotics/CAI) | AI pentesting, vuln discovery, red teaming. HITL. |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Autonomous AI pentest platform & MCP host. Per-tech offensive sub-agents, AD & Kubernetes, evidence trail per finding. |
 | [YAWNING TITAN](https://github.com/dstl/YAWNING-TITAN) | Graph-based cybersecurity simulation. |
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered pentesting. Automated reasoning. |
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
