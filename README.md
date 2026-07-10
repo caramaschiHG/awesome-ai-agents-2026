@@ -390,6 +390,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [Zoom Search](https://github.com/goofrey/zoom-search) | Search tool for AI agents with query rewriting, domain zoom-in, sourced answers, and MCP/LangGraph integration. |
 
 ---
 
