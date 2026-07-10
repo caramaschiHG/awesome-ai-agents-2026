@@ -405,6 +405,7 @@
 | [LM Studio](https://lmstudio.ai) | Desktop app for local LLMs. Beautiful UI. All platforms. |
 | [Jan](https://github.com/janhq/jan) | OSS ChatGPT alternative. 100% offline. |
 | [LocalAI](https://github.com/mudler/LocalAI) | Drop-in OpenAI API replacement. No GPU required. |
+| [Control Layer](https://github.com/doublewordai/control-layer) | OSS AI model gateway (Rust). Unified OpenAI-compatible API across providers. Auth, API keys, user management, request logging. Self-hosted. |
 | [Cerebras Inference](https://inference.cerebras.ai) | Fastest LLM inference. Llama 3.3 70B at 1000+ tok/s. Free tier. |
 | [Groq Cloud](https://console.groq.com) | Ultra-fast LPU inference. Mixtral, Llama, Gemma. Free API tier. |
 | [Fireworks AI](https://fireworks.ai) | Serverless LLM inference. Fine-tuning. RAG. Free credits. |
