@@ -86,6 +86,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Devin](https://devin.ai) | Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning. | $20/mo + ACU |
+| [DevIntern](https://devintern.com) | Turns tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown into self-reviewed PRs using your choice of coding agent (Claude Code, Codex, Cursor, others), on your machines with your own model keys. Feasibility gate flags vague tickets back with questions. | Free interactive / paid unattended |
 | [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | GitHub issue-to-PR agent. | Copilot sub |
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
