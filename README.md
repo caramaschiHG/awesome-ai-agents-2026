@@ -174,6 +174,7 @@
 |-------|-------------|---------|
 | [OpenAI Operator](https://operator.chatgpt.com) | ChatGPT autonomous web agent. Human checkpoints. CUA tech. | ChatGPT Pro |
 | [Manus (Meta)](https://manus.im) | Autonomous digital employee. Browser Operator extension. Acquired by Meta. | Free / Paid |
+| [MCPlato](https://mcplato.com/) | Local-first desktop AI workspace for macOS and Windows. Keeps files, conversations, MCP tools, and parallel agent sessions scoped to project directories. | Free / Paid |
 | [Claude Computer Use](https://docs.anthropic.com/en/docs/agents-and-tools/computer-use) | Anthropic desktop/browser control via screenshots. | API |
 | [Claude in Chrome](https://claude.ai) | Anthropic browsing agent. Beta. | Claude sub |
 | [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) | Gemini browser agent. Multi-tasking. | Waitlist |
