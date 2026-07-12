@@ -261,6 +261,7 @@
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [Vox Director](https://github.com/Alisa0808/vox-director) | OSS agent skill: one topic → a finished Vox-style paper-collage explainer/ad video — script, collage art, motion, voice, music, captions. Works with Claude Code / Codex. | Free (OSS) |
 
 ### Music and Audio
 
