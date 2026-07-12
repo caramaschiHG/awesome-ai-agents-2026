@@ -147,6 +147,7 @@
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
+| [Agon](https://github.com/AutoResearch-Factory/Agon) | N/A | Omnidisciplinary research orchestrator. Prompt Economy treats prompting as engineering, maximizes ROI. 18 roles total. |
 
 ### Lightweight / Minimalist
 
@@ -495,6 +496,7 @@
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
+| [PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap) | Multi-agent orchestration prompting benchmark. 110 scenarios, 10 topologies. |
 
 ---
 
