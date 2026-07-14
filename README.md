@@ -110,6 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [VibeKit.bot](https://vibekit.bot) | Describe an app in chat, a persistent agent builds it, hosts it at its own domain, and keeps improving it. Phone-first (iOS) or web. | Free / BYOK / pay-as-you-go |
 
 ---
 
