@@ -250,6 +250,7 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [iLoveVideoEditor](https://ilovevideoeditor.com) | Motion design engine for automated video production: 249 templates, JSON-to-MP4 API, SDKs, and AI agents via MCP. | API |
 | [Google Veo 3.1](https://deepmind.google) | ⭐ **Best in class** Native audio+video. 4K. Veo 3.1 Lite for devs (Apr 2026). | API |
 | [Kling 3.0](https://klingai.com) | ⭐ Cinematic realism. 15s sequences. Native audio sync. Character consistency. | Free / $6.99+/mo |
 | [Runway Gen-4.5](https://runwayml.com) | No.1 benchmark. Motion Brush, Director Mode. Best editing. | From $12/mo |
