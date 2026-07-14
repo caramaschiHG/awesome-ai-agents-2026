@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | Apache-2.0 CLI that exposes an existing local agent or automation as a capability callable by teammates or other agents over a trusted LAN. Current Alpha uses plain HTTP and a shared key. |
 
 ---
 
