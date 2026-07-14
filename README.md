@@ -495,6 +495,7 @@
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
+| [SquidLab](https://squidlab.squidbot.app) | AI model leaderboard. Compare models by agent performance, coding, image, video, and chat with pricing data.
 
 ---
 
