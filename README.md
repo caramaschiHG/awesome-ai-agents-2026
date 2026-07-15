@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Failproof AI](https://github.com/FailproofAI/failproofai) | Open-source runtime reliability platform for AI agents. Runtime guardrails, workflow replay, policy enforcement, tracing, and production debugging. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
