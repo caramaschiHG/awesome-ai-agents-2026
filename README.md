@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [Agent-First CLI Specs](https://cli-specs.intrane.fr) | Four open MIT specs for agent-driven CLIs: output contract (stdout=data, stderr=context, semantic exit codes, typed errors, help-json), guide command (embedded mental model), feedback command (dual-write relay), self-update (content-hash, atomic swap). 5 reference implementations. |
 
 ### Protocol Tooling
 
