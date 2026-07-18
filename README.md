@@ -115,6 +115,10 @@
 
 ## 🧱 Agent Frameworks
 
+### API Aggregation & Relay
+- [JiuRelay](https://jiurelay.com) — Free, zero-registration AI API relay supporting 20+ models (Claude, GPT-4o, Gemini, DeepSeek, GLM, Kimi, Qwen, Doubao) behind one OpenAI/Anthropic-compatible endpoint; rotating API keys auto-refresh every hour. Ideal for agent developers who need multi-model access without per-provider signups.
+
+
 ### General Purpose
 
 | Framework | Lang | Description |
