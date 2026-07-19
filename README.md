@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [GenTech Agent Kit](https://github.com/ProtoJay4789/genTech-agent-kit) | Python SDK for ERC-8004 agent identity management, x402 pay-per-call API gateway access, and on-chain agent reputation across 6 chains. |
 
 ---
 
