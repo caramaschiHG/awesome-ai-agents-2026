@@ -317,6 +317,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Intercom Fin](https://intercom.com) | Resolves 50%+ tickets. Learns from help center. | From $29/seat |
+| [Runbear](https://runbear.io/) | Shared AI teammates in Slack and Microsoft Teams for support triage, ticket routing, and cross-tool workflows. | From $79/mo |
 | [Zendesk AI](https://zendesk.com) | Ticket routing, sentiment detection, Answer Bot. | From $19/agent |
 | [Ada](https://ada.cx) | Autonomous resolution. Multi-channel. SOP Playbooks. | Enterprise |
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
