@@ -431,6 +431,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [AgentGrid](https://agentgrid.sh) | Desktop app (Electron, macOS/Linux/Windows). Infinite zoomable canvas for orchestrating multiple coding agents in parallel; a master orchestrator spawns role-based workers (builder, QA, reviewer), each in its own git worktree, with integrated terminals and Playwright browser panes. Runs Claude Agent SDK and OpenAI Codex SDK. | Free tier / Paid |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
