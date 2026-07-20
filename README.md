@@ -322,6 +322,7 @@
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [Hellomatik](https://hellomatik.com) | Turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. | Paid |
 
 ### AI-Powered CRMs
 
