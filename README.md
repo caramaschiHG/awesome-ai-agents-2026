@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [Warmbly](https://github.com/warmbly/warmbly) | Open-source cold email and warmup platform with agentic automations and deliverability controls. | Free trial / $29+/mo |
 
 ---
 
