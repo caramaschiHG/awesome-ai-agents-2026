@@ -484,6 +484,7 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) | CLI that diffs two agent runs. Tool calls, args, cost, latency, outcome flips, flake detection. |
 
 ### Benchmarks
 
