@@ -581,6 +581,7 @@
 ### Courses and Tutorials
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) - Open-source agent dev course
+- [Cosas Agénticas](https://cosasagenticas.com/) - Practical AI agent guides, Spanish-native (English version in the works): agent loops, tools, memory, orchestration, production checklists (PDF + free web index)
 - [LangGraph Academy](https://academy.langchain.com/) - Official LangGraph path
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Claude agent recipes
 - [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21-lesson course
