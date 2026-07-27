@@ -617,6 +617,7 @@
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
+| [Agents Launchpad](https://launchpad.smartbizcalc.com) | Curated directory of indie AI agents — community-ranked, updated weekly |
 
 ---
 
