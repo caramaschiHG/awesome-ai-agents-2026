@@ -367,6 +367,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [_done](https://underscoredone.com/) | Actions and Data for AI. | $0.01 per use with x402 | Paid |
 | [AI for Database](https://aifordatabase.com) | Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. | Free / Paid |
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
