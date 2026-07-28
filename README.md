@@ -114,6 +114,7 @@
 ---
 
 ## 🧱 Agent Frameworks
+- [Bride Cognitive Engine](https://tools.gracestack.se/bride-api.html) - Cognitive monitoring API: real-time anomaly detection, confidence tracking, hypothesis generation. HDC + Active Inference. 499 SEK/month founder pricing.
 
 ### General Purpose
 
