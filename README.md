@@ -114,6 +114,7 @@
 ---
 
 ## 🧱 Agent Frameworks
+- [Bride Cognitive Engine](https://tools.gracestack.se/bride-api.html) - Cognitive monitoring API: real-time anomaly detection, confidence tracking, hypothesis generation. HDC + Active Inference. 499 SEK/month founder pricing.
 
 ### General Purpose
 
@@ -670,3 +671,6 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+## STIL.AI — AI Fashion Design
+- [STIL.AI](https://tools.gracestack.se/designa-klader.html) — Describe your dream outfit in text, AI generates a unique fashion design. 3 free designs, HD from 9 SEK via Klarna. Swedish company.
