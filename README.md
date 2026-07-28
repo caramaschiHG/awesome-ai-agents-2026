@@ -320,6 +320,7 @@
 | [Zendesk AI](https://zendesk.com) | Ticket routing, sentiment detection, Answer Bot. | From $19/agent |
 | [Ada](https://ada.cx) | Autonomous resolution. Multi-channel. SOP Playbooks. | Enterprise |
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
+| [Bynevo Labs](https://bynevolabs.com) | Sovereign French AI support agent for e-commerce. Self-hosted in France, GDPR-compliant, Mistral-based. | From €190/mo |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
 
