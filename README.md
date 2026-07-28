@@ -495,6 +495,7 @@
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
+| [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) | Browser-agent benchmark covering 283 everyday tasks (V1+V2) across 163 live websites, with multi-layer traces and submission-interception plus judge-based outcome evaluation. |
 
 ---
 
