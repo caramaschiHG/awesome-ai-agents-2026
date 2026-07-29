@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [AICraft](https://github.com/Easlie114514/AICraft) | Desktop AI capability launcher — manage LLM Skills, MCP tools, RAG, and memory via visual UI. One-click DeepSeek setup, role emotion portraits, 3-tier memory. Portable exe, no installation. | Free |
 
 ### Developer Infrastructure
 
