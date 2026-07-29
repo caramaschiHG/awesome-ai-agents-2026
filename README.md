@@ -217,6 +217,7 @@
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
+| [Workforce Wave](https://www.workforcewave.com) | AI voice receptionist for service businesses. Answers calls, books appointments, captures leads 24/7. | Usage-based |
 
 ### Open-Source Voice
 
