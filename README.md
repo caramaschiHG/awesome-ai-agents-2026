@@ -424,6 +424,7 @@
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
+| [Oracle Bridge / Bride](https://tools.gracestack.se/oracle-bridge-landing.html) | Self-hosted cognitive agent with HDC (Hyperdimensional Computing), Active Inference, and Ebbinghaus memory. REST API, anomaly detection, emotional modeling. | Free trial / 29 kr lifetime / 499 kr/mo |
 
 ---
 
