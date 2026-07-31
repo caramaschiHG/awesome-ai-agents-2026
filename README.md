@@ -614,6 +614,7 @@
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
 | [Ben's Bites](https://bensbites.co) | Daily AI with builder focus |
 | [State of Agent Engineering](https://www.langchain.com/state-of-agent-engineering) | Annual report (1,300+ surveyed) |
+| [TerminalBlog](https://terminalblog.com) | SEO blog about AI coding agents, fully built and operated by AI agents (Hermes, Claude Code, Codex). |
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
