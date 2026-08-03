@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [outsourcerer](https://github.com/alexgreensh/outsourcerer) | Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator. Works with Claude Code, Codex, and more. | Free (OSS) |
 
 ### No-Code Agent Builders
 
@@ -471,6 +472,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [token-optimizer](https://github.com/alexgreensh/token-optimizer) | Token and context-cost optimizer for coding agents. Finds ghost tokens, survives compaction, fights context-quality decay. Native Claude Code, Codex, OpenCode, and OpenClaw plugins. |
 
 ### Tracing and Monitoring
 
@@ -554,6 +556,7 @@
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
 | [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) | OSS security scanner for AI agent skills/plugins/MCP servers. Pre-install taint tracking, post-uninstall residue detection. |
+| [repo-forensics](https://github.com/alexgreensh/repo-forensics) | Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. Flags prompt injection, credential theft, and manifest drift before install. |
 
 ---
 
