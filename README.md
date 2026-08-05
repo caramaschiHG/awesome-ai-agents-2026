@@ -191,6 +191,7 @@
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
 | [MultiOn](https://multion.ai) | Reliable web automation API. CAPTCHA handling. |
+| [NativePort](https://nativeport.ai/) | Web-access API gateway for AI agents across search, scraping, browser automation, voice, and model inference providers. |
 | [Browserbase](https://browserbase.com) | Cloud browser infra for agents. Headless at scale. |
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
