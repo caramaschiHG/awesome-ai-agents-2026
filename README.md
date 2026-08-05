@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Ordewell](https://github.com/ordewell/ordewell) | Plan-first CLI/TUI orchestrator: one goal → ordered plan of coding-agent tasks, each with its own runner/model/mode (Claude Code, Codex, OpenCode), editable before execution, verified by completion markers. Apache-2.0. | Free |
 
 ### Autonomous Software Engineers
 
