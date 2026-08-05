@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [twilio-realtime-agents](https://github.com/yakovsinwani/twilio-realtime-agents) | OSS TypeScript bridge from Twilio calls to speech-to-speech AI (OpenAI, xAI, Gemini). |
 
 ---
 
