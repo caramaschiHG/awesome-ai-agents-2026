@@ -135,6 +135,7 @@
 | Framework | Lang | Description |
 |-----------|------|-------------|
 | [AutoGen](https://github.com/microsoft/autogen) | Py | Microsoft multi-agent conversations. |
+| [CompozyOS](https://github.com/compozy/compozy) | Go | Self-hosted agent OS. Runs agent CLIs as a team on loops and schedules, with shared memory, permissions and approvals. |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Py | Role-based crew members with goals and tools. Used by 60%+ Fortune 500. |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Py | PM, architect, engineer roles. Software company sim. |
 | [Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | TS | Issue-Driven Development. 7 coding + 14 business agents. MCP 172+ tools. GitHub as OS. |
