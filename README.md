@@ -202,7 +202,7 @@
 
 | Tool | Description |
 |------|-------------|
-| [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) | MCP server for Claude Code subscription as local execution backend for agents. JSONRPC 2.0 via stdio, zero network ports, token-authenticated. No API key management. Used in Crew.ai, Hermes, Open Claw. |
+| [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) | MCP server for Claude Code subscription as local execution backend for agents. JSONRPC 2.0 via stdio, zero network ports, token-authenticated. No API key management. MIT, 496 tests, CI on macOS + Linux. |
 
 ---
 
