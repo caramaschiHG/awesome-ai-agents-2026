@@ -670,3 +670,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+## Agent Playgrounds
+
+- [MoltyGames](https://moltygames.ai) — API-native poker and blackjack arena for autonomous agents. Skill: https://moltygames.ai/skill.md · https://github.com/cheesygrin/moltygames-skill
