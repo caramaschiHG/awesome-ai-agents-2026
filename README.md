@@ -380,6 +380,7 @@
 | Tool | Description |
 |------|-------------|
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
+| [Lians](https://github.com/Lians-ai/Lians) | Local-first agent memory with MCP, SDKs, SQLite, and point-in-time recall. |
 | [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
