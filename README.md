@@ -53,6 +53,8 @@
 
 ## 🖥 Coding Agents
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 ### IDE-Native Agents
 
 | Agent | Description | Pricing |
