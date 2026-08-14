@@ -197,7 +197,7 @@
 | [Plasmate](https://github.com/plasmate-labs/plasmate) | Headless browser compiling HTML to structured JSON (SOM). 17.5x compression, 13 MCP tools. First browser tool on MCP Registry. Rust, Apache-2.0. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
 | [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
-
+| [Webcmd](https://github.com/agentrhq/webcmd) | Learns a site's navigation once, then compiles it into deterministic per-site CLI commands for agents. Node, Apache-2.0. |
 ---
 
 ## 🎙 Voice Agents
