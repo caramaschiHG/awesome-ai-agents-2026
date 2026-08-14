@@ -162,6 +162,7 @@
 
 | Collection | Description |
 |------------|-------------|
+| [evex](https://evex.sh) | Open registry of installable Eve agents. Browse community agents, install with `npx shadcn@latest add @evex/{slug}`, publish your own by pull request. |
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
 
 ---
