@@ -580,6 +580,7 @@
 
 ### Courses and Tutorials
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
+- [DeepSeek Harness Handbook](https://sandbaseai.github.io/deepseek-harness-handbook/) - Agent-first, source-backed guide to DeepSeek Harness architecture, quickstarts, safety, and production operations
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) - Open-source agent dev course
 - [LangGraph Academy](https://academy.langchain.com/) - Official LangGraph path
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Claude agent recipes
