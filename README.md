@@ -90,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) | Provider-neutral build harness. Idea/PRD/spec to verification-gated completion. Cost estimates, budget ceilings, kill-and-resume checkpoints. | Free (OSS) |
 
 ### Code Review and Security
 
