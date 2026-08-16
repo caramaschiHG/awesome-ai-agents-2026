@@ -129,6 +129,7 @@
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 | [Google ADK](https://github.com/google/adk-python) | Py | ⭐ Google's Agent Development Kit. Native Gemini. Multi-agent orchestration. |
+| [Aeon](https://github.com/aeonfun/aeon) | MD/Shell | Autonomous framework that runs unattended on GitHub Actions. Cron-scheduled Markdown skills, self-healing (a health skill detects failures, a repair skill fixes them by PR), six coding-agent harnesses. MIT. |
 
 ### Multi-Agent Orchestration
 
