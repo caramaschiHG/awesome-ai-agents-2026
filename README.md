@@ -278,6 +278,7 @@
 |------|-------------|---------|
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
+| [UIZZE](https://github.com/uizze/uizze) | UI research and anti-UI-slop workflow for coding agents. Free `anti-ui-slop` Skill; full hosted MCP searches 800,000+ real web and iOS screens and adds design contracts, validation, audits, and rendered critique. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
 
 ---
