@@ -78,6 +78,7 @@
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
+| [Kolega Code](https://github.com/kolega-ai/kolega-code) | Python terminal agent where the model writes its own multi-agent workflows (Gigacode). Local-first, 15+ providers, MCP client, browser agent. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
 
