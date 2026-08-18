@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) | Local-first SDLC workbench with governed specs, sprints, and tasks — enforced reviewer separation and blocking evidence gates, connected to coding agents via MCP. | Free (OSS) |
 
 ### No-Code Agent Builders
 
