@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | Apache-2.0 CLI and local MCP bridge that configures 25 AI clients to discover, inspect, and call 2,000+ AI models and APIs through one account. |
 
 ---
 
