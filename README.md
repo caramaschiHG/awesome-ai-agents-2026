@@ -670,3 +670,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+## 🚀 Directories & Tool Hubs
+- [Agent Tools & MCP Hub](https://github.com/tarunjandra/agent-tools-mcp-hub): A modular open-source directory of plug-and-play AI Agent Tools and MCP servers.
+
