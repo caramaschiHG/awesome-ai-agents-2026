@@ -87,6 +87,7 @@
 |-------|-------------|---------|
 | [Devin](https://devin.ai) | Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning. | $20/mo + ACU |
 | [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | GitHub issue-to-PR agent. | Copilot sub |
+| [Cursor SDD](https://github.com/vadim-a-yegorov/cursor-sdd) | Spec-driven agent swarm workflow for Cursor. /sdd-spec → /sdd-implement → /sdd-validate TDD loop. PRD-to-issues auto-implementation. | Free / Open-source |
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
@@ -186,7 +187,7 @@
 ### Developer Infrastructure
 
 | Tool | Description |
-|------|-------------|
+|------|-------------
 | [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
