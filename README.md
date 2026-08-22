@@ -420,6 +420,7 @@
 | [OpenClaw](https://github.com/openclaw/openclaw) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. | 
 | [openclaw-starter](https://github.com/feralghost/openclaw-starter) | Fork-and-run template for 24/7 autonomous AI agents. Pre-configured SOUL.md, memory system, KANBAN, heartbeat. Start in 30 minutes. |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hosted multi-model chat. All major providers. |
+| [Persona](https://github.com/jayamitkatariya/personacli) | Local-first personal workspace. Markdown notes + tasks on disk. AI chat grounded in your files. Ollama-ready. |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
