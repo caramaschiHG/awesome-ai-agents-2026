@@ -187,7 +187,7 @@
 ### Developer Infrastructure
 
 | Tool | Description |
-|------|-------------
+|------|-------------|
 | [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
