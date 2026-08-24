@@ -448,6 +448,7 @@
 | Protocol | Description |
 |----------|-------------|
 | [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol) | Anthropic open standard. "USB-C for AI." Donated to Linux Foundation. Industry standard for agent tools. |
+| [Speculative-MCP](https://github.com/VoDaiLocz/speculative-mcp) | Universal zero-overhead speculative tool execution proxy for MCP. Reduces P95 I/O latency by 35%-48% in AI agent loops. |
 | [A2A (Agent-to-Agent)](https://github.com/google/A2A) | Google protocol for inter-agent communication. Horizontal agent collaboration. |
 | [MCP Gateways](https://github.com/modelcontextprotocol) | Enterprise management layer: auth, routing, observability across MCP+A2A networks. |
 | [MCP Apps](https://github.com/modelcontextprotocol) | ⭐ **New in 2026** — Tools return rich interactive UIs (dashboards, forms) in agent chat. |
