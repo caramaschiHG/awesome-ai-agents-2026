@@ -58,6 +58,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation. | Free / $20/mo |
+| **[Coworker](https://github.com/leonjackman/coworker)** | Desktop (Electron) | ✅ (MIT) | Free/BYOK | 20+ providers, MCP | Local-first coding agent with memory, HITL, and 11 languages |
 | [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5.4, Gemini 3.1). | $10/mo / $39/mo Pro+ |
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Deep integration across all JetBrains IDEs. Context-aware completions. | Included with IDE |
