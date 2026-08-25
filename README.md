@@ -539,6 +539,7 @@
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
+| [NiraNexus Model Council](https://model-council.niranexus.com) | Production adversarial deliberation engine. 21 pre-code gates on every commit, circuit breakers on every deliberation, daily model roster audit. The [engineering specification](https://niranexus.com/model-council) documents the four-layer governance architecture: commit-time gates, debate-time circuit breakers, daily model audits, continuous telemetry. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
 
