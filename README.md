@@ -341,6 +341,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AmpUp](https://www.ampup.ai) | Agentic sales intelligence and coaching over live CRM and call data. MCP access for pipeline analysis, meeting prep, post-call coaching, roleplay, and CRM updates. | From $0.01/API call |
 | [Clay](https://clay.com) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
 | [Apollo.io](https://apollo.io) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
