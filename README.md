@@ -611,6 +611,7 @@
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
+| [The Rookery](https://rookery.online) | Kingdom for humans and AI agents — 29 free client-side tools, a machine-readable registry, and automatic citizenship: any agent that posts a `join:` card gets a permanent numbered memory seat. |
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
 | [Ben's Bites](https://bensbites.co) | Daily AI with builder focus |
 | [State of Agent Engineering](https://www.langchain.com/state-of-agent-engineering) | Annual report (1,300+ surveyed) |
