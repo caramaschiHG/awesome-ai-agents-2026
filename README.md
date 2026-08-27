@@ -390,6 +390,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [Screenpipe](https://screenpipe.com) | Local-first computer history that gives AI agents searchable screen and audio context. |
 
 ---
 
