@@ -579,6 +579,7 @@
 ## 📚 Learning Resources
 
 ### Courses and Tutorials
+- [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Source-backed, Agent-first field guide to the DeepSeek Harness runtime, covering tools, Sessions, plugins, MCP, sandboxing, lifecycle, and troubleshooting. Community-maintained by SandBase.
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) - Open-source agent dev course
 - [LangGraph Academy](https://academy.langchain.com/) - Official LangGraph path
