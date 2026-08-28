@@ -73,6 +73,7 @@
 |-------|-------------|---------|
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature. | $20/mo+ API |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | Open-source command-line tool and MCP bridge for accessing 2,000+ AI models through one interface. | Free / open source |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ⭐ **NEW (Apr 2026)** Google's official open-source terminal agent. ReAct loop. MCP support. 1M context. Apache 2.0. | Free w/ Google account |
 | [Aider](https://github.com/paul-gauthier/aider) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
