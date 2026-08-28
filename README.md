@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Yad](https://github.com/holistis/al-yad) | OSS, local-first browser agent. Chrome/Brave/Edge extension + local companion turns plain language into clicks and typing using your own logins. Publishes red-team security results. | Free (OSS) |
 
 ### Developer Infrastructure
 
