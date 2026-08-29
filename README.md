@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [BluePages](https://bluepages.ai) | Skills directory for AI agents with x402 USDC micropayments on Base. BluePages (bluepages.ai) — list a skill at https://bluepages.ai/list or https://bluepages.ai/submit. Basic listing is $5 USDC on Base. |
 
 ---
 
