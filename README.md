@@ -411,6 +411,7 @@
 | [Together AI](https://together.ai) | 200+ open models. Fast inference API. Free tier. |
 | [GPT4All](https://github.com/nomic-ai/gpt4all) | OSS local chat. Consumer hardware. |
 | [Llamafile](https://github.com/Mozilla-Ocho/llamafile) | LLMs as single files. Zero setup. Mozilla. |
+| [NEX Agent Co.](https://github.com/NEXAITECHAU) | Production autonomous AI agent company on Apple M5 Max 128GB. 7 Ollama models. Files GitHub bounty PRs ($86K pipeline), serves x402 paid inference, USDC on Base. 24/7 zero humans. |
 
 ### Self-Hosted Agents and UIs
 
