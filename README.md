@@ -276,6 +276,7 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Luphra](https://luphra.com) | Text/sketch to editable 3D and manufactured physical products. | Free / Paid |
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
