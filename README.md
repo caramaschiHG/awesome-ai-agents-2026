@@ -129,6 +129,7 @@
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 | [Google ADK](https://github.com/google/adk-python) | Py | ⭐ Google's Agent Development Kit. Native Gemini. Multi-agent orchestration. |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | TS | Local-first runtime for persistent and auditable AI agent sessions, with sandboxed tools, MCP, memory, credentials, audit logs, and replay. |
 
 ### Multi-Agent Orchestration
 
