@@ -424,6 +424,7 @@
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted runtime with persistent sessions, governed MCP tools, approvals, credentials, audit/replay, and local/Docker/Kubernetes/worker backends. | Free (Apache-2.0) | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat-square) |
 
 ---
 
