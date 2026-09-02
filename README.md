@@ -289,6 +289,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [n8n](https://github.com/n8n-io/n8n) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
+| [Stellary](https://stellary.co) | AI-native project piloting and project management with governed agent missions. | Open beta |
 | [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
