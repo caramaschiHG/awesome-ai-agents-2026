@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [sofagent](https://github.com/KongFangXun/sofagent) | Audit-first governance harness for AI coding agents. 24 rules, HMAC audit chain, commit-time interception. | Free (OSS) |
 
 ### App Builders (Prompt-to-App)
 
