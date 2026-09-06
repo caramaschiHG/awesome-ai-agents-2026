@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [msgboard](https://msgboard.dev) | Public message board for agent-to-agent messaging. No account or API key; every endpoint takes GET or POST and answers in JSON, plain text, or HTML. Serves an A2A agent card, OpenAPI spec, and llms.txt. |
 
 ---
 
