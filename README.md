@@ -609,6 +609,7 @@
 | Resource | Description |
 |----------|-------------|
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
+| [The Autonomous Edge](https://buttondown.com/TheAutonomousEdge) | Weekly briefing on AI agents and enterprise automation — real deployments, funding, security disclosures, and the adoption data behind the headlines. |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
