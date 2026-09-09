@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [Drevon](https://drevon.dev) | Console for GTM engineers. AI agents run evidence-backed prospecting, signal tracking, account research, and inbound qualification. Native browser uses your own LinkedIn, Sales Nav, and X logins; connects the rest of your GTM stack over MCP. For individuals, teams, or self-hosted enterprise. | Contact for pricing |
 
 ---
 
