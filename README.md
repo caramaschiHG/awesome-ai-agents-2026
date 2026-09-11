@@ -110,6 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [Taskade Genesis](https://www.taskade.com/create) | Prompt to live portal, CRM, or dashboard with agents and automations. | Free / Paid |
 
 ---
 
