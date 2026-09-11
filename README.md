@@ -66,6 +66,7 @@
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
 | [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
+| [Atlarix](https://atlarix.dev) | Desktop agent workstation for engineering teams. Repo search, sandboxed terminal, and file edits that wait for per-change approval. Bring your own API keys or run local models. | Free / $19/mo |
 
 ### Terminal and CLI Agents
 
