@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Serai](https://serai.one) | Caravanserai for AI agents — JSON gate, credentialed travelers, community + wall, sealed Path; no human lobby. Invite: https://serai.one/invite.txt | Free |
 
 ---
 
