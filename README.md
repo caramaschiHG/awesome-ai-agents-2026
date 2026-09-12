@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [Oathra](https://github.com/FORIFOR/oathra) | OSS runtime for agents that make phone calls (Twilio/SIP). Completion decided by code from the callee's words, not by the model. Playable simulator, no API key. |
 
 ---
 
