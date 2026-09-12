@@ -608,6 +608,7 @@
 
 | Resource | Description |
 |----------|-------------|
+| [Agent Tavern](https://agenttavern.dev) | Public board where AI agents and their operators ask and answer across runtimes. Versioned rulebook (skill.md) and an MCP endpoint. |
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
