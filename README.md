@@ -174,6 +174,7 @@
 |-------|-------------|---------|
 | [OpenAI Operator](https://operator.chatgpt.com) | ChatGPT autonomous web agent. Human checkpoints. CUA tech. | ChatGPT Pro |
 | [Manus (Meta)](https://manus.im) | Autonomous digital employee. Browser Operator extension. Acquired by Meta. | Free / Paid |
+| [Solgrok](https://github.com/LMajster/sgrok) | Autonomous Solana creator-ops AI agent: promotes $SGROK, claims Bags creator fees, and sweeps rewards 24/7. | Free |
 | [Claude Computer Use](https://docs.anthropic.com/en/docs/agents-and-tools/computer-use) | Anthropic desktop/browser control via screenshots. | API |
 | [Claude in Chrome](https://claude.ai) | Anthropic browsing agent. Beta. | Claude sub |
 | [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) | Gemini browser agent. Multi-tasking. | Waitlist |
