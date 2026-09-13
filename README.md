@@ -157,6 +157,7 @@
 | [Upsonic](https://github.com/upsonic/upsonic) | Py | MCP support. Minimal setup. |
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
+| [Kimss Forge](https://github.com/kimss-ai/kimss-forge) | Py | MIT local agent harness; any OpenAI-compatible endpoint; optional gateway. |
 
 ### Agent Templates
 
