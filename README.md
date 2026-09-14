@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AffixIO](https://github.com/AffixIO/SDK) | npm Agentic Pay Kit with x402BeforePay host-side attestation and KYA createAgentTrust. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
