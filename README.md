@@ -533,6 +533,7 @@
 
 | Tool / Resource | Description |
 |-----------------|-------------|
+| [Council of AI GSPC](https://councilof.ai/gspc) | Public AI measurement board with signed, independently verifiable evidence exposed through MCP and A2A. Measurement, not certification. |
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
