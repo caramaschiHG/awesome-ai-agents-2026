@@ -648,6 +648,8 @@
 ## XVARY Stock Research
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 
 ## Contributing
