@@ -632,7 +632,8 @@
 - **Model velocity:** Frontier models now updated every 2–4 weeks (GPT-5.x monthly cycle)
 - **Context windows:** 1M tokens now standard for all frontier models
 - **EU AI Act:** Full obligations for high-risk AI systems effective August 2, 2026
-- **MCP adoption:** Donated to Linux Foundation; adopted by Anthropic, OpenAI, Microsoft, Google
+- **MCP adoption:** Donated to Linux Foundation; adopted by Anthropic, OpenAI, Microsoft, Google
+- **Pricing data:** [AI agent pricing index](https://gravity.fast/blog/ai-agent-pricing-index/) tracks 16 platforms (Zapier, Make, n8n, Activepieces, Lindy, Gumloop and more) with monthly Wayback history since 2024; open CC BY 4.0 data on [GitHub](https://github.com/Aryan2193/ai-agent-pricing-data)
 
 ### 🗓 April 2026 Highlights
 - **Claude Sonnet 5** released April 1 — top coding+reasoning performance
