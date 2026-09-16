@@ -484,6 +484,7 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [self-auditing-agent](https://github.com/simin-yuan/self-auditing-agent) | Operator-side audit log for an agent's own conclusions. Every claim carries a runnable verification command a third party can execute, so the process is checkable and not just the output. Includes gatecheck: 175 mutations run against the project's own validator, 78 missed, 4 confirmed defects. Python, MIT. |
 
 ### Benchmarks
 
