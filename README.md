@@ -454,6 +454,7 @@
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | OpenAI native tool-use. JSON schema. |
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
+| [x402 / Nano (XNO)](https://x402.org) | Feeless, instant HTTP 402 payment protocol for AI agents. Settles in Nano — no gas, no accounts, no batching risk. Pay-per-call SDKs: [openai-agents-nano](https://github.com/PANDeveloper001/openai-agents-nano-x402) (OpenAI Agents), [NanoRoute](https://github.com/robgilmore26/nanoroute), [pyfile-toolkit](https://github.com/PANDeveloper001/pyfile-toolkit). |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
 
 ### Protocol Tooling
