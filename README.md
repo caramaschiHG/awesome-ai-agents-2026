@@ -104,6 +104,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AgentUI](https://www.agentui.ai) | Prompt to internal business app with its own database, files and integrations. A [CLI](https://www.agentui.ai/en/agentui-cli/) creates or syncs the app as local JSX files for a coding agent to edit, then pushes and deploys. | Free / $25/mo |
 | [Bolt.new](https://bolt.new) | Prompt to full-stack web app in browser. | Free / Paid |
 | [Lovable](https://lovable.dev) | Describe then build then deploy from chat. | Free / $20/mo |
 | [v0 (Vercel)](https://v0.dev) | Prompt to React/Tailwind components. | Free / Pro |
