@@ -346,6 +346,7 @@
 | [Instantly](https://instantly.ai) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Overloop CLI](https://github.com/sortlist/overloop-cli) | AI outbound CLI. Source 450M+ contacts, email + LinkedIn campaigns, conversations. Agent-native JSON output. | $69-99/mo |
 | [Lavender](https://lavender.ai) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [TAPAC MCP](https://tapacapi.com/mcp.html) | Agent-native B2B contact search: pass industry, job titles, company size, location and source (website / Telegram / Discord) and get contacts with each email SMTP-verified in the same call — 2–5% bounce instead of 10–35%. Install: npx -y @tapacapi/mcp; remote endpoint https://tapacapi.com/mcp. | Free 100 searches / $0.10–0.50 per verified contact |
 
 ---
 
