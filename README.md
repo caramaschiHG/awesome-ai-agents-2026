@@ -476,6 +476,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Agent Run Inspector](https://github.com/kaboumou/agent-run-inspector-docs) | Local, read-only run reports for OpenCode session exports: repeated tool calls classified, recovered vs unresolved failures, tool statistics, attached files, patches and context-compaction markers. Runs offline; the input file is never modified. Paid one-time (USD $49 individual / $149 team) with a free sample pack. |
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
