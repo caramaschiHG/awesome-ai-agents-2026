@@ -523,6 +523,7 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [AgentSentry](https://github.com/TheMerchCog/agentsentry) | Zero-dependency local reverse proxy & circuit breaker. Intercepts infinite tool loops and enforces hard CAD spend ceilings on autonomous coding agents. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
 
 ---
