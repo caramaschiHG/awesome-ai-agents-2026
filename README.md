@@ -431,6 +431,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) | Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures. | Free (OSS) |
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
@@ -670,3 +671,4 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
