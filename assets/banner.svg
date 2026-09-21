@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f7971e"/>
+      <stop offset="100%" style="stop-color:#ffd200"/>
+    </linearGradient>
+    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.05" stroke="white" stroke-width="0.5">
+    <line x1="0" y1="40" x2="800" y2="40"/>
+    <line x1="0" y1="80" x2="800" y2="80"/>
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="160" x2="800" y2="160"/>
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="500" y1="0" x2="500" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="700" y1="0" x2="700" y2="200"/>
+  </g>
+  
+  <!-- Decorative circles -->
+  <circle cx="680" cy="45" r="30" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="720" cy="140" r="18" fill="none" stroke="#667eea" stroke-width="1" opacity="0.25"/>
+  <circle cx="120" cy="155" r="22" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.2"/>
+  <circle cx="80" cy="50" r="12" fill="none" stroke="#764ba2" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Dots -->
+  <circle cx="650" cy="30" r="3" fill="#ffd200" opacity="0.5"/>
+  <circle cx="750" cy="80" r="2" fill="#667eea" opacity="0.6"/>
+  <circle cx="60" cy="100" r="2.5" fill="#f7971e" opacity="0.4"/>
+  <circle cx="140" cy="40" r="2" fill="#764ba2" opacity="0.5"/>
+  
+  <!-- Robot emoji placeholder -->
+  <text x="400" y="58" text-anchor="middle" font-size="36" fill="white">🤖</text>
+  
+  <!-- Main title -->
+  <text x="400" y="105" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="38" fill="white" letter-spacing="-1">
+    Awesome AI Agents
+  </text>
+  
+  <!-- Year badge -->
+  <rect x="339" y="118" width="122" height="30" rx="15" fill="url(#accent)"/>
+  <text x="400" y="139" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="16" fill="#0f0c29" letter-spacing="2">
+    2026
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="175" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="14" fill="#a0a0c0" letter-spacing="0.5">
+    Frameworks • Coding Agents • Browser Agents • Voice AI • Multi-Agent • Observability
+  </text>
+</svg>
