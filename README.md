@@ -188,6 +188,7 @@
 | Tool | Description |
 |------|-------------|
 | [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
+| [Stagehand](https://github.com/browserbase/stagehand) | Browser Agent SDK. Used by Ramp and Lovable. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
 | [MultiOn](https://multion.ai) | Reliable web automation API. CAPTCHA handling. |
