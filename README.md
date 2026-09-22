@@ -236,6 +236,7 @@
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Midjourney v7](https://midjourney.com) | Best artistic quality. Unmatched aesthetics. Discord + web. | From $10/mo |
+| [Raphael AI](https://raphael.app) | Free no-signup AI image workspace. Multi-model generation + editing (bg remove, upscale, watermark). | Free / freemium |
 | [DALL-E 3.5](https://openai.com/dall-e) | Best prompt comprehension. 95% text accuracy. ChatGPT. | ChatGPT Plus |
 | [FLUX 2](https://blackforestlabs.ai) | Open-weight. Best photorealism. 4K. 6x speed. | Free / API |
 | [Stable Diffusion 3.5](https://stability.ai) | Open-source. ControlNet, LoRAs, ComfyUI ecosystem. | Free (OSS) |
