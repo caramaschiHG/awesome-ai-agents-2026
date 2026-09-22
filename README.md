@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [jevme](https://github.com/danielyedaniel/jevme) | OSS voice agent that controls any macOS app via accessibility APIs, acting mid-sentence. |
 
 ---
 
