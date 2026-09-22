@@ -533,6 +533,7 @@
 
 | Tool / Resource | Description |
 |-----------------|-------------|
+| [Allowly](https://allowly.ai/use-cases/gxp-ai-agent-controls/) | Policy checks before consequential automated actions and signed decision records; supports evidence in regulated workflows. |
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
