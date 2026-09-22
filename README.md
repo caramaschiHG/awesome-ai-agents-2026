@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Atomic Mail Agentic](https://github.com/Atomic-Mail/atomic-mail-agentic) | Email inbox for agents. Agent self-registers an address via proof-of-work, then sends and receives over JMAP. MCP server and SDKs. | Free (open alpha) |
 
 ### No-Code Agent Builders
 
