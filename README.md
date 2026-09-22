@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Viktor](https://viktor.com) | AI employee for Slack and Microsoft Teams. Connects to 3,200+ tools and runs code on its own cloud computer. | From $50/mo, $100 free credits |
 
 ### No-Code Agent Builders
 
