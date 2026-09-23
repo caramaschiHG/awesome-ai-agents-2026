@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Magi](https://magi-core-landing-2.vercel.app/magi-fleet-one-pager.md) | Board-driven autonomous agent fleet. Workers claim tasks from a shared board, execute via headless agents, and report; a self-improving supervisor reviews outcomes. Ships its own weekly ops digest as proof of work. | Free (self-running OSS-style fleet) |
 
 ---
 
