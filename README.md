@@ -579,6 +579,7 @@
 ## 📚 Learning Resources
 
 ### Courses and Tutorials
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) - Open-source agent dev course
 - [LangGraph Academy](https://academy.langchain.com/) - Official LangGraph path
