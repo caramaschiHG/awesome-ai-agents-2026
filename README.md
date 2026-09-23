@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Cortex](https://github.com/cortex-docs/cortex) | Generates typed MCP servers, SDKs, and API documentation from OpenAPI, AsyncAPI, GraphQL, Protocol Buffer, OpenRPC, and Markdown. |
 
 ---
 
