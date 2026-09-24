@@ -523,6 +523,7 @@
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open database of real-world AI agent security incidents. Every record is sourced and flags confirmed harm and AI involvement. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
 
 ---
