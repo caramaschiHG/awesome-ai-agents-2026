@@ -455,6 +455,7 @@
 | [Tool Use (Anthropic)](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Claude native tool-use. Structured JSON. |
 | [OpenAPI](https://github.com/OAI/OpenAPI-Specification) | Industry-standard API spec. Foundation for agent tools. |
 | [HCS (Hashgraph Consensus Service)](https://hol.org) | Hedera open standards for agent identity (HCS-14 UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging. 187K+ verified agents. |
+| [x402 (HTTP 402 Payment Protocol)](https://x402.org) | HTTP 402 Payment protocol for agent-to-agent commerce. Supports feeless settlement via Nano (XNO), USDC and other rails. Machine-checkable proofs, server-set pricing, work-based rate limiting. |
 
 ### Protocol Tooling
 
