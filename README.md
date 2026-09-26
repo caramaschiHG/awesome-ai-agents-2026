@@ -206,17 +206,18 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
-| [ElevenLabs](https://elevenlabs.io) | Industry benchmark. Conv AI 2.0. RAG, multimodal, batch calling. 75ms. HIPAA. $11B. | Free / $5+/mo |
-| [Vapi](https://vapi.ai) | Developer-first. Low-latency, model-agnostic. | Usage-based |
+| [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
 | [Bland AI](https://bland.ai) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
-| [Voiceflow](https://voiceflow.com) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
-| [Synthflow](https://synthflow.ai) | No-code voice agents for SMBs. Templates. | From $29/mo |
+| [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
+| [ElevenLabs](https://elevenlabs.io) | Industry benchmark. Conv AI 2.0. RAG, multimodal, batch calling. 75ms. HIPAA. $11B. | Free / $5+/mo |
+| [HeyGen](https://heygen.com) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
+| [Kalyvox](https://kalyvox.ai/en/ai-answering-service) | AI receptionist for SMBs handling inbound calls, caller qualification, appointment booking, routing and transfers. | From €89/mo |
 | [PolyAI](https://poly.ai) | Enterprise. Natural multi-turn. Hospitality/retail. | Enterprise |
 | [Retell AI](https://retellai.com) | Human-like voice agents. Multi-language. Telephony. | Usage-based |
-| [HeyGen](https://heygen.com) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
 | [Synthesia](https://synthesia.io) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
-| [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
-| [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment, summarization. | Usage-based |
+| [Synthflow](https://synthflow.ai) | No-code voice agents for SMBs. Templates. | From $29/mo |
+| [Vapi](https://vapi.ai) | Developer-first. Low-latency, model-agnostic. | Usage-based |
+| [Voiceflow](https://voiceflow.com) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
 
 ### Open-Source Voice
 
