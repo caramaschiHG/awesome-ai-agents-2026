@@ -60,6 +60,7 @@
 | [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation. | Free / $20/mo |
 | [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5.4, Gemini 3.1). | $10/mo / $39/mo Pro+ |
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
+| [vixl](https://github.com/vixl-ai/vixl) | MIT local-first Tauri desktop coding agent. BYOK, Ollama / OpenAI-compatible hosts, MCP (stdio/http/sse). Site: https://vixl.app/ | Free (OSS) |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Deep integration across all JetBrains IDEs. Context-aware completions. | Included with IDE |
 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) | AWS-native. Lambda, CloudWatch, infrastructure, security scanning. | Free / $19/mo |
 | [Tabnine](https://www.tabnine.com/) | Privacy-first. On-premise option. Fine-tuned on your codebase. | Free / $12/mo |
