@@ -478,6 +478,7 @@
 |------|-------------|
 | [Langfuse](https://github.com/langfuse/langfuse) | OSS LLM observability. Traces, evals, prompts. |
 | [LangSmith](https://smith.langchain.com) | LangChain platform. Tracing, testing, evaluation. |
+| [LLM API Cost Calculator](https://rabayid.com/) | LLM API cost calculator. Applies cache, batch and long-context rates, ranks models by real monthly cost. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback for AI agent config changes. Monitors health endpoint, reverts config + restarts service on failures. Zero deps. |
 | [Braintrust](https://braintrustdata.com) | Eval-driven development. Experiment tracking. |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
