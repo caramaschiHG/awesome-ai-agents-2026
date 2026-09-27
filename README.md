@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Coven](https://github.com/OpenCoven/coven) | Local-first Rust daemon and CLI running Codex, Claude Code, and other harnesses as project-scoped PTY sessions. | Free (OSS) |
 
 ### Autonomous Software Engineers
 
