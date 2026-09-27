@@ -292,6 +292,7 @@
 | [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
+| [Aident Loadout](https://aident.ai) | One remote MCP for any agent (Codex, Claude Code, Cursor, ChatGPT): 1,000+ apps, 400+ Skills, Vault-protected credentials, one balance, full audit. | Free PAYG / Pro $9.90/mo |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
 
