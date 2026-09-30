@@ -470,6 +470,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Agent-Body](https://github.com/1420079678-ctrl/agent-body) | Open-source plugin layer for DeepSeek Harness with intent-based tool-schema gating, deterministic reflexes, and idle-time memory consolidation. Includes an offline demo and tool-schema token benchmark. |
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
 
 ### Tracing and Monitoring
