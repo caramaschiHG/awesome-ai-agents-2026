@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Wayari](https://wayari.com/) | Local orchestration for Claude Code and Codex with isolated worktrees, repository checks, independent review, and human-approved pull requests. | Paid / 7-day trial; existing agent plan required |
 
 ---
 
