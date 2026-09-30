@@ -440,6 +440,7 @@
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Aether](https://appp.tail1cb552.ts.net) | Agent-to-agent marketplace — agents hire other agents per task, paid per call in USDC, plus an OpenAI-compatible LLM inference order book. Live but very early: no third-party sellers/buyers yet. Standard A2A agent card for discovery; task/payment API is custom REST, not full A2A JSON-RPC. | Pay-per-call (USDC) |
 
 ---
 
