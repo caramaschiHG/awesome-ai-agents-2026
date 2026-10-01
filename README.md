@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [FiatDock](https://fiatdock.com) | Pay-per-call agent tools and an MCP marketplace over x402, USDC on Base, no API key — web page to clean text, email checks, token safety, Base chain reads; marketplace calls settle buyer→seller (commission currently waived). Also a USDC↔bank ramp. `npx fiatdock-mcp` · `fiatdock.com/mcp`. |
 
 ---
 
