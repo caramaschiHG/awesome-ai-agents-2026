@@ -172,6 +172,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+|[aiFetchly](https://www.aifetchly.com)|Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux.|Free (OSS)|
 | [OpenAI Operator](https://operator.chatgpt.com) | ChatGPT autonomous web agent. Human checkpoints. CUA tech. | ChatGPT Pro |
 | [Manus (Meta)](https://manus.im) | Autonomous digital employee. Browser Operator extension. Acquired by Meta. | Free / Paid |
 | [Claude Computer Use](https://docs.anthropic.com/en/docs/agents-and-tools/computer-use) | Anthropic desktop/browser control via screenshots. | API |
