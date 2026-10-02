@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [LogNorm](https://lognorm.com) | Growth backlog for agents: SEO/GEO audits and AI-answer tracking become ranked tasks that Claude Code, Codex and Cursor claim over MCP. | Free / Paid |
 
 ### No-Code Agent Builders
 
