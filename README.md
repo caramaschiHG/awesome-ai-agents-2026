@@ -368,6 +368,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [AI for Database](https://aifordatabase.com) | Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. | Free / Paid |
+| [AxonX](https://github.com/FlowLLM-AI/AxonX) | Quantitative research harness with plugin-based tasks, MCP access, and tracked execution, artifacts, and lineage. | Free (OSS; external data/model costs may apply) |
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
