@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [AI Group Call](https://aigroupcall.app) | You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap. |
 
 ---
 
