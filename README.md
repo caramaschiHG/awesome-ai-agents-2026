@@ -110,6 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [Vibld](https://vibld.com) | OSS (Apache-2.0). Prompt to plain React, TypeScript and Vite repo. Publishes to GitHub, Cloudflare or Docker. | Free / $29/mo |
 
 ---
 
