@@ -362,6 +362,7 @@
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
+| [Voidly Atlas MCP](https://github.com/voidly-ai/atlas-mcp) | Internet-censorship data and Sentinel forecasts, plus optional agent relay tools (state-changing actions off by default; relay messages are relay-readable, not end-to-end encrypted). | Free (MIT) |
 
 ### Data Analysis
 
