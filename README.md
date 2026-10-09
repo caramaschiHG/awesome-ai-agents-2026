@@ -395,6 +395,7 @@
 
 ## 🏠 Local and Self-Hosted AI
 
+- [Rynler Token Cost Calculator](https://github.com/Slymaster/rynler-token-cost-calculator) - Browser-only LLM API token-cost calculator: estimate bills from your own rates and token counts. No accounts, no analytics, no API calls.
 ### Local LLM Runners
 
 | Tool | Description |
