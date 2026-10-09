@@ -96,6 +96,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
+| [CodeOtter](https://codeotter.io/) | Self-hosted AI PR reviewer for GitHub, Forgejo and Gitea. Scores, merge gates, inline fixes; local or BYO-key models. | Free (OSS) |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
