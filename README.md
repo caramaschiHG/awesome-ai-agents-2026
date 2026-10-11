@@ -156,6 +156,7 @@
 | [Agno](https://github.com/agno-agi/agno) | Py | Lightweight, model-agnostic. |
 | [Upsonic](https://github.com/upsonic/upsonic) | Py | MCP support. Minimal setup. |
 | [Portia AI](https://github.com/portia-ai/portia-sdk-python) | Py | Reliable agents in production. |
+| [MicroDot](https://github.com/OldComputerGuy/microDots) | JS | Tiny self-hosted AI agent with its own browser tab. Writes its own sandboxed tools, spawns sub-agents, one shared Chromium, plain-file state. MIT. |
 | [MicroAgent](https://github.com/aymenfurter/microagent) | Py | Self-editing prompts and code. |
 
 ### Agent Templates
