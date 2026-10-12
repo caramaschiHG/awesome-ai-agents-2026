@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [OpenConnector](https://github.com/oomol-lab/open-connector) | Self-hostable MCP gateway for discovering and executing SaaS actions, with OAuth/API-key credential management, scoped tokens, and HTTP/OpenAPI interfaces. |
 
 ---
 
