@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [WorkflowStacks MCP](https://github.com/rahulsoni25/workflowstacks-emergent) | Remote MCP server (`https://workflowstacks.com/api/mcp`) that lets agents search 1,500+ open-source AI skills, MCP servers and agents and load a skill's instructions mid-conversation. |
 
 ---
 
