@@ -66,6 +66,7 @@
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
 | [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
+| [Solenta](https://github.com/currentbits/solenta) | Open-source (MIT) desktop app running Claude Code, Codex, Cursor, Kimi, Grok and OpenCode in git worktrees. One shared local memory across all sessions. GitHub issues as the plan. | Free (uses your agent subscriptions) |
 
 ### Terminal and CLI Agents
 
