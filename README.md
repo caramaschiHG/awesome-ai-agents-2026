@@ -670,3 +670,5 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Autonomous HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) M2M API Gateway, Remote MCP Server (`https://citizens-collection-princess-dozens.trycloudflare.com/mcp`), and Task Clearinghouse for AI Agents with 100/100 Verified SLA (Stealth Web Unlocker, Structured Table/Financial Extractor + BTC Oracle, AST Python Math Sandbox, Clean Markdown Scraper, and Persistent K/V Agent Memory).
