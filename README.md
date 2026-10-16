@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [SkillFortify](https://github.com/qualixar/skillfortify) | Security scanner for AI agent skills and plugins. Static analysis, supply chain verification, SBOM generation. `pip install skillfortify`. | Free (OSS) |
 
 ### App Builders (Prompt-to-App)
 
@@ -147,6 +148,7 @@
 | [MagiC](https://github.com/kienbui1995/magic) | Go/Py | Kubernetes for AI agents. Manages any agent from any framework. Routing, cost control, DAG workflows, circuit breaker. |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 | [AXME](https://github.com/AxmeAI/axme) | Py/TS/Go/Java/.NET | Durable coordination. Crash recovery, human approval gates, kill switch. Open protocol (AXP). |
+| [Qualixar OS](https://github.com/qualixar/qualixar-os) | TS | Agent operating system. Forge AI team designer, selectable execution topologies, dashboard, skill marketplace. `npx qualixar-os`. |
 
 ### Lightweight / Minimalist
 
@@ -390,6 +392,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [SuperLocalMemory](https://github.com/qualixar/superlocalmemory) | Local-first governed memory shared across Claude Code, Codex, Cursor and any MCP client. Says so when memory holds no answer. `npx superlocalmemory`. |
 
 ---
 
@@ -461,6 +464,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [SLM MCP Hub](https://github.com/qualixar/slm-mcp-hub) | Local-first MCP gateway. Federates stdio and HTTP servers through one endpoint. `pip install slm-mcp-hub`. |
 
 ---
 
@@ -484,6 +488,7 @@
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
 | [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
+| [AgentAssay](https://github.com/qualixar/agentassay) | Token-efficient stochastic testing for AI agents, with framework adapters. `pip install agentassay`. |
 
 ### Benchmarks
 
@@ -524,6 +529,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [AgentAssert](https://github.com/qualixar/agentassert-abc) | Runtime behavioral contracts for AI agents. YAML contracts, explicit violations. `pip install agentassert-abc`. |
 
 ---
 
