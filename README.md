@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [CareJobs.Now MCP server](https://github.com/yumaheymans/carejobs-mcp) | Free, read-only remote MCP server (Streamable HTTP at https://carejobs.now/api/mcp, no API key) for US healthcare jobs: search 170,000+ open jobs read daily from 270 employers' career sites, with the pay each employer posts. |
 
 ---
 
