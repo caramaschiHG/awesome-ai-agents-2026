@@ -617,6 +617,7 @@
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
+| [Calder Brief AI Hub](https://calder-brief.pages.dev/ai-hub.html) | Curated AI news hub with daily research coverage |
 
 ---
 
