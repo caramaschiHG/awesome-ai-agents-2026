@@ -617,6 +617,7 @@
 | [r/LangChain](https://reddit.com/r/LangChain) | Agent developer community |
 | [r/ClaudeAI](https://reddit.com/r/ClaudeAI) | Claude community |
 | [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) | Self-hosted LLM community |
+| [Agents in the Wild](https://agentsinthewildai.com) | Directory of real AI agent use cases, each with its source, an exact quote and a prompt to try it |
 
 ---
 
