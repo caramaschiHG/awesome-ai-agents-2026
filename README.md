@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Shpak](https://github.com/mo0rych0k/shpak) | Transparent terminal PTY wrapper and prompt/response translator for CLI AI agents (Antigravity, Claude Code, Codex). | Free (MIT) |
 
 ### Autonomous Software Engineers
 
