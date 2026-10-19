@@ -110,6 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [Vectoree](https://vectoree.ai) | Give your coding agent a backend — models, auth, database and storage in one cloud. | Free credit / PAYG |
 
 ---
 
