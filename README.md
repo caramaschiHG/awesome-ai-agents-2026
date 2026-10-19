@@ -460,6 +460,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local payment runtime exposing CLI and stdio MCP tools on macOS Apple Silicon; signing requires foreground owner approval. MIT licensed; network fees apply. |
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
 ---
