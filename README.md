@@ -139,6 +139,7 @@
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Py | PM, architect, engineer roles. Software company sim. |
 | [Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | TS | Issue-Driven Development. 7 coding + 14 business agents. MCP 172+ tools. GitHub as OS. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Py | Official. Multi-step agents with handoffs. |
+| [OpenFoundry](https://github.com/MrMha/openfoundry) | Py | MIT software studio with five departments, DAG planning, approvals, MCP integration and bounded self-healing QA. |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Py | AWS-backed. Model-driven tool use. |
 | [CAMEL](https://github.com/camel-ai/camel) | Py | Role-based simulation. Collaborative reasoning. |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Py | Pioneer. Now full platform with visual builder. |
