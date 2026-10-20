@@ -258,6 +258,7 @@
 | [Pika 2.5](https://pika.art) | Beginner-friendly. Pikaswaps. Fast renders. | Free / $8+/mo |
 | [Luma Dream Machine](https://lumalabs.ai) | 4K HDR. Physics simulation. 3D/cinematic. | From $7.99/mo |
 | [HaiLuo AI](https://hailuoai.video) | Budget video. 10 free/day. MiniMax. | Free / $4.99+/mo |
+| [Pixwit](https://pixwit.ai) | Multi-model text-to-video and image-to-video. Video effects and image generation. | Free tier / Paid |
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
