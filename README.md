@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Aurao](https://github.com/badnexus/Aurao) | OSS desktop GUI wrapping Claude Code, OpenAI Codex CLI, and Google Antigravity with 1-click file approval cards. | Free / Open Source |
 
 ### Developer Infrastructure
 
