@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [AutoJob](https://github.com/feritzcan2/AutoJob) | Open-source AI job search desktop agent. Scans 25+ job sites, scores listings against your CV, fills in applications in your Chrome and writes cover letters, using Claude Code, Codex CLI or OpenCode. | Free (OSS) |
 
 ### Developer Infrastructure
 
