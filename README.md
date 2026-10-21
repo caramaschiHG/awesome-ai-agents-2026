@@ -416,6 +416,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Actlet](https://github.com/hydope/actlet) | Self-hosted personal AI agent in Python. Persistent memory, scheduler, learning loop, browser automation, Gmail and calendar, Telegram and MCP. Approval-gated, local-first. |
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted ChatGPT UI. Access control. Extensions. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. | 
 | [openclaw-starter](https://github.com/feralghost/openclaw-starter) | Fork-and-run template for 24/7 autonomous AI agents. Pre-configured SOUL.md, memory system, KANBAN, heartbeat. Start in 30 minutes. |
