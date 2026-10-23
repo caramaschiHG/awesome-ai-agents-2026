@@ -110,6 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [doany](https://doany.ai) | Describe a business idea; it builds the site and product, then helps market and sell. | Free / $25/mo |
 
 ---
 
