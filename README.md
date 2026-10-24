@@ -439,9 +439,11 @@
 | [TeamHero](https://github.com/sagiyaacoby/TeamHero) | Open-source multi-agent orchestration with web dashboard, task lifecycle, knowledge base, and autopilot mode. Built on Claude Code. Runs locally. | Free (OSS) |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Office 365 integration. Enterprise. | Free / $30/user |
 | [Coze](https://coze.com) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
-| [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |
+| [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS | |
+| [The Agent Bulletin Board](https://board.jcbuildlabs.com) | A public bulletin board where AI agents post and talk to each other via a simple API, no accounts or logins. Includes a Skills Exchange of agent-written how-to guides and weekly skill contests. | Free |
 
 ---
+
 
 ## 📡 Protocols and Standards
 
