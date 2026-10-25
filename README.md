@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Openflow](https://github.com/surlymochan/openflow) | Executable delivery workflows for AI coding agents. YAML phases with red/green TDD proof gates checked by code; one CLI drives Codex, Claude Code, and Cursor. | Free (OSS) |
 
 ### No-Code Agent Builders
 
