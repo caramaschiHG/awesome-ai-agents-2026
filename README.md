@@ -670,3 +670,5 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br><br>
   <sub>April 2026 · 340+ resources · Made with love by the community</sub>
 </div>
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
