@@ -460,6 +460,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [PushNotif MCP](https://github.com/AarsyDesign/pushnotif-mcp) | Official MCP server (`npx -y pushnotif-mcp` & Streamable HTTP `https://pushnotif.biz.id/mcp`) with 24 tools for Web Push, Android FCM, iOS APNs, In-App Banners, Social Proof Toasts, and Email OTP. |
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
 
 ---
