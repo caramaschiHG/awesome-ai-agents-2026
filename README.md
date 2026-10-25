@@ -541,6 +541,7 @@
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
 | [NIST AI RMF](https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf) | US framework. Govern, Map, Measure, Manage. |
+| [Agent Governance Templates](https://github.com/koalstingkdelaney-gif/agent-governance-templates) | Free MIT templates: agent bounds checklist, approval-gate policy, audit-log template. |
 
 ---
 
