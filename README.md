@@ -277,6 +277,7 @@
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
+| [nopekit](https://github.com/neuman/nopekit) | Claude Code plugin for designing physical things (CAD, 3D printing, thermal, structures). Every check must prove it can fail; outputs a readiness report of verified vs. assumed. | Free (OSS) |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
 
