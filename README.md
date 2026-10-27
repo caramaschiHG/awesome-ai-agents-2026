@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Light Cloud MCP Server](https://github.com/light-cloud-com/mcp-server) | MCP server for deploying apps and managing databases and domains on Light Cloud from an agent. `npx @light-cloud/mcp-server`. |
 
 ---
 
