@@ -495,6 +495,7 @@
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
+| [The Midnight Index](https://secondstrike.io/midnight) | Multi-agent war game benchmark: models command nations with pacts and a nuclear doomsday clock. Scores escalation and said-versus-did, with a human baseline. Every war replays. |
 
 ---
 
