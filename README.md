@@ -586,6 +586,7 @@
 - [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21-lesson course
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Practical API guides
 - [Google ADK Documentation](https://google.github.io/adk-docs/) - ⭐ Official Google Agent Development Kit docs
+- [Grok Bot 101 (WhatAgentsCanDo.com)](https://whatagentscando.com/grok-bot-course/) - Free beginner course on using Grok Bot, backed by a directory of 740 sourced agent use cases
 
 ### Key Papers
 - [ReAct](https://arxiv.org/abs/2210.03629) - Foundation for modern agents (reasoning + acting)
