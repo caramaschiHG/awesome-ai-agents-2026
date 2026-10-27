@@ -165,6 +165,7 @@
 | [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) | 177 production-ready SOUL.md configs across 24 categories (PM, SEO, DevOps, Writer, Support). Copy-paste ready for [OpenClaw](https://github.com/openclaw/openclaw). Visual deploy via [CrewClaw](https://crewclaw.com). |
 
 ---
+- [Level Open Finance Skills](https://github.com/levelcfo/open-finance-skills) - 20 production accounting, treasury, and CFO verification agent skills plus MCP server and [LevelBench-100](https://levelcfo.com/benchmarks/agentic-accounting/) evaluation suite.
 
 ## 🌐 Browser and Desktop Agents
 
