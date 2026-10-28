@@ -97,6 +97,7 @@
 |-------|-------------|---------|
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
+| [FlowSkill](https://github.com/manhquydev/flow-skill) | Gated build harness for coding agents: a mechanical gate and a semantic gate must both agree before a build stage advances, and a failed gate is a valid outcome. | Free (OSS) |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
 
