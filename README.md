@@ -211,6 +211,7 @@
 | [Bland AI](https://bland.ai) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
 | [Voiceflow](https://voiceflow.com) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
 | [Synthflow](https://synthflow.ai) | No-code voice agents for SMBs. Templates. | From $29/mo |
+| [SwiftCall](https://swiftcall.org/ai-agents) | Done-for-you voice and multipurpose agents for small businesses: phone, booking, CRM follow-up, social and back office. | Custom |
 | [PolyAI](https://poly.ai) | Enterprise. Natural multi-turn. Hospitality/retail. | Enterprise |
 | [Retell AI](https://retellai.com) | Human-like voice agents. Multi-language. Telephony. | Usage-based |
 | [HeyGen](https://heygen.com) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
