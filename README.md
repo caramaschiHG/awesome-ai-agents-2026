@@ -104,6 +104,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AppWizzy](https://appwizzy.com/) | Builds web apps from prompts with AI agents, a dedicated development VM, and Git integration. | Free (personal use) / Pro $20/mo; AI, hosting, and template costs apply |
 | [Bolt.new](https://bolt.new) | Prompt to full-stack web app in browser. | Free / Paid |
 | [Lovable](https://lovable.dev) | Describe then build then deploy from chat. | Free / $20/mo |
 | [v0 (Vercel)](https://v0.dev) | Prompt to React/Tailwind components. | Free / Pro |
