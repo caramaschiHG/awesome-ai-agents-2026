@@ -192,6 +192,7 @@
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
 | [MultiOn](https://multion.ai) | Reliable web automation API. CAPTCHA handling. |
 | [Browserbase](https://browserbase.com) | Cloud browser infra for agents. Headless at scale. |
+| [CreateOS Sandbox](https://createos.sh/products/sandbox) | Firecracker micro-VMs for AI agents. Own kernel, private networking, pause-to-zero with state, no egress fees. SDK, CLI, MCP, REST. |
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
 | [Plasmate](https://github.com/plasmate-labs/plasmate) | Headless browser compiling HTML to structured JSON (SOM). 17.5x compression, 13 MCP tools. First browser tool on MCP Registry. Rust, Apache-2.0. |
