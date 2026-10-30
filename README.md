@@ -608,6 +608,7 @@
 
 | Resource | Description |
 |----------|-------------|
+| [Agent Cookbook](https://agentcookbook.dev/newsletter) | Weekly email of sourced AI agent setups (Grok Bot, Claude Code, Codex), each linked to the original post with a prompt to copy |
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
