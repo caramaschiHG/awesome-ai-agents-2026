@@ -206,6 +206,7 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+| [OctaDezx](https://octadezx.com) | Autonomous customer care with live human barge-in voice, multimodal photo vision, self-filling CRM, and native MCP server ([Docs](https://octadezx.com/ai-agent-mcp-server)). | From $29/mo (Flat, no resolution tax) |
 | [ElevenLabs](https://elevenlabs.io) | Industry benchmark. Conv AI 2.0. RAG, multimodal, batch calling. 75ms. HIPAA. $11B. | Free / $5+/mo |
 | [Vapi](https://vapi.ai) | Developer-first. Low-latency, model-agnostic. | Usage-based |
 | [Bland AI](https://bland.ai) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
