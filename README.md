@@ -379,17 +379,18 @@
 
 | Tool | Description |
 |------|-------------|
-| [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
-| [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
-| [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
-| [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
-| [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
 | [Chroma](https://github.com/chroma-core/chroma) | OSS embedding database. Fastest way to build RAG. |
-| [Weaviate](https://github.com/weaviate/weaviate) | OSS vector DB. GraphQL. Multi-modal search. |
-| [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
-| [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
-| [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
+| [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
+| [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
+| [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
+| [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
+| [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
+| [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
+| [Qdrant](https://github.com/qdrant/qdrant) | High-performance vector DB in Rust. |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
+| [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) | Public-beta text-memory plugin for DeepSeek Harness; source references, project/global scope, correction history and lexical recall. MIT; model APIs may charge. |
+| [Weaviate](https://github.com/weaviate/weaviate) | OSS vector DB. GraphQL. Multi-modal search. |
 
 ---
 
