@@ -261,6 +261,7 @@
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
 | [LTX Video](https://github.com/Lightricks/LTX-Video) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [Skillnai](https://skillnai.com) | 67 viral YouTube/TikTok format skills for Claude Code, Codex, Cursor. Renders MP4 locally. Free OSS starters available. | $4.99/skill or $9.90+/mo |
 
 ### Music and Audio
 
