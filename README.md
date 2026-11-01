@@ -276,6 +276,7 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Breatic](https://github.com/orime-org/breatic) | Collaborative design canvas and shared documents with human-reviewed agent edits. | Source-available / model and storage costs separate |
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
