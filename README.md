@@ -28,7 +28,7 @@
 ## Contents
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
-- [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders
+- [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders, Agent Infrastructure
 - [Agent Frameworks](#-agent-frameworks) — General, Multi-Agent, Lightweight
 - [Browser and Desktop Agents](#-browser--desktop-agents) — Consumer, Infrastructure
 - [Voice Agents](#-voice-agents) — Platforms, Open-Source
@@ -110,6 +110,14 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
+
+### Agent Infrastructure (Sandboxes and Deploy)
+
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [Buddy](https://buddy.works) | Cloud sandboxes for coding agents, plus pipelines, artifact hosting and public URLs in one platform. MCP server and CLI for agent control. | Free / $29/mo |
+| [Daytona](https://www.daytona.io) | Isolated sandboxes for running AI-generated code. SDKs for Python and TypeScript. | Free credits / Usage-based |
+| [E2B](https://e2b.dev) | OSS cloud sandboxes for AI agents to run code. Python and JS SDKs. | Free / Usage-based |
 
 ---
 
