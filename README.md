@@ -75,6 +75,7 @@
 | [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ⭐ **NEW (Apr 2026)** Google's official open-source terminal agent. ReAct loop. MCP support. 1M context. Apache 2.0. | Free w/ Google account |
 | [Aider](https://github.com/paul-gauthier/aider) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
+| [Alysis Code](https://github.com/AlysisAi/AlysisCode) | Open-source (Apache-2.0) CLI + desktop agent for coding and computer work. Any model incl. local Ollama/LM Studio. MCP, skills, sandboxed shell. | Free (BYOK); plans from €1/mo |
 | [Cline](https://github.com/cline/cline) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
 | [RooCode](https://github.com/RooVetGit/Roo-Code) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
