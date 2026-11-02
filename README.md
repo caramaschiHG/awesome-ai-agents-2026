@@ -97,6 +97,7 @@
 |-------|-------------|---------|
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
+| [Ponder](https://github.com/Quinnod345/ponder) | Multi-pass deliberation loop and coverage gate for coding agents. | Free (OSS) |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
 
