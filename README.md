@@ -291,6 +291,7 @@
 | [n8n](https://github.com/n8n-io/n8n) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
 | [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |
 | [Make](https://make.com) | Visual workflow platform. AI capabilities. | Free / Paid |
+| [DocAsker](https://docasker.com) | AI-verified client document collection & onboarding workflow agent. Validates uploaded PDFs/IDs in <3s and automates WhatsApp/Email reminders. | From $39/mo |
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
