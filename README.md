@@ -424,6 +424,7 @@
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
+| [AGNT](https://github.com/agnt-gg/agnt) | Local-first desktop agent platform for Windows, macOS and Linux. Agents, visual workflows and goals with any model, including Ollama and LM Studio. Local credential vault, MCP and plugins. Source-available; free Community Core. |
 
 ---
 
