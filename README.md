@@ -304,6 +304,7 @@
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual multi-agent and RAG builder. | Free / Cloud |
 | [Lindy](https://lindy.ai) | No-code agents. 3000+ integrations. | From $49/mo |
 | [Relevance AI](https://relevanceai.com) | No-code agents for sales, support, research. | Free / Paid |
+| [Descriptra](https://descriptra.com) | AI e-commerce catalog & GEO/SEO optimization agent — enriches product specs from the web and bulk-generates localized product descriptions, titles, and meta tags in 22 languages. | Free / Paid |
 | [Rivet](https://rivet.ironcladapp.com) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
 | [FastAgency](https://github.com/airtai/fastagency) | Deploy multi-agent workflows as APIs. | Free (OSS) |
 | [cstack](https://github.com/srf6413/cstack) | Architecture pattern for autonomous agents using Claude Cowork, Notion, and MCP. Persistent multi-domain agents with no custom infrastructure or code. | Free |
