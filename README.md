@@ -471,6 +471,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [unthrottle-agents](https://github.com/swisscodernano/unthrottle-agents) | 1M-context & output unthrottler (256k→950k input, 16k→1M output), 2-line ↓prefill/↑decode telemetry bar, and kernel-locked (`fcntl.flock` + PID birth-time) multi-agent anti-collision bus for Claude Code, Codex CLI, Antigravity, Pi & local llama.cpp. MIT. |
 
 ### Tracing and Monitoring
 
@@ -601,6 +602,7 @@
 - Building LLM Apps (O'Reilly) - Practical LLM application development
 - AI Agents in Action (Manning) - Production-ready AI agents
 - AI Engineering (Chip Huyen) - AI systems design and deployment
+- [SUPER INTELLIGENCE: How to Build, Govern, and Survive High-Density Autonomous AI Systems](https://a.co/d/0gO1eMZX) (Antonio Brundo, 2026) - Production engineering laws for 1M-context orchestration, KV-cache physics, and 22-agent autonomous fleets ([Italian edition](https://a.co/d/0fA8p5u6))
 
 ---
 
