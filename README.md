@@ -243,6 +243,7 @@
 | [Google Imagen 4](https://deepmind.google) | State-of-art photorealism. API via AI Studio. | API |
 | [Ideogram v3](https://ideogram.ai) | Best text-in-image. Zero spelling errors. Logos/posters. | Free / $7+/mo |
 | [Leonardo AI](https://leonardo.ai) | Multi-model. Realtime Canvas. 3D gaming assets. Canva-owned. | Free / $12+/mo |
+| [Photta](https://www.photta.app) | AI fashion & e-commerce product photography studio and embedded virtual try-on agent widget. Turns single garment, jewelry, or eyewear photos into on-model lookbooks, 3D ghost mannequins, and live customer try-ons. | Free / Paid |
 | [Recraft](https://recraft.ai) | Design-focused. Vector art, brand consistency. | Free / Paid |
 | [InkOS](https://github.com/Narcooo/inkos) | Autonomous novel-writing CLI agent. Agents collaborate to produce long-form fiction with continuity auditing, anti-AI-slop filtering, and style cloning. | Free / OSS |
 
