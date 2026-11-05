@@ -105,6 +105,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [Bolt.new](https://bolt.new) | Prompt to full-stack web app in browser. | Free / Paid |
+| [IdeaMade](https://ideamade.ai/) | Build and publish web apps from natural language, with editable product blueprints and version history. | Free / Paid |
 | [Lovable](https://lovable.dev) | Describe then build then deploy from chat. | Free / $20/mo |
 | [v0 (Vercel)](https://v0.dev) | Prompt to React/Tailwind components. | Free / Pro |
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
