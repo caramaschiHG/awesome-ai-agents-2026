@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Argus](https://github.com/gy15901580825/Argus) | Open-source red-team testing for AI agents. Selected probes use recorded browser requests, MCP tool calls, or mock payments, with SARIF output and a GitHub Action. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
