@@ -187,17 +187,17 @@
 
 | Tool | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
-| [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 | [Agent S2 (Simular)](https://github.com/simular-ai/Agent-S) | OSS GUI automation framework. |
-| [MultiOn](https://multion.ai) | Reliable web automation API. CAPTCHA handling. |
-| [Browserbase](https://browserbase.com) | Cloud browser infra for agents. Headless at scale. |
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
+| [Browser Use](https://github.com/browser-use/browser-use) | OSS browser agent library. Used by Manus. |
+| [Browserbase](https://browserbase.com) | Cloud browser infra for agents. Headless at scale. |
+| [Cloudbrowser](https://cloudbrowser.tv) | Persistent cloud Chrome for AI agents, with CDP access, full-desktop Live View, and profiles that can pause, resume, and fork from a paused browser. Free plan includes 1 browser-hour per month. |
+| [MultiOn](https://multion.ai) | Reliable web automation API. CAPTCHA handling. |
+| [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
 | [Plasmate](https://github.com/plasmate-labs/plasmate) | Headless browser compiling HTML to structured JSON (SOM). 17.5x compression, 13 MCP tools. First browser tool on MCP Registry. Rust, Apache-2.0. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
-| [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
-
+| [Skyvern](https://github.com/Skyvern-AI/skyvern) | Vision-driven. GPT-4V navigation without coded selectors. |
 ---
 
 ## 🎙 Voice Agents
