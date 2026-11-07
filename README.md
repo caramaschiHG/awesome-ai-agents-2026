@@ -524,6 +524,7 @@
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
 | [Lakera Guard](https://lakera.ai) | Real-time protection. Prompt injection, data leakage, toxicity. |
 | [OWASP Top 10 for Agentic Apps](https://owasp.org) | ⭐ **2026 Framework** Goal hijacking, tool misuse, cascading failure mitigations. |
+| [Zambo](https://zambo.dev) | Remote MCP server with 153 tools and cross-AI continuity that issues a verifiable AER-1 receipt for every job, so agent work can be audited against the record. | Freemium | ![Stars](https://img.shields.io/github/stars/zambodotdev/zambo-mcp?style=flat) |
 
 ---
 
