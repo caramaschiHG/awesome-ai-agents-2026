@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [KaijuConverter MCP](https://kaijuconverter.com/api/mcp) | Multi-format conversion MCP server & tools enabling AI agents to transform 100+ document, image, audio, and dataset formats. |
 
 ---
 
