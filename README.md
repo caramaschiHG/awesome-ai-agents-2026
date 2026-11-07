@@ -322,6 +322,7 @@
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [Fuma Digital](https://fuma2514.github.io/fuma-digital/) | Done-for-you AI chatbots for support & sales, plus smart-contract security audits and workflow automation. Crypto/PayPal accepted. | Per project / $40+ |
 
 ### AI-Powered CRMs
 
