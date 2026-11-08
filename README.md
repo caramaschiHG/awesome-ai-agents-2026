@@ -66,6 +66,7 @@
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
 | [Google Antigravity](https://idx.google.com) | Free Claude Opus 4.6 access. Learning-focused. | Free |
 | [Kiro](https://kiro.dev) | Spec-driven development. Write specs → auto-generate tasks → implement. DevOps automation. | Free beta |
+| [Exody](https://www.exody.ai) | Native macOS autonomous coding workbench, Design Studio (Web/3D/Film), per-step multi-model Smart Router (Claude, GPT, Gemini, Grok, Ollama), isolated Git worktrees & iPhone companion. | Free (BYOK, $0 markup) |
 
 ### Terminal and CLI Agents
 
