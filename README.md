@@ -379,7 +379,7 @@
 
 | Tool | Description |
 |------|-------------|
-| [Arcmira: YouTube Transcript Search](https://arcmira.com) | Transcript search API and MCP server returning timestamped YouTube passages for retrieval workflows. Free / paid plans; account required ([API docs](https://arcmira.com/docs)). |
+| [Arcmira: YouTube Transcript Search](https://arcmira.com) | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. Free / paid plans; account required ([API docs](https://arcmira.com/docs)). |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
 | [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
