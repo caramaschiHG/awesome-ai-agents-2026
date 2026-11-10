@@ -80,6 +80,7 @@
 | [Kilo Code](https://kilocode.ai) | Structured modes. Tighter context. | Free + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | BYOK terminal agent for Cursor refugees. | Free + API |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality. | Free + API |
+| [Mel – the agentic terminal](https://www.openmel.dev) | The agentic team for coding. Terminal for macOS, Windows and Linux with a team of AI coding agents. Configurable approvals. VS Code extension. | Free (own AI key) + Pro $20/mo |
 
 ### Autonomous Software Engineers
 
