@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [rational-agnostic](https://github.com/fagugon283/rational) | File-based governance and traceability layer for AI coding agents, exposing an MCP server and CLI to record decisions, track tasks, and anchor code to its rationale. Vendor-agnostic. `npx rational-agnostic mcp`. |
 
 ---
 
