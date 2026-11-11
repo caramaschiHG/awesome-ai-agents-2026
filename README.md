@@ -336,6 +336,7 @@
 | [ServiceNow AI Agents](https://servicenow.com) | Orchestrator across IT, HR, CRM. | Enterprise |
 | [Creatio](https://creatio.com) | No-code. Pre-configured agents. | From $25/user |
 | [Salesmate](https://salesmate.io) | Call summarization, lead qualification. | From $23/user |
+| [Genaya](https://genaya.com) | AI receptionist answers calls and books jobs. AI assistant acts across CRM, scheduling and invoicing. | Free trial / from $99/mo |
 
 ### Sales and Outreach Agents
 
