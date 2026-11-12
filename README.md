@@ -119,6 +119,7 @@
 
 | Framework | Lang | Description |
 |-----------|------|-------------|
+| [MeetJSON](https://github.com/ouzbhdr/meetjson) | Drop-in BaseURL proxy (`https://api.meetjson.com/v1`) & Edge MCP server (~0.04ms) reducing LLM context tokens by 60-99% via AST code skeletons, JSON pruning, and stream healing. |
 | [LangChain](https://github.com/langchain-ai/langchain) | Py/JS | Most adopted. Modular architecture, memory, tools. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Py/JS | Graph-based orchestration. Stateful directed graphs. |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Py/JS | Data-focused. Best for RAG agents. |
