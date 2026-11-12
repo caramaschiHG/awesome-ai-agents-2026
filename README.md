@@ -471,6 +471,7 @@
 | Tool | Description |
 |------|-------------|
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |
+| [mcp-slim](https://github.com/SalyyS1/mcp-slim) | Zero-dependency MCP stdio proxy and CLI profiler. Cuts MCP tool schema and output tokens by 50%-98.7% via BM25 on-demand discovery, JSON Schema `$ref` inlining, TOON tabular compaction, and real-time SecretGuard redaction. |
 
 ### Tracing and Monitoring
 
