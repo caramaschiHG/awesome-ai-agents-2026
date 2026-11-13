@@ -97,7 +97,9 @@ def heading_slug(title: str) -> str:
     for char in title:
         if char.isalnum() or char in "-_" or char.isspace():
             kept.append(char)
-    return re.sub(r"\s+", "-", "".join(kept))
+    # GitHub replaces each whitespace character with a hyphen (no collapsing),
+    # so "Lightweight / Minimalist" slugs to "lightweight--minimalist".
+    return re.sub(r"\s", "-", "".join(kept))
 
 
 def heading_anchors(text: str) -> set[str]:
