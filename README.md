@@ -423,6 +423,7 @@
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
 | [KinBot](https://github.com/MarlBurroW/kinbot) | Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Ollama), plugin store, mini-apps SDK, cron scheduling, 6 messaging channels. SQLite, runs on a Pi. |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one AI app. RAG, agents. Desktop + Docker. |
+| [Archon OS](https://github.com/michaelbeatman/ARCHON-OS) | Self-hosted multi-agent OS built on Hermes Agent. 70 specialist profiles (`SOUL.md`), 55-framework AI Boardroom, Kanban orchestration, Zero-Egress Ollama/LM Studio routing, Obsidian RAG, token budgets, SHA-256 audit logs. MIT. |
 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Data interaction with local LLM. 100% private. |
 
 ---
