@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Tesseract](https://tesseract.dev) | Free desktop agent (macOS, Windows, Linux) that works on your computer and hands back finished websites, decks and videos. Runs on your own Claude or ChatGPT plan. | Free / Credits |
 
 ### Developer Infrastructure
 
