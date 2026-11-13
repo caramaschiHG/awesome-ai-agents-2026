@@ -322,6 +322,7 @@
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [API-Supp](https://api-supp.com) | WhatsApp REST API and OAuth MCP for your existing number (unofficial QR bridge, not Meta's Cloud API). | Paid, $7.50/number/month |
 
 ### AI-Powered CRMs
 
