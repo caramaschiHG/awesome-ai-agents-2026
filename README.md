@@ -90,6 +90,7 @@
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |
+| [mcptask.online](https://mcptask.online/?language=en) | Task queue for people and AI developers. Runner on your own PC or Mac drives Claude Code, Codex CLI or OpenCode; every task ends as a pull request after tests and local CI. Closed source. | 30-day free trial |
 
 ### Code Review and Security
 
