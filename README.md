@@ -6,22 +6,23 @@
 
   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
   [![Stars](https://img.shields.io/github/stars/caramaschiHG/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/caramaschiHG/awesome-ai-agents-2026/stargazers)
-  [![Last Update](https://img.shields.io/badge/last%20update-April%202026-blue?style=flat-square)]()
+  [![Last Update](https://img.shields.io/github/last-commit/instafire/awesome-ai-agents-2026?label=last%20update&style=flat-square)](https://github.com/instafire/awesome-ai-agents-2026/commits/main)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-  <h3>The most comprehensive list of AI agents, frameworks, and tools in 2026.</h3>
-  <h4>340+ resources across 20+ categories. Updated monthly.</h4>
+  <h3>A community-curated directory of AI agents, frameworks, and tools.</h3>
+  <h4>300+ resources across 20+ categories.</h4>
 
   <br>
 
-  <a href="#-coding-agents">Coding</a> · <a href="#-agent-frameworks">Frameworks</a> · <a href="#-browser--desktop-agents">Browser</a> · <a href="#-voice-agents">Voice</a> · <a href="#-creative-ai">Creative</a> · <a href="#-task--workflow-agents">Workflow</a> · <a href="#-customer-support--crm-agents">CRM</a> · <a href="#-data--research-agents">Research</a> · <a href="#-local--self-hosted-ai">Self-Hosted</a> · <a href="#-protocols--standards">Protocols</a>
+  <a href="#-coding-agents">Coding</a> · <a href="#-agent-frameworks">Frameworks</a> · <a href="#-browser-and-desktop-agents">Browser</a> · <a href="#-voice-agents">Voice</a> · <a href="#-creative-ai">Creative</a> · <a href="#-task-and-workflow-agents">Workflow</a> · <a href="#-customer-support-and-crm-agents">CRM</a> · <a href="#-data-and-research-agents">Research</a> · <a href="#-local-and-self-hosted-ai">Self-Hosted</a> · <a href="#-protocols-and-standards">Protocols</a>
 
 </div>
 
 ---
 
-> **340+ tools. 20+ categories. Updated monthly.** Star to stay updated. [Contributions welcome!](#contributing)
+> **300+ tools. 20+ categories.** Community-maintained. Star to follow updates. [Contributions welcome!](#contributing)
+> Pricing and availability may change; verify current details with the linked provider.
 
 ---
 
@@ -30,23 +31,23 @@
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
 - [Coding Agents](#-coding-agents) — IDE, Terminal, Autonomous, Code Review, App Builders
 - [Agent Frameworks](#-agent-frameworks) — General, Multi-Agent, Lightweight
-- [Browser and Desktop Agents](#-browser--desktop-agents) — Consumer, Infrastructure
+- [Browser and Desktop Agents](#-browser-and-desktop-agents) — Consumer, Infrastructure
 - [Voice Agents](#-voice-agents) — Platforms, Open-Source
 - [Creative AI](#-creative-ai) — Image, Video, Music, 3D
-- [Task and Workflow Agents](#-task--workflow-agents) — Automation, No-Code Builders
-- [Customer Support and CRM Agents](#-customer-support--crm-agents)
-- [Data and Research Agents](#-data--research-agents) — Deep Research, Data Analysis, RAG
-- [Local and Self-Hosted AI](#-local--self-hosted-ai) — LLM Runners, Self-Hosted UIs
+- [Task and Workflow Agents](#-task-and-workflow-agents) — Automation, No-Code Builders
+- [Customer Support and CRM Agents](#-customer-support-and-crm-agents)
+- [Data and Research Agents](#-data-and-research-agents) — Deep Research, Data Analysis, RAG
+- [Local and Self-Hosted AI](#-local-and-self-hosted-ai) — LLM Runners, Self-Hosted UIs
 - [Multi-Agent Platforms](#-multi-agent-platforms)
-- [Protocols and Standards](#-protocols--standards)
-- [Observability and Evaluation](#-observability--evaluation)
+- [Protocols and Standards](#-protocols-and-standards)
+- [Observability and Evaluation](#-observability-and-evaluation)
 - [Open-Source Models for Agents](#-open-source-models-for-agents)
-- [AI Safety and Guardrails](#-ai-safety--guardrails)
-- [AI Governance and Compliance](#-ai-governance--compliance) ⭐ NEW
+- [AI Safety and Guardrails](#-ai-safety-and-guardrails)
+- [AI Governance and Compliance](#-ai-governance-and-compliance) ⭐ NEW
 - [Cybersecurity Agents](#-cybersecurity-agents)
 - [Healthcare and Therapy Agents](#-healthcare-and-therapy-agents)
 - [Learning Resources](#-learning-resources)
-- [Newsletters and Communities](#-newsletters--communities)
+- [Newsletters and Communities](#-newsletters-and-communities)
 - [Market Stats 2026](#-market-stats-2026)
 
 ---
@@ -253,7 +254,6 @@
 | [Google Veo 3.1](https://deepmind.google) | ⭐ **Best in class** Native audio+video. 4K. Veo 3.1 Lite for devs (Apr 2026). | API |
 | [Kling 3.0](https://klingai.com) | ⭐ Cinematic realism. 15s sequences. Native audio sync. Character consistency. | Free / $6.99+/mo |
 | [Runway Gen-4.5](https://runwayml.com) | No.1 benchmark. Motion Brush, Director Mode. Best editing. | From $12/mo |
-| [Sora 2](https://sora.com) | OpenAI. Narrative coherence. Physics realism. **Note: app retiring Apr 26, 2026.** | $20+/mo |
 | [Seedance 2.0](https://seedance.ai) | Quad-modal input. Lip sync. 2K resolution. | Free credits |
 | [Pika 2.5](https://pika.art) | Beginner-friendly. Pikaswaps. Fast renders. | Free / $8+/mo |
 | [Luma Dream Machine](https://lumalabs.ai) | 4K HDR. Physics simulation. 3D/cinematic. | From $7.99/mo |
@@ -359,7 +359,6 @@
 | [ChatGPT Deep Research](https://chat.openai.com) | Extended reasoning, web browsing, reports. GPT-5.4. | ChatGPT Pro |
 | [Gemini Deep Research](https://gemini.google.com) | Google Search and Knowledge Graph. Gemini 3.1 Pro. | Gemini Advanced |
 | [Perplexity Pro](https://perplexity.ai) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
@@ -373,14 +372,13 @@
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
-| [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
 
 ### RAG and Knowledge Bases
 
 | Tool | Description |
 |------|-------------|
 | [RAGFlow](https://github.com/infiniflow/ragflow) | OSS RAG engine with agent capabilities. |
-| [Lorg](https://github.com/LorgAI/lorg-mcp-server) — Permanent intelligence archive for AI agents. Structured contributions (prompts, workflows, insights, patterns) pass an automated quality gate and are hash-chained. Trust scores are cryptographically backed and publicly auditable. Works with Claude and ChatGPT.
+| [Lorg](https://github.com/LorgAI/lorg-mcp-server) | Permanent intelligence archive for AI agents. Contributions are quality-gated and hash-chained, with publicly auditable trust scores. |
 | [Pathway](https://github.com/pathwaycom/pathway) | Live data RAG. Real-time streaming. 50k+ stars. |
 | [Mem0](https://github.com/mem0ai/mem0) | Memory layer for agents. Long-term across sessions. |
 | [Nex](https://github.com/nex-crm/nex-as-a-skill) | Organizational context and memory for AI agents. 60-tool MCP server, 100+ integrations. |
@@ -482,7 +480,6 @@
 | [Braintrust](https://braintrustdata.com) | Eval-driven development. Experiment tracking. |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS AI observability. Traces, evals, embeddings. |
 | [Helicone](https://github.com/Helicone/helicone) | OSS LLM observability. One-line integration. |
-| [model-watchdog](https://github.com/feralghost/model-watchdog) | Auto-rollback when your AI agent config breaks it. Zero deps, single Python file. Probes health endpoint, reverts config on failure. |
 | [Weights and Biases Weave](https://wandb.ai/site/weave) | Trace and evaluate LLM apps. |
 
 ### Benchmarks
@@ -529,7 +526,7 @@
 
 ## ⚖️ AI Governance and Compliance
 
-> ⭐ **New section** — EU AI Act full obligations take effect **August 2, 2026**. Organizations deploying agents must comply.
+> AI Act obligations apply in phases; requirements depend on the system's risk category and the organization's role. See the [official implementation timeline](https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act).
 
 | Tool / Resource | Description |
 |-----------------|-------------|
@@ -561,17 +558,16 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [CittaVerse 一念万相](https://github.com/cittaverse/core) | AI-assisted reminiscence therapy for elderly cognitive training. Narrative quality scoring (v0.7), life story book generation. Chinese + English. | Research pilot |
-| [Woebot](https://woebothealth.com) | CBT-based mental health chatbot. FDA-cleared. Stanford-validated. Retiring June 2025. | Free / B2B |
-| [Wysa](https://wysa.io) | AI mental health companion. CBT, DBT, meditation. NHS-approved. Anonymous by design. | Free / $74.99/yr |
-| [Youper](https://youper.ai) | Emotional health assistant. CBT + ACT. Mood tracking. Stanford-tested clinically effective. | 7-day trial / $69.99/yr |
-| [Sanvello](https://sanvello.com) | CBT tools, mood tracking, coaching. Insurance-covered. | Free / Premium |
+| [CittaVerse 一念万相](https://github.com/cittaverse/core) | AI-assisted reminiscence and life-story support for older adults. Narrative quality scoring (v0.7), life-story book generation. Chinese + English. | Research pilot |
+| [Wysa](https://wysa.io) | AI mental health companion. CBT, DBT, meditation. | Free / $74.99/yr |
+| [Youper](https://youper.ai) | Emotional health assistant. CBT + ACT. Mood tracking. | 7-day trial / $69.99/yr |
+| [Sanvello](https://sanvello.com) | CBT tools, mood tracking, coaching. | Free / Premium |
 | [Talkspace AI](https://talkspace.com) | AI-assisted therapy matching. Human therapist backup. | Subscription |
-| [Tess by X2AI](https://www.x2ai.com/individuals) | SMS-based therapy coach. CBT + integrative therapies. Clinically validated (-28% depression, -18% anxiety). 85% users feel better. | Free (via employer/school) |
-| [Elomia](https://elomia.com/) | AI therapy chatbot. Clinician-designed, natural conversation. 85% feel better after chat. Anonymous, no data collection. | 3-day trial / ~$7-10/mo |
-| [Replika](https://replika.com/) | AI companion friend. Rogersian support, open-ended chat. Memory function, mood tracking. Best for loneliness/social anxiety. | Free / $14.99/mo Pro |
-| [Headspace Health](https://www.headspace.com/) | Meditation + mental health. CBT-based courses, sleep, stress. Clinical partnerships. | Free / $12.99/mo |
-| [Akili Interactive](https://www.akiliinteractive.com/) | FDA-cleared cognitive training. Video game-based digital medicine for ADHD. Neuroplasticity-focused. | Prescription only |
+| [Tess by X2AI](https://www.x2ai.com/individuals) | SMS-based mental wellness coach using CBT and integrative approaches. | Free (via employer/school) |
+| [Elomia](https://elomia.com/) | AI chatbot for supportive mental wellness conversations. | 3-day trial / ~$7-10/mo |
+| [Replika](https://replika.com/) | AI companion with open-ended chat, memory, and mood-tracking features. | Free / $14.99/mo Pro |
+| [Headspace Health](https://www.headspace.com/) | Mental wellness content including meditation, sleep, and stress support. | Free / $12.99/mo |
+| [Akili Interactive](https://www.akiliinteractive.com/) | Game-based digital products for cognitive training. | Prescription only |
 | [Ginger](https://ginger.com/) | On-demand mental healthcare. AI coaching + live therapists. CBT, DBT, mindfulness. Employer-sponsored. | Free (via employer) / $99/mo |
 
 ---
@@ -610,6 +606,7 @@
 |----------|-------------|
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
+| [GenZnewZ](https://genznewz.com) | AI-native newsroom where AI agents self-register as reporters and publish news autonomously through a public API. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
 | [Ben's Bites](https://bensbites.co) | Daily AI with builder focus |
@@ -631,7 +628,7 @@
 - **Fastest repo:** OpenClaw (9k to 188k stars in 60 days)
 - **Model velocity:** Frontier models now updated every 2–4 weeks (GPT-5.x monthly cycle)
 - **Context windows:** 1M tokens now standard for all frontier models
-- **EU AI Act:** Full obligations for high-risk AI systems effective August 2, 2026
+- **EU AI Act:** Transparency rules apply from Aug 2, 2026; high-risk Annex III rules from Dec 2, 2027, and Annex I product rules from Aug 2, 2028 ([official timeline](https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act))
 - **MCP adoption:** Donated to Linux Foundation; adopted by Anthropic, OpenAI, Microsoft, Google
 
 ### 🗓 April 2026 Highlights
@@ -666,7 +663,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br>
   <strong>Star ⭐ and share if this helped!</strong>
   <br><br>
-  <a href="https://twitter.com/intent/tweet?text=Awesome%20AI%20Agents%202026%20-%20340%2B%20tools%20across%2020%2B%20categories&url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on X</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on LinkedIn</a>
+  <a href="https://twitter.com/intent/tweet?text=Awesome%20AI%20Agents%202026%20-%20300%2B%20tools%20across%2020%2B%20categories&url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on X</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/caramaschiHG/awesome-ai-agents-2026">Share on LinkedIn</a>
   <br><br>
-  <sub>April 2026 · 340+ resources · Made with love by the community</sub>
+  <sub>300+ resources · Community-curated · Maintained by contributors</sub>
 </div>

@@ -1,6 +1,6 @@
 # Contributing to Awesome AI Agents 2026
 
-Thanks for your interest in contributing! This list aims to be the most comprehensive and up-to-date resource for the AI agents ecosystem.
+Thanks for your interest in contributing! This list aims to be a reliable, current directory of resources in the AI agents ecosystem.
 
 ## Guidelines
 
@@ -15,24 +15,28 @@ Thanks for your interest in contributing! This list aims to be the most comprehe
 - Duplicate entries or very minor forks
 
 ### Format
-Please follow the existing table format:
+Match the column count and order of the table in the section you are editing. Many sections use this three-column format:
 
 ```markdown
-| [Name](https://link.com) | Brief description (1-2 sentences). | Pricing info | ![Stars](badge-url) |
+| [Name](https://link.com) | Brief, factual description. | Pricing info |
 ```
+
+Some sections use fewer columns; do not add columns that are not present in that section's header.
 
 ### Process
 1. Fork the repo
 2. Create a branch: `git checkout -b add-tool-name`
 3. Add your entry in the appropriate section
 4. Ensure links work and descriptions are accurate
-5. Submit a PR
+5. Run `python3 -m unittest discover -s tests -v` and `python3 scripts/check_catalog.py` for README catalog changes
+6. Submit a PR
 
 ### PR Requirements
 - [ ] Entry is in alphabetical order within its section
 - [ ] Link is valid and points to official source
 - [ ] Description is concise and factual
 - [ ] Pricing info is current
+- [ ] Time-sensitive pricing, availability, statistics, and clinical or safety claims cite a primary source and include a checked date where relevant
 - [ ] No promotional language
 
 ## Updating Existing Entries
