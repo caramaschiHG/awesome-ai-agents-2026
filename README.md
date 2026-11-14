@@ -519,6 +519,7 @@
 | Tool | Description |
 |------|-------------|
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
+| [HOL Guard](https://hol.org/guard) | Open-source checks for supported coding-agent actions, including shell commands, file access, package installs, and MCP calls, with policy-based block or approval decisions. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection. |
