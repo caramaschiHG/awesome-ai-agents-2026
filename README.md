@@ -355,6 +355,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
+| [AutoResearch](https://autoresearch.me/en/) | Hosted research system from a research direction to an evidence-backed paper: connects literature exploration, testable ideas, model implementation, GPU experiments and manuscript drafting. Private beta; access requires administrator approval. | Private beta |
 | [Claude Deep Research](https://claude.ai) | Multi-step investigation with citations. Sonnet 5 / Opus 4.6. | Claude Pro |
 | [ChatGPT Deep Research](https://chat.openai.com) | Extended reasoning, web browsing, reports. GPT-5.4. | ChatGPT Pro |
 | [Gemini Deep Research](https://gemini.google.com) | Google Search and Knowledge Graph. Gemini 3.1 Pro. | Gemini Advanced |
