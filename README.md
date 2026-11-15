@@ -271,6 +271,7 @@
 | [ElevenLabs Music](https://elevenlabs.io) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
 | [Stable Audio](https://stableaudio.com) | High-quality. Commercial license. | Free / Paid |
 | [Meta AudioCraft](https://github.com/facebookresearch/audiocraft) | OSS. MusicGen + AudioGen. | Free (OSS) |
+| [No Stairs Please](https://nostairsplease.com/) | Live-music venue directory and remote MCP server (https://nostairsplease.com/mcp) for small stages across all 50 states. | Free |
 
 ### 3D and Design
 
