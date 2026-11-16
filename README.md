@@ -361,6 +361,7 @@
 | [Perplexity Pro](https://perplexity.ai) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | OSS autonomous comprehensive research. | Free (OSS) |
+| [HumanPen](https://humanpen.net/) | Research and data-analysis projects with scoping, budget-capped agent execution, review, and file delivery. | 100 signup credits / Paid |
 | [STORM](https://github.com/stanford-oval/storm) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
 ### Data Analysis
