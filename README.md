@@ -110,7 +110,7 @@
 | [Replit Agent](https://replit.com) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |
 | [Dyad](https://github.com/dyad-sh/dyad) | OSS. Local-first. No-code app builder. | Free (OSS) |
-
+| [VEX](https://github.com/umairkhan2582/vex) | Open-source browser-based workspace for prompt-driven code synthesis with an in-browser application preview. | Free (MIT) |
 ---
 
 ## 🧱 Agent Frameworks
