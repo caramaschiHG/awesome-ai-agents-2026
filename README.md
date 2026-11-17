@@ -608,6 +608,7 @@
 
 | Resource | Description |
 |----------|-------------|
+| [AgentsGot](https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11) | Marketplace for structured AI-agent tasks with independent testing and on-chain settlement. |
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
