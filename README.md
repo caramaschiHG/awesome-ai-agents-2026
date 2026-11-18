@@ -433,6 +433,7 @@
 |----------|-------------|---------|
 | [ChatGPT](https://chat.openai.com) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5.4 (monthly updates). | Free / $20+/mo |
 | [Claude](https://claude.ai) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. Claude Sonnet 5 / Opus 4.6. | Free / $20+/mo |
+| [Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) | Free, open-source autonomous AI agency that runs on your own computer. Available on Mac, Windows and Linux. | Free (OSS) |
 | [Gemini](https://gemini.google.com) | Deep Think, Gems, multi-modal. Gemini 3.1 Pro. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
 | [Grok](https://x.ai) | Real-time X data. Grok 4.20. Multi-agent Society of Mind. Image gen. | X Premium+ |
 | [Meta AI](https://meta.ai) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
