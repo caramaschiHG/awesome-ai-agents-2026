@@ -322,6 +322,7 @@
 | [Assembled](https://assembled.com) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
 | [Freshdesk Freddy AI](https://freshworks.com) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
 | [Dixa (Mim)](https://dixa.com) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [Peeve](https://peeve.ai) | In-app support agent for SaaS. Answers from docs, shows the steps in the product UI, hands off with full context. | From $40/mo (credits) |
 
 ### AI-Powered CRMs
 
