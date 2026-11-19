@@ -416,6 +416,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [AgentTime](https://github.com/ccclucky/agent-time) | Local-first time ledger for AI coding agents (Claude Code, Codex, OpenCode, Pi, Antigravity) that separates pure work, review wait, idle gaps, and standby down to tool calls. Zero telemetry. |
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted ChatGPT UI. Access control. Extensions. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. | 
 | [openclaw-starter](https://github.com/feralghost/openclaw-starter) | Fork-and-run template for 24/7 autonomous AI agents. Pre-configured SOUL.md, memory system, KANBAN, heartbeat. Start in 30 minutes. |
