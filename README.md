@@ -129,6 +129,7 @@
 | [Mastra](https://github.com/mastra-ai/mastra) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
 | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 | [Google ADK](https://github.com/google/adk-python) | Py | ⭐ Google's Agent Development Kit. Native Gemini. Multi-agent orchestration. |
+| [Ailoy](https://github.com/brekkylab/ailoy) | Py/JS/Rust | Agent SDK that gives every agent its own Linux microVM sandbox. Apache 2.0. |
 
 ### Multi-Agent Orchestration
 
