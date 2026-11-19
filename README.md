@@ -182,6 +182,8 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Zortex](https://zortex.me/en/install) | Connects AI agents to local folders and other tools. | See site |
+
 
 ### Developer Infrastructure
 
