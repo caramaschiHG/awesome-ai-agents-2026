@@ -277,6 +277,7 @@
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
+| [three.ws](https://github.com/nirholas/three.ws) | OSS (Apache 2.0). Text/photo to rigged, animated GLB avatars. LLM brain and memory, embeddable with a web component. | Free (OSS) / Paid hosted |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
 
