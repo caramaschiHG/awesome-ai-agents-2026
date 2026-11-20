@@ -492,6 +492,7 @@
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Industry standard for coding agents. Top: 80.9% (Claude Opus 4.6). |
 | [AgentBench](https://github.com/THUDM/AgentBench) | 8-environment LLM agent benchmark. |
 | [Terminal-Bench](https://terminalbench.com) | Terminal agent performance. GPT-5.4 leads at 77.3%. |
+| [TraceTrial-Bench](https://github.com/TraceLite-AI/TraceTrial-Bench) | 95-task benchmark separating AI agent harness reliability from model capability across 7 dimensions ([arXiv:2610.32285](https://arxiv.org/abs/2610.32285)). |
 | [ARC-AGI-2](https://arcprize.org) | ⭐ New frontier benchmark. Gemini 3.1 Pro leads. |
 | [GAIA](https://huggingface.co/gaia-benchmark) | General AI Assistant. Real-world tasks. |
 | [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark. Real websites. |
