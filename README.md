@@ -390,7 +390,7 @@
 | [Milvus](https://github.com/milvus-io/milvus) | Cloud-native vector DB. Billion-scale. |
 | [Pinecone](https://pinecone.io) | Managed vector DB. Serverless. Low-latency. |
 | [iGPT](https://igpt.ai) | Email Intelligence API. Converts email threads into reasoning-ready JSON for agents. |
-| [FlashData](https://flashdata.dev/) | Real-time Google Search SERP, YouTube Data & timestamped transcripts, and cloud-storage YouTube video download API, CLI, and hosted MCP (`https://data.flashdata.dev/mcp`). Free trial credit (no credit card); pay-as-you-go from $1/1k searches. |
+| [FlashData](https://flashdata.dev/) | Real-time Google Search SERP, YouTube Data & timestamped transcripts, and cloud-storage YouTube video download API, CLI, and hosted MCP (`https://data.flashdata.dev/mcp`). Free trial (no credit card required); $0/mo pay-as-you-go ($1.00/1k Google searches, $0.50/1k YouTube Data, $0.10/GB download; optional plans from $49/mo). |
 
 ---
 
