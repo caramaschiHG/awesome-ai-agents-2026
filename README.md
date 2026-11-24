@@ -518,6 +518,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Excellent for Mac](https://www.excellent.so/) | Review local coding-agent activity in a macOS app, with optional action protection for supported agents. Free manual scans; US Pro $6/month or $60/year. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Structural, type, quality guarantees for LLM outputs. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA. Programmable conversation guardrails. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit. Input/output scanning. |
