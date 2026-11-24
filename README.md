@@ -226,6 +226,7 @@
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI. Self-hosted. NLU training. |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | OSS voice and multimodal conversational AI. |
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |
+| [EchoOS](https://github.com/justDance-everybody/EchoOS) | MIT (<1k LOC Python) voice-native action runtime connecting Qwen-Omni / OpenAI Realtime to remote Streamable HTTP MCP with server-enforced spoken confirmation and ~1s barge-in. |
 
 ---
 
