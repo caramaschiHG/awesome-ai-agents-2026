@@ -418,6 +418,7 @@
 |------|-------------|
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted ChatGPT UI. Access control. Extensions. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. | 
+| [Figaro](https://www.myfigaro.ai) | Business operator built on OpenClaw, on a box you own: email, calendar, CRM, social and code from Telegram. Sending, paying and publishing wait for approval by default. |
 | [openclaw-starter](https://github.com/feralghost/openclaw-starter) | Fork-and-run template for 24/7 autonomous AI agents. Pre-configured SOUL.md, memory system, KANBAN, heartbeat. Start in 30 minutes. |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hosted multi-model chat. All major providers. |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
