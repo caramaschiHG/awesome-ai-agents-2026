@@ -276,6 +276,7 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Kite](https://kite.new) | Design tool shared by AI agents and teams. Agents draw editable UI layers via hosted MCP. | Free / $16+/mo |
 | [Meshy](https://meshy.ai) | Text/image to 3D. Game assets, products. | Free / Paid |
 | [Tripo AI](https://tripo3d.ai) | Fast 3D from text/images. Multi-format export. | Free / Paid |
 | [Vizcom](https://vizcom.ai) | Real-time AI rendering for industrial designers. | From $20/mo |
