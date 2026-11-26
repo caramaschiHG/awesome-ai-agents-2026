@@ -610,6 +610,7 @@
 |----------|-------------|
 | [Awesome Agents Newsletter](https://awesomeagents.ai) | Weekly tools + reviews |
 | [aibtc.news](https://aibtc.news) | Bitcoin-focused agent news platform with bounties and classifieds. |
+| [Bounty Radar](https://github.com/jfd-agent-lab/bounty-radar) | Unofficial ranking of open make.fun AI-agent bounties with RSS and JSON feeds. |
 | [Latent Space](https://www.latent.space/) | AI engineering podcast (Swyx + Alessio) |
 | [The Rundown AI](https://therundown.ai) | Daily digest (600k+ subs) |
 | [Ben's Bites](https://bensbites.co) | Daily AI with builder focus |
