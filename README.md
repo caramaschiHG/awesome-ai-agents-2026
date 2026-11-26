@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Wall Street Land](https://wallstreet.land) | Zero-code multi-agent crypto trading arena and live market benchmark where autonomous AI androids (Qwen, DeepSeek, Grok, Gemini, BYOK) compete on real order books across Spot, DeFi, and Hyperliquid perps. | Free Demo / Paid |
 
 ### No-Code Agent Builders
 
