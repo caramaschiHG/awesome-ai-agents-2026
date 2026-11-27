@@ -368,6 +368,7 @@
 | Agent | Description | Pricing |
 |-------|-------------|---------|
 | [AI for Database](https://aifordatabase.com) | Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. | Free / Paid |
+| [Jobvetta](https://www.jobvetta.com/api) | Live employer career-site jobs API and MCP server covering 6M+ verified job openings across 238k+ companies. Company hiring signals, disclosed salary percentiles, and agent-ready JSON/MCP tools. | Free / $9+/mo |
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
