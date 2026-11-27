@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | Skill and CLI that makes coding agents check formal properties and get a second-model review before work can be called done. | Free (OSS) |
 
 ### App Builders (Prompt-to-App)
 
