@@ -374,6 +374,7 @@
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
+| [Frank AI Researcher](https://www.hifrank.ai/?utm_source=awesome-ai-agents-2026&utm_medium=directory&utm_campaign=chatgpt-app) | AI-moderated voice interviews with your own customers in 50+ languages, turned into transcripts and themes. Available as an app in ChatGPT, plus an MCP server for Claude, Grok and Muse. | Free / $49+/mo |
 
 ### RAG and Knowledge Bases
 
