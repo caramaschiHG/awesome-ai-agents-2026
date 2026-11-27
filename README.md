@@ -294,6 +294,7 @@
 | [Activepieces](https://github.com/activepieces/activepieces) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Durable execution for long-running agent workflows. | Free / Cloud |
 | [Mission Control](https://github.com/MeisnerDan/mission-control) | Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, and approval workflows. | Free (OSS) |
+| [Avintra](https://github.com/aventisia/avintra) | Build, run and govern AI agents in enterprise workflows (finance, tax, HR, IT, operations). Self-hostable from source. Source-available license (Apache 2.0 + conditions). | Free (self-host) / Commercial |
 
 ### No-Code Agent Builders
 
