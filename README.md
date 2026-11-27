@@ -371,6 +371,7 @@
 | [Julius AI](https://julius.ai) | Upload CSV/Excel, ask in natural language. | Free / Paid |
 | [Hex AI](https://hex.tech) | Collaborative data platform. AI analysis. | Free / Paid |
 | [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
+| [PulseCrowd](https://github.com/SamuelCoreLabs/pulse-crowd) | Adaptive multi-round virtual crowd and in-app UX funnel simulator (1,000–25,000+ personas, zero-dep Python stdlib) for dropshipping, e-commerce, apps & SaaS launches. | Free (OSS) |
 | [Signals CLI](https://github.com/sortlist/signals-cli) | Intent signal CLI. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. | Paid |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 | [AI for Database](https://aifordatabase.com) | Connect to any database in plain English. NL queries, self-refreshing dashboards, automated workflows triggered by data changes. | Freemium |
