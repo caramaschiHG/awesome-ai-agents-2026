@@ -182,6 +182,7 @@
 | [Fellou](https://fellou.ai) | Transparent. Visual workflow editing. Agentic memory. | Beta |
 | [Genspark](https://genspark.ai) | 169+ on-device models. No internet required. | Free / Paid |
 | [Grok Computer](https://x.ai) | ⭐ **Upcoming** xAI desktop agent. Mouse control, app automation. | TBA |
+| [Saturday](https://saturday.mershlab.com) | Desktop agent for Windows, macOS and Linux from MershLab. Background computer use in installed apps, approval gates, hash-chained audit log. Any model: subscription, 19 providers or local. Free beta, bring your own model. | Free beta (BYOK) |
 
 ### Developer Infrastructure
 
