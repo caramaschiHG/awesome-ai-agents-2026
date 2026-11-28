@@ -95,7 +95,7 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) | 159 SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 tools | Streamable HTTP (`https://mcp.insom.ai/mcp`) & `npx`/`uvx` |
+| [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) | 159 SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 tools | Streamable HTTP (`https://mcp.insom.ai/mcp`) & `npx`/`uvx` |
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
